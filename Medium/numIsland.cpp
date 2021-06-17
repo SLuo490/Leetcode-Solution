@@ -38,18 +38,19 @@ public:
                 //if the grid i,j is '1', then do dfs and increment island
                 if (grid[i][j] == '1')
                 {
-                    num_island+=dfs(grid, i, j);
+                    num_island++;
+                    dfs(grid, i, j);
                 }
             }
         }
         return num_island;
     }
-    int dfs (vector<vector<char>>&grid, int i, int j)
+    void dfs (vector<vector<char>>&grid, int i, int j)
     {
         //edge case: out of bound or grid is water '0'
         if (i < 0 || i >= grid.size() || j < 0 || j >= grid[i].size() || grid[i][j] == '0')
         {
-            return 0;
+            return;
         }
         
         //set grid to water if it is land
@@ -59,7 +60,6 @@ public:
         dfs(grid,i+1,j); //down
         dfs(grid,i,j-1); //left
         dfs(grid,i,j+1); //right
-        //return 1 once it looked searched all direction and is surrounded by water
-        return 1;
+
     }
 };

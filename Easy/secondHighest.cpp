@@ -55,7 +55,7 @@ public:
                     secondMax = max;
                     max = nums;
                 } else if (nums < max && nums > secondMax) {
-                    secondMax = max;
+                    secondMax = nums;
                 }
             }
         }

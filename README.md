@@ -1,5 +1,6 @@
 # Leetcode-Solution
-# Leetcode - Solution
+
+#Problems
 | # | Title | Difficulty |  | # | Title | Difficulty |
 |---|-------|------------|--|---|-------|------------|
 |#1 | [Two Sum](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/twosum.cpp) | Easy | | #7 | [Reverse Integer](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/reverserInt.cpp) | Easy |

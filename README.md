@@ -55,7 +55,8 @@
 #1796, [Second Largest Digit in a String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/secondHighest.cpp)  
 #1876, [Substrings of Size Three with Distinct Characters](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/countGoodSubstrings.cpp)  
 
-
+# Union Find
+#200, [Number of Islands](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/numIsland.cpp)  
 
 
 

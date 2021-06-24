@@ -21,7 +21,8 @@
 |#150| [Evaluate Reverse Polish Notation](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/evalRPN.cpp) | Medium | | #200 | [Number of Islands](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/numIsland.cpp) | Medium |
 |#209| [Minimum Size Subarray Sum](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/MinimizeMaxPairSum.cpp) | Medium | | #215| [Kth Largest Element in an Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/KthLargestElement.cpp) | Medium |
 |#1315| [Sum of Nodes with Even-Valued Grandparent](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/sumNodeWithEvenGP.cpp)| Medium| |#1870| [Minimum Speed to Arrive on Time](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/minSpeedOnTime.cpp) | Medium |
-|#1877| [Minimize Maximum Pair Sum in Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/MinimizeMaxPairSum.cpp) | Medium | |#788| [Swim in Rising Water](https://github.com/SLuo490/Leetcode-Solution/blob/main/_Hard/swinInWater.cpp) | Hard | | #1469| [Find all Lonely Node](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/lonelyNode.cpp)|Easy| 
+|#1877| [Minimize Maximum Pair Sum in Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/MinimizeMaxPairSum.cpp) | Medium | |#788| [Swim in Rising Water](https://github.com/SLuo490/Leetcode-Solution/blob/main/_Hard/swinInWater.cpp) | Hard | | #1469| [Find all Lonely Node](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/lonelyNode.cpp)|Easy|
+|#1469| [Find all Lonely Node](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/lonelyNode.cpp) |Easy|
 
 # Array
 #1, [Two Sum](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/twosum.cpp)  

@@ -15,20 +15,26 @@ Output: 1
 */
 
 
-
-//Student ID: 23716440
 //Time Complexity: O(nlogn)
 //Space Complexity: O(1)
 class Solution {
 public:
     int hIndex(vector<int>& citations) {
         int ans = 0;
+        //[3,0,6,1,5]
         sort(citations.begin(), citations.end(), greater<int>());
+        //[6,5,3,1,0]
         for (int i = 0; i < citations.size(); i++) {
             if (citations[i] > i) {
                 ans++;
             }
+            /*
+            6 > 0 -> ans = 1
+            5 > 1 -> ans = 2
+            3 > 2 -> ans = 3
+            */
         }
+        //3
         return ans;
     }
 };

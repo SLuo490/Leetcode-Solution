@@ -48,8 +48,8 @@
 #1295, [Find Numbers with Even Number of Digits](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/FindEvenDigit.cpp)  
 #1886, [Determine Whether Matrix Can Be Obtained By Rotation](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/determineMatrixRotation.cpp).     
 #778, [Swim in Rising Water](https://github.com/SLuo490/Leetcode-Solution/blob/main/_Hard/swinInWater.cpp)  
-#1893, [Check if All the Integers in a Range Are Covered](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/isCover.cpp). 
-#274, [H-Index](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/hIndex.cpp). 
+#1893, [Check if All the Integers in a Range Are Covered](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/isCover.cpp)   
+#274, [H-Index](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/hIndex.cpp)  
 
 # String
 #20, [Valid Parentheses](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/ValidParentheses.cpp)  

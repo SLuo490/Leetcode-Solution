@@ -23,6 +23,7 @@
 |#1315| [Sum of Nodes with Even-Valued Grandparent](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/sumNodeWithEvenGP.cpp)| Medium| |#1870| [Minimum Speed to Arrive on Time](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/minSpeedOnTime.cpp) | Medium |
 |#1877| [Minimize Maximum Pair Sum in Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/MinimizeMaxPairSum.cpp) | Medium | |#788| [Swim in Rising Water](https://github.com/SLuo490/Leetcode-Solution/blob/main/_Hard/swinInWater.cpp) | Hard | | #1469| [Find all Lonely Node](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/lonelyNode.cpp)|Easy|
 |#1469| [Find all Lonely Node](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/lonelyNode.cpp) |Easy| |#1893| [Check if All the Integers in a Range Are Covered](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/isCover.cpp)| Easy|
+|#274| [H-Index](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/hIndex.cpp)| Medium| |
 
 
 # Array
@@ -45,9 +46,10 @@
 #215, [Kth Largest Element in an Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/KthLargestElement.cpp)  
 #977, [Squares of a Sorted Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/SquaresSortedArray.cpp)  
 #1295, [Find Numbers with Even Number of Digits](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/FindEvenDigit.cpp)  
-#1886, [Determine Whether Matrix Can Be Obtained By Rotation](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/determineMatrixRotation.cpp)  
+#1886, [Determine Whether Matrix Can Be Obtained By Rotation](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/determineMatrixRotation.cpp).     
 #778, [Swim in Rising Water](https://github.com/SLuo490/Leetcode-Solution/blob/main/_Hard/swinInWater.cpp)  
-#1893, [Check if All the Integers in a Range Are Covered](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/isCover.cpp)
+#1893, [Check if All the Integers in a Range Are Covered](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/isCover.cpp). 
+#274, [H-Index](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/hIndex.cpp). 
 
 # String
 #20, [Valid Parentheses](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/ValidParentheses.cpp)  

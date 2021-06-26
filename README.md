@@ -23,7 +23,8 @@
 |#1315| [Sum of Nodes with Even-Valued Grandparent](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/sumNodeWithEvenGP.cpp)| Medium| |#1870| [Minimum Speed to Arrive on Time](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/minSpeedOnTime.cpp) | Medium |
 |#1877| [Minimize Maximum Pair Sum in Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/MinimizeMaxPairSum.cpp) | Medium | |#788| [Swim in Rising Water](https://github.com/SLuo490/Leetcode-Solution/blob/main/_Hard/swinInWater.cpp) | Hard | | #1469| [Find all Lonely Node](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/lonelyNode.cpp)|Easy|
 |#1469| [Find all Lonely Node](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/lonelyNode.cpp) |Easy| |#1893| [Check if All the Integers in a Range Are Covered](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/isCover.cpp)| Easy|
-|#274| [H-Index](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/hIndex.cpp)| Medium| |#959| [Regions Cut By Slashes](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/regionBySlices.cpp)| Medium| |#13| [Roman To Integer](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/romanToInt.cpp)| Easy|  
+|#274| [H-Index](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/hIndex.cpp)| Medium| |#959| [Regions Cut By Slashes](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/regionBySlices.cpp)| Medium| 
+|#13| [Roman To Integer](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/romanToInt.cpp)| Easy|  
 
 
 

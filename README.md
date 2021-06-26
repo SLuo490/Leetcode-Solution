@@ -62,7 +62,7 @@
 #680, [Valid Palindrome II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/validPalidromeII.cpp)  
 #1796, [Second Largest Digit in a String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/secondHighest.cpp)  
 #1876, [Substrings of Size Three with Distinct Characters](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/countGoodSubstrings.cpp)  
-#13, [Roman to Integer](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/romanToInt.cpp)  
+#13, [Roman to Integer](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/romanToInt.cpp) (Map)  
 
 # Union Find
 #200, [Number of Islands](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/numIsland.cpp)   

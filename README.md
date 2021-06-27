@@ -25,7 +25,8 @@
 |#1469| [Find all Lonely Node](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/lonelyNode.cpp) |Easy| |#1893| [Check if All the Integers in a Range Are Covered](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/isCover.cpp)| Easy|
 |#274| [H-Index](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/hIndex.cpp)| Medium| |#959| [Regions Cut By Slashes](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/regionBySlices.cpp)| Medium| 
 |#13| [Roman To Integer](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/romanToInt.cpp)| Easy|  |#3| [Longest Substring Without Repeating Characters](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/longestSubstr.cpp)| Medium | 
-|#92| [Reverse Linked List II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/reversLL2.cpp) |Medium|  
+|#92| [Reverse Linked List II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/reversLL2.cpp) |Medium|  |#1910| [Remove All Occurrences of a Substring](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/removeOccurrences.cpp)|Medium|
+
 
 
 
@@ -63,6 +64,7 @@
 #680, [Valid Palindrome II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/validPalidromeII.cpp)  
 #1796, [Second Largest Digit in a String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/secondHighest.cpp)  
 #3, [Longest Substring Without Repeating Characters](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/longestSubstr.cpp)  
+#1910, [Remove All Occurrences of a Substring](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/removeOccurrences.cpp)  
 
 # Linked List
 #92 [Reverse Linked List II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/reversLL2.cpp)   
@@ -84,5 +86,9 @@
 # DFS
 #200, [Number of Islands](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/numIsland.cpp)  
 #1469, [Find all Lonely Node](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/lonelyNode.cpp)  
+
+# C++ STL
+#1910, [Remove All Occurrences of a Substring](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/removeOccurrences.cpp)  (npos)
+
 
 

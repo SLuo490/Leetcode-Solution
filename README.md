@@ -26,7 +26,8 @@
 |#274| [H-Index](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/hIndex.cpp)| Medium| |#959| [Regions Cut By Slashes](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/regionBySlices.cpp)| Medium| 
 |#13| [Roman To Integer](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/romanToInt.cpp)| Easy|  |#3| [Longest Substring Without Repeating Characters](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/longestSubstr.cpp)| Medium | 
 |#92| [Reverse Linked List II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/reversLL2.cpp) |Medium|  |#1910| [Remove All Occurrences of a Substring](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/removeOccurrences.cpp)|Medium| 
-|#1514| [Path with Maximum Probability](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/maxProbability.cpp)| Medium| 
+|#1514| [Path with Maximum Probability](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/maxProbability.cpp)| Medium| |#9|[Palindrome Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/paliNumber.cpp)|Easy|
+
 
 
 
@@ -66,6 +67,7 @@
 #1796, [Second Largest Digit in a String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/secondHighest.cpp)  
 #3, [Longest Substring Without Repeating Characters](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/longestSubstr.cpp)  
 #1910, [Remove All Occurrences of a Substring](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/removeOccurrences.cpp)  
+#9, [Palindrome Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/paliNumber.cpp)   
 
 # Linked List
 #92 [Reverse Linked List II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/reversLL2.cpp)   

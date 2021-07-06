@@ -27,9 +27,7 @@
 |#13| [Roman To Integer](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/romanToInt.cpp)| Easy|  |#3| [Longest Substring Without Repeating Characters](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/longestSubstr.cpp)| Medium | 
 |#92| [Reverse Linked List II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/reversLL2.cpp) |Medium|  |#1910| [Remove All Occurrences of a Substring](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/removeOccurrences.cpp)|Medium| 
 |#1514| [Path with Maximum Probability](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/maxProbability.cpp)| Medium| |#9|[Palindrome Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/paliNumber.cpp)|Easy|
-
-
-
+|886| [Possible Bipartition](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/possibleBipartition.cpp) |Medium| |
 
 
 
@@ -89,7 +87,6 @@
 #200, [Number of Islands](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/numIsland.cpp)   
 #959, [Regions Cut By Slashes](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/regionBySlices.cpp)    
 
-
 # DFS
 #200, [Number of Islands](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/numIsland.cpp)  
 #1469, [Find all Lonely Node](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/lonelyNode.cpp)  
@@ -100,4 +97,5 @@
 # Dijkstra's Algorithm
 #1514, [Path with Maximum Probability](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/maxProbability.cpp)
 
-
+# Bipartition Algorithm
+#886, [Possible Bipartition](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/possibleBipartition.cpp)

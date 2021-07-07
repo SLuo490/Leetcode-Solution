@@ -58,23 +58,32 @@ Output: 2
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        //set the first element as the majority element
-        int majorityCandidate = nums[0];
+        int majority = nums[0];
         int counter = 1;
-        //loop through the rest of array
+        
         for (int i = 1; i < nums.size(); i++) {
             if (counter == 0) {
-                majorityCandidate = nums[i];
+                majority = nums[i];
             }
-            if (nums[i] == majorityCandidate) {
+            if (majority == nums[i]) {
                 counter++;
-            }
-            else {
+            } else {
                 counter--;
             }
-
         }
-        return majorityCandidate;
+        return majority;
+        
+        // //map (SLOW)
+        // unordered_map<int,int> mp;
+        // for (int num : nums) {
+        //     mp[num]++;
+        //     //We can use the fact that the majority element is the element that appears more than n/2 times
+        //     if (mp[num] > nums.size() / 2) {
+        //         //if the num appears more than n/2 times, return num
+        //         return num;
+        //     }
+        // }
+        // return 0;            
+        
     }
-    
 };

@@ -101,3 +101,6 @@
 
 # Bipartition Algorithm
 #886, [Possible Bipartition](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/possibleBipartition.cpp)
+
+# BST
+[Search in a Virtually Complete Binary Tree](https://github.com/SLuo490/Binary-Search-Solutions/blob/main/Easy/searchInVirtuallyCompleteBST.cpp)

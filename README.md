@@ -28,7 +28,7 @@
 |#92| [Reverse Linked List II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/reversLL2.cpp) |Medium|  |#1910| [Remove All Occurrences of a Substring](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/removeOccurrences.cpp)|Medium| 
 |#1514| [Path with Maximum Probability](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/maxProbability.cpp)| Medium| |#9|[Palindrome Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/paliNumber.cpp)|Easy|
 |#886| [Possible Bipartition](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/possibleBipartition.cpp) |Medium| |#453| [Minimum Moves to Equal Array Elements](https://github.com/SLuo490/Leetcode-Solution/blob/17e34b5d04a0bcb3d742b86a96d97827bbfb03a0/Easy/minMovetoEqualArrayElement.cpp)|Easy|
-|#1446| [Consecutive Characters](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/consecutiveChar.cpp)|Easy| |
+|#1446| [Consecutive Characters](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/consecutiveChar.cpp)|Easy| |#207| [Course Schedule](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/courseSchedule.cpp)|Medium|
 
 # Array
 #1, [Two Sum](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/twosum.cpp)  
@@ -104,3 +104,8 @@
 
 # BST
 [Search in a Virtually Complete Binary Tree](https://github.com/SLuo490/Binary-Search-Solutions/blob/main/Easy/searchInVirtuallyCompleteBST.cpp)
+
+# Topological Sort
+#207, [Course Schedule](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/courseSchedule.cpp)   
+
+

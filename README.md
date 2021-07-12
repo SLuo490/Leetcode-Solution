@@ -57,7 +57,7 @@
 #274, [H-Index](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/hIndex.cpp)  
 #453, [Minimum Moves to Equal Array Elements](https://github.com/SLuo490/Leetcode-Solution/blob/17e34b5d04a0bcb3d742b86a96d97827bbfb03a0/Easy/minMovetoEqualArrayElement.cpp)    
 
-# String
+# [String](https://github.com/SLuo490/Data-Structure/blob/main/String/string.md)
 #20, [Valid Parentheses](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/ValidParentheses.cpp)  
 #344, [Reverse String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/ReverseString.cpp)  
 #412, [Fizz Buzz](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/fizzBuzz.cpp)  
@@ -72,11 +72,10 @@
 # [Binary Search](https://github.com/SLuo490/Algorithm/blob/main/Binary%20Search/binarysearch.md)
 #69, [Sqrt(x)](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/sqrt(x).cpp)
 
-
 # Linked List
 #92 [Reverse Linked List II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/reversLL2.cpp)   
 
-# Map
+# [Map](https://github.com/SLuo490/Data-Structure/blob/main/Map/Map.md)
 #1876, [Substrings of Size Three with Distinct Characters](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/countGoodSubstrings.cpp)  
 #13, [Roman to Integer](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/romanToInt.cpp)  
 #3, [Longest Substring Without Repeating Characters](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/longestSubstr.cpp)  
@@ -86,21 +85,21 @@
 #226, [Inverse Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/invertTree.cpp)  
 #206, [Reverse Linked List](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/ReverseLinkedList.cpp)  
 
-# Sliding Window
+# [Sliding Window](https://github.com/SLuo490/Algorithm/blob/main/Sliding%20Window/SlidingWIndow.md)
 #3, [Longest Substring Without Repeating Characters](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/longestSubstr.cpp)  
 
-# Union Find
+# [Union Find](https://github.com/SLuo490/Algorithm/blob/main/Union%20Find/UF.md)
 #200, [Number of Islands](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/numIsland.cpp)   
 #959, [Regions Cut By Slashes](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/regionBySlices.cpp)    
 
-# DFS
+# [DFS/BFS](https://github.com/SLuo490/Algorithm/blob/main/DFS%20and%20BFS/DFS_BFS.md)
 #200, [Number of Islands](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/numIsland.cpp)  
 #1469, [Find all Lonely Node](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/lonelyNode.cpp)  
 
-# C++ STL
+# [C++ STL](https://github.com/SLuo490/CPP-STL)
 #1910, [Remove All Occurrences of a Substring](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/removeOccurrences.cpp)  (npos)
 
-# Dijkstra's Algorithm
+# [Dijkstra's Algorithm](https://github.com/SLuo490/Algorithm/blob/main/Dijkstra's%20Algorithm/DijkstraAlgorithm.md)
 #1514, [Path with Maximum Probability](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/maxProbability.cpp)
 
 # Bipartition Algorithm

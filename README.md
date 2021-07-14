@@ -112,4 +112,8 @@
 # Topological Sort
 #207, [Course Schedule](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/courseSchedule.cpp)   
 
+# Bit Manipulation
+[Hamming Distance](https://github.com/SLuo490/Binary-Search-Solutions/blob/main/Easy/hammingDistance.cpp)   
+[Check Power of Two](https://github.com/SLuo490/Binary-Search-Solutions/blob/main/Easy/checkPowerOfTwo.cpp)   
+
 

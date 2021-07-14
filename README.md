@@ -30,6 +30,7 @@
 |#886| [Possible Bipartition](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/possibleBipartition.cpp) |Medium| |#453| [Minimum Moves to Equal Array Elements](https://github.com/SLuo490/Leetcode-Solution/blob/17e34b5d04a0bcb3d742b86a96d97827bbfb03a0/Easy/minMovetoEqualArrayElement.cpp)|Easy|
 |#1446| [Consecutive Characters](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/consecutiveChar.cpp)|Easy| |#207| [Course Schedule](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/courseSchedule.cpp)|Medium| 
 |#69|[Sqrt(x)](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/sqrt(x).cpp)|Easy| |#167|[Two Sum II - Input Array is Sorted](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/twoSum2InputArrayIsSorted.cpp)|Easy| 
+|#461| [Hamming Distance](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/hammingDistance.cpp)|Easy| |
 
 # Array
 #1, [Two Sum](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/twosum.cpp)  
@@ -113,7 +114,7 @@
 #207, [Course Schedule](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/courseSchedule.cpp)   
 
 # Bit Manipulation
-[Hamming Distance](https://github.com/SLuo490/Binary-Search-Solutions/blob/main/Easy/hammingDistance.cpp)   
+#461, [Hamming Distance](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/hammingDistance.cpp)  
 [Check Power of Two](https://github.com/SLuo490/Binary-Search-Solutions/blob/main/Easy/checkPowerOfTwo.cpp)   
 
 

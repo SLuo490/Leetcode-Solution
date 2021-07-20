@@ -33,7 +33,26 @@
 |#461| [Hamming Distance](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/hammingDistance.cpp)|Easy| |#142|[Linked List Cycle II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/LinkedListCycleII.cpp)|Medium| 
 |#287|[Find the Duplicate Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findDuplicateNum.cpp)|Medium| |#141|[Linked List Cycle](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/LinkedListCycle.cpp)|Easy| 
 
-
+<!--toc-->
+# Table of Content
+==================
+1. [Table of Content](#table-of-content)
+2. [Array](#array)
+3. [String](#string)
+4. [Binary Search](#binary-search)
+5. [Linked List](#linked-list)
+6. [Map](#map)
+7. [Recusion](#recursion)
+8. [Sliding Window](#sliding-window)
+9. [DFS/BFS](#dfsbfs)
+10. [Cpp STL](#cpp-stl)
+11. [Dikstra's Algorithm](#dijkstras-algorithm)
+12. [Bipartition Algorithm](#bipartition-algorithm)
+13. [BST](#bst)
+14. [Topological Sort](#topological-sort)
+15. [Bit Manipulation](#bit-manipulation)
+16. [Floyd's Cycle Finding Algorithm](#floyds-cycle-finding-algorithm)
+<!--toc-->
 
 # Array
 #1, [Two Sum](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/twosum.cpp)  
@@ -103,7 +122,7 @@
 #200, [Number of Islands](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/numIsland.cpp)  
 #1469, [Find all Lonely Node](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/lonelyNode.cpp)  
 
-# [C++ STL](https://github.com/SLuo490/CPP-STL)
+# [Cpp STL](https://github.com/SLuo490/CPP-STL)
 #1910, [Remove All Occurrences of a Substring](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/removeOccurrences.cpp)  (npos)
 
 # [Dijkstra's Algorithm](https://github.com/SLuo490/Algorithm/blob/main/Dijkstra's%20Algorithm/DijkstraAlgorithm.md)
@@ -122,7 +141,7 @@
 #461, [Hamming Distance](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/hammingDistance.cpp)  
 [Check Power of Two](https://github.com/SLuo490/Binary-Search-Solutions/blob/main/Easy/checkPowerOfTwo.cpp)   
 
-# [Floyd's Cycle Finding Algorithm (Tortoise and Hare)](https://github.com/SLuo490/Algorithm/blob/main/Floyd's%20Cycle%20Finding/floydCycle.md)  
+# [Floyd's Cycle Finding Algorithm](https://github.com/SLuo490/Algorithm/blob/main/Floyd's%20Cycle%20Finding/floydCycle.md)  
 #141, [Linked List Cycle](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/LinkedListCycle.cpp)   
 #142, [Linked List Cycle II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/LinkedListCycleII.cpp)   
 #287, [Find the Duplicate Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findDuplicateNum.cpp)      

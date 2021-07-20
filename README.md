@@ -30,7 +30,10 @@
 |#886| [Possible Bipartition](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/possibleBipartition.cpp) |Medium| |#453| [Minimum Moves to Equal Array Elements](https://github.com/SLuo490/Leetcode-Solution/blob/17e34b5d04a0bcb3d742b86a96d97827bbfb03a0/Easy/minMovetoEqualArrayElement.cpp)|Easy|
 |#1446| [Consecutive Characters](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/consecutiveChar.cpp)|Easy| |#207| [Course Schedule](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/courseSchedule.cpp)|Medium| 
 |#69|[Sqrt(x)](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/sqrt(x).cpp)|Easy| |#167|[Two Sum II - Input Array is Sorted](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/twoSum2InputArrayIsSorted.cpp)|Easy| 
-|#461| [Hamming Distance](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/hammingDistance.cpp)|Easy| |
+|#461| [Hamming Distance](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/hammingDistance.cpp)|Easy| |#142|[Linked List Cycle II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/LinkedListCycleII.cpp)|Medium| 
+|#287|[Find the Duplicate Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findDuplicateNum.cpp)|Medium| |#141|[Linked List Cycle](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/LinkedListCycle.cpp)|Easy| 
+
+
 
 # Array
 #1, [Two Sum](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/twosum.cpp)  
@@ -117,4 +120,8 @@
 #461, [Hamming Distance](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/hammingDistance.cpp)  
 [Check Power of Two](https://github.com/SLuo490/Binary-Search-Solutions/blob/main/Easy/checkPowerOfTwo.cpp)   
 
+# [Floyd's Cycle Finding Algorithm (Tortoise and Hare)](https://github.com/SLuo490/Algorithm/blob/main/Floyd's%20Cycle%20Finding/floydCycle.md)  
+#141, [Linked List Cycle](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/LinkedListCycle.cpp)   
+#142, [Linked List Cycle II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/LinkedListCycleII.cpp)   
+#287, [Find the Duplicate Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findDuplicateNum.cpp)      
 

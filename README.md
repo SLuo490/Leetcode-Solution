@@ -118,7 +118,7 @@
 # Topological Sort
 #207, [Course Schedule](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/courseSchedule.cpp)   
 
-# Bit Manipulation
+# [Bit Manipulation](https://github.com/SLuo490/Algorithm/blob/main/Bit%20Manipulation/bitManipulation.md)
 #461, [Hamming Distance](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/hammingDistance.cpp)  
 [Check Power of Two](https://github.com/SLuo490/Binary-Search-Solutions/blob/main/Easy/checkPowerOfTwo.cpp)   
 

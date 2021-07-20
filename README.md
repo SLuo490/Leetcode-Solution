@@ -79,6 +79,8 @@
 
 # Linked List
 #92 [Reverse Linked List II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/reversLL2.cpp)   
+#141, [Linked List Cycle](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/LinkedListCycle.cpp)   
+#142, [Linked List Cycle II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/LinkedListCycleII.cpp)   
 
 # [Map](https://github.com/SLuo490/Data-Structure/blob/main/Map/Map.md)
 #1876, [Substrings of Size Three with Distinct Characters](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/countGoodSubstrings.cpp)  

@@ -32,6 +32,8 @@
 |#69|[Sqrt(x)](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/sqrt(x).cpp)|Easy| |#167|[Two Sum II - Input Array is Sorted](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/twoSum2InputArrayIsSorted.cpp)|Easy| 
 |#461| [Hamming Distance](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/hammingDistance.cpp)|Easy| |#142|[Linked List Cycle II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/LinkedListCycleII.cpp)|Medium| 
 |#287|[Find the Duplicate Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findDuplicateNum.cpp)|Medium| |#141|[Linked List Cycle](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/LinkedListCycle.cpp)|Easy| 
+|#125|[Valid Palindrome](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/validPalidrome.cpp)|Easy| |#28|[Implement strStr()](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/ImplementstrStr().cpp)|Easy|
+
 
 <!--toc-->
 # Table of Content
@@ -91,6 +93,9 @@
 #1910, [Remove All Occurrences of a Substring](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/removeOccurrences.cpp)  
 #9, [Palindrome Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/paliNumber.cpp)   
 #1446, [Consecutive Characters](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/consecutiveChar.cpp)    
+#125, [Valid Palindrome](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/validPalidrome.cpp)   
+#28, [Implement strStr()](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/ImplementstrStr().cpp)   
+
 
 # [Binary Search](https://github.com/SLuo490/Algorithm/blob/main/Binary%20Search/binarysearch.md)
 #69, [Sqrt(x)](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/sqrt(x).cpp)   

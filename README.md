@@ -33,7 +33,7 @@
 |#461| [Hamming Distance](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/hammingDistance.cpp)|Easy| |#142|[Linked List Cycle II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/LinkedListCycleII.cpp)|Medium| 
 |#287|[Find the Duplicate Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findDuplicateNum.cpp)|Medium| |#141|[Linked List Cycle](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/LinkedListCycle.cpp)|Easy| 
 |#125|[Valid Palindrome](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/validPalidrome.cpp)|Easy| |#28|[Implement strStr()](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/ImplementstrStr().cpp)|Easy|
-
+|#160|[Intersection of Two Linked Lists](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/intersectOfTwoLL.cpp)|Easy| 
 
 <!--toc-->
 # Table of Content
@@ -105,6 +105,7 @@
 #92 [Reverse Linked List II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/reversLL2.cpp)   
 #141, [Linked List Cycle](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/LinkedListCycle.cpp)   
 #142, [Linked List Cycle II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/LinkedListCycleII.cpp)   
+#160, [Intersection of Two Linked Lists](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/intersectOfTwoLL.cpp)   
 
 # [Map](https://github.com/SLuo490/Data-Structure/blob/main/Map/Map.md)
 #1876, [Substrings of Size Three with Distinct Characters](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/countGoodSubstrings.cpp)  

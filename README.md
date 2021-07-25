@@ -47,14 +47,15 @@
 6. [Map](#map)
 7. [Recusion](#recursion)
 8. [Sliding Window](#sliding-window)
-9. [DFS/BFS](#dfsbfs)
-10. [Cpp STL](#cpp-stl)
-11. [Dikstra's Algorithm](#dijkstras-algorithm)
-12. [Bipartition Algorithm](#bipartition-algorithm)
-13. [BST](#bst)
-14. [Topological Sort](#topological-sort)
-15. [Bit Manipulation](#bit-manipulation)
-16. [Floyd's Cycle Finding Algorithm](#floyds-cycle-finding-algorithm)
+9. [Two Pointer](#two-pointer)
+10. [DFS/BFS](#dfsbfs)
+11. [Cpp STL](#cpp-stl)
+12. [Dikstra's Algorithm](#dijkstras-algorithm)
+13. [Bipartition Algorithm](#bipartition-algorithm)
+14. [BST](#bst)
+15. [Topological Sort](#topological-sort)
+16. [Bit Manipulation](#bit-manipulation)
+17. [Floyd's Cycle Finding Algorithm](#floyds-cycle-finding-algorithm)
 <!--toc-->
 
 # Array

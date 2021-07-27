@@ -26,6 +26,7 @@ Output: [0]
  */
 class Solution {
 public:
+    //recursively
     ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
         //Edge Case
         if (!l1) return l2;

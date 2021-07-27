@@ -41,4 +41,40 @@ public:
             return l2;
         }
     }
+    
+    //Iteratively
+    ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
+        //edge cases
+        if (!l1) return l2;
+        if (!l2) return l1;
+        if (!l1 && !l2) return nullptr;
+        
+
+        //result node with -1 node as the first element
+        ListNode *reshead = new ListNode(-1);
+        ListNode *res = reshead;
+        
+        
+        while (l1 != nullptr && l2 != nullptr) {
+            if (l2->val <= l1->val) {
+                res->next = l2;
+                l2 = l2->next;
+            } else {
+                res->next = l1;
+                l1 = l1->next;
+            }
+            res = res->next;
+        }
+        //res->next equal to l2 if l1 == nullptr else res->next = l1
+        // res->next = l1 == nullptr ? l2 : l1;
+        
+        //add the rest of the element in either l1 or l2
+        if (l1 == nullptr) {
+            res->next = l2;
+        } else {
+            res->next = l1;
+        }
+
+        return reshead->next;
+    }
 };

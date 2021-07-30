@@ -34,7 +34,8 @@
 |#287|[Find the Duplicate Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findDuplicateNum.cpp)|Medium| |#141|[Linked List Cycle](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/LinkedListCycle.cpp)|Easy| 
 |#125|[Valid Palindrome](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/validPalidrome.cpp)|Easy| |#28|[Implement strStr()](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/ImplementstrStr().cpp)|Easy|
 |#160|[Intersection of Two Linked Lists](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/intersectOfTwoLL.cpp)|Easy| |#345|[Reverse Vowels of a String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/reverseVowelsofAString.cpp)|Easy| 
-|#1941|[Check if All Characters Have Equal Number of Occurrences](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/checkIfAllCharHaveEqualOcc.cpp)|Easy| 
+|#1941|[Check if All Characters Have Equal Number of Occurrences](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/checkIfAllCharHaveEqualOcc.cpp)|Easy| |#696|[Count Binary Substrings](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/countBinarySubstr.cpp)|Easy| 
+
 
 
 <!--toc-->
@@ -129,6 +130,7 @@
 #345, [Reverse Vowels of a String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/reverseVowelsofAString.cpp)   
 #28, [Implement strStr()](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/ImplementstrStr().cpp)   
 #125, [Valid Palindrome](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/validPalidrome.cpp)   
+#696, [Count Binary Substrings](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/countBinarySubstr.cpp)   
 
 # [Union Find](https://github.com/SLuo490/Algorithm/blob/main/Union%20Find/UF.md)
 #200, [Number of Islands](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/numIsland.cpp)   

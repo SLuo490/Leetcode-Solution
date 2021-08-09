@@ -35,8 +35,7 @@
 |#125|[Valid Palindrome](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/validPalidrome.cpp)|Easy| |#28|[Implement strStr()](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/ImplementstrStr().cpp)|Easy|
 |#160|[Intersection of Two Linked Lists](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/intersectOfTwoLL.cpp)|Easy| |#345|[Reverse Vowels of a String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/reverseVowelsofAString.cpp)|Easy| 
 |#1941|[Check if All Characters Have Equal Number of Occurrences](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/checkIfAllCharHaveEqualOcc.cpp)|Easy| |#696|[Count Binary Substrings](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/countBinarySubstr.cpp)|Easy| 
-|#1512|[Number of Good Pairs](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/numOfGoodPairs.cpp)|Easy| |
-
+|#1512|[Number of Good Pairs](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/numOfGoodPairs.cpp)|Easy| |#118|[Pascal's Triangle](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/pascalTriangle.cpp)|Easy| 
 
 
 <!--toc-->
@@ -59,6 +58,7 @@
 15. [Topological Sort](#topological-sort)
 16. [Bit Manipulation](#bit-manipulation)
 17. [Floyd's Cycle Finding Algorithm](#floyds-cycle-finding-algorithm)
+18. [Dynamic Programming](#dynamic-programming)
 <!--toc-->
 
 # Array
@@ -166,3 +166,5 @@
 #142, [Linked List Cycle II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/LinkedListCycleII.cpp)   
 #287, [Find the Duplicate Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findDuplicateNum.cpp)      
 
+# Dynamic Programming
+#118, [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)

@@ -167,4 +167,4 @@
 #287, [Find the Duplicate Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findDuplicateNum.cpp)      
 
 # Dynamic Programming
-#118, [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+#118, [Pascal's Triangle](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/pascalTriangle.cpp)   

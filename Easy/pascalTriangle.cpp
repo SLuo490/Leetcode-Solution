@@ -11,22 +11,36 @@ Input: numRows = 1
 Output: [[1]]
 */
 
-class Solution {
-public:
-    vector<vector<int>> generate(int numRows) {
-        vector<vector<int>> ret;
-        
-        //loop through the number of rows
-        for (int i = 0; i < numRows; i++) {
-            //fill the row with 1s
-            vector<int> row (i + 1, 1);
-            for (int j = 1; j < i; j++) {
-                //this calculates the next row by updating the 1s in row
-                row[j] = ret[i - 1][j] + ret[i - 1][j - 1];
-		    }
-            //push back the rows to res
-		    ret.push_back(row);      
-        }
-        return ret;
-    }
-};
+vector<vector<int>> generate(int numRows) {
+	vector<vector<int>> ret;
+
+	//loop through the number of rows
+	for (int i = 0; i < numRows; i++) {
+	    //fill the row with 1s
+	    vector<int> row (i + 1, 1);
+	    for (int j = 1; j < i; j++) {
+		//this calculates the next row by updating the 1s in row
+		row[j] = ret[i - 1][j] + ret[i - 1][j - 1];
+	    }
+	    //push back the rows to res
+	    ret.push_back(row);      
+	}
+	return ret;
+}
+//OR
+Vector<vector<int>> generate(int numRows) {
+	vector<vector<int>> res(numRows);
+	for (int i = 0; i < numRows; i++) {
+		//add 1 to the entire row
+		res[i] = vector<int>(i+1, 1);	
+		for (int j = 1; j < i; j++) {
+			res[i][j] = res[i- 1][j] + res[i-1][j-1];	
+		}
+		return res;
+	}	
+}
+
+
+
+
+

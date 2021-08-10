@@ -59,6 +59,7 @@
 16. [Bit Manipulation](#bit-manipulation)
 17. [Floyd's Cycle Finding Algorithm](#floyds-cycle-finding-algorithm)
 18. [Dynamic Programming](#dynamic-programming)
+19. [Prefix Sum](#prefix-sum)   
 <!--toc-->
 
 # Array
@@ -119,7 +120,6 @@
 #1941, [Check if All Characters Have Equal Number of Occurrences](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/checkIfAllCharHaveEqualOcc.cpp)   
 #1512, [Number of Good Pairs](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/numOfGoodPairs.cpp)   
 
-
 # Recursion
 #88, [Merges Sorted Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/MergeTwoSortedList.cpp)  
 #226, [Inverse Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/invertTree.cpp)  
@@ -168,3 +168,7 @@
 
 # Dynamic Programming
 #118, [Pascal's Triangle](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/pascalTriangle.cpp)   
+
+# Prefix Sum
+[K Prefix](https://github.com/SLuo490/Binary-Search-Solutions/blob/main/Easy/kPrefix.cpp)   
+

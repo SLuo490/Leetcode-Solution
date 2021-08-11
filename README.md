@@ -36,6 +36,8 @@
 |#160|[Intersection of Two Linked Lists](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/intersectOfTwoLL.cpp)|Easy| |#345|[Reverse Vowels of a String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/reverseVowelsofAString.cpp)|Easy| 
 |#1941|[Check if All Characters Have Equal Number of Occurrences](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/checkIfAllCharHaveEqualOcc.cpp)|Easy| |#696|[Count Binary Substrings](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/countBinarySubstr.cpp)|Easy| 
 |#1512|[Number of Good Pairs](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/numOfGoodPairs.cpp)|Easy| |#118|[Pascal's Triangle](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/pascalTriangle.cpp)|Easy| 
+|#205|[Isomorphic Strings](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/isomorphicStr.cpp)|Easy|   
+
 
 
 <!--toc-->
@@ -119,6 +121,7 @@
 #3, [Longest Substring Without Repeating Characters](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/longestSubstr.cpp)  
 #1941, [Check if All Characters Have Equal Number of Occurrences](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/checkIfAllCharHaveEqualOcc.cpp)   
 #1512, [Number of Good Pairs](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/numOfGoodPairs.cpp)   
+#205, [Isomorphic String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/isomorphicStr.cpp)   
 
 # Recursion
 #88, [Merges Sorted Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/MergeTwoSortedList.cpp)  

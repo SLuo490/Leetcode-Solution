@@ -171,6 +171,7 @@
 
 # Dynamic Programming
 #118, [Pascal's Triangle](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/pascalTriangle.cpp)   
+#53, [Maximum Subarray](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/MaxSubarray.cpp)   
 
 # Prefix Sum
 [K Prefix](https://github.com/SLuo490/Binary-Search-Solutions/blob/main/Easy/kPrefix.cpp)   

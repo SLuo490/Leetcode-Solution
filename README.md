@@ -36,8 +36,7 @@
 |#160|[Intersection of Two Linked Lists](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/intersectOfTwoLL.cpp)|Easy| |#345|[Reverse Vowels of a String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/reverseVowelsofAString.cpp)|Easy| 
 |#1941|[Check if All Characters Have Equal Number of Occurrences](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/checkIfAllCharHaveEqualOcc.cpp)|Easy| |#696|[Count Binary Substrings](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/countBinarySubstr.cpp)|Easy| 
 |#1512|[Number of Good Pairs](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/numOfGoodPairs.cpp)|Easy| |#118|[Pascal's Triangle](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/pascalTriangle.cpp)|Easy| 
-|#205|[Isomorphic Strings](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/isomorphicStr.cpp)|Easy|   
-
+|#205|[Isomorphic Strings](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/isomorphicStr.cpp)|Easy|  |#119|[Pascal's Triangle II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/pascalTriangleII.cpp)|Easy| 
 
 
 <!--toc-->
@@ -172,6 +171,7 @@
 # Dynamic Programming
 #118, [Pascal's Triangle](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/pascalTriangle.cpp)   
 #53, [Maximum Subarray](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/MaxSubarray.cpp)   
+#119, [Pascal's Triangle II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/pascalTriangleII.cpp)   
 
 # Prefix Sum
 [K Prefix](https://github.com/SLuo490/Binary-Search-Solutions/blob/main/Easy/kPrefix.cpp)   

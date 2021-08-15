@@ -37,6 +37,7 @@
 |#1941|[Check if All Characters Have Equal Number of Occurrences](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/checkIfAllCharHaveEqualOcc.cpp)|Easy| |#696|[Count Binary Substrings](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/countBinarySubstr.cpp)|Easy| 
 |#1512|[Number of Good Pairs](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/numOfGoodPairs.cpp)|Easy| |#118|[Pascal's Triangle](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/pascalTriangle.cpp)|Easy| 
 |#205|[Isomorphic Strings](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/isomorphicStr.cpp)|Easy|  |#119|[Pascal's Triangle II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/pascalTriangleII.cpp)|Easy| 
+|#657|[Robot Return to Origin](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/robotReturnToOrigin.cpp)|Easy|   
 
 
 <!--toc-->
@@ -103,6 +104,8 @@
 #125, [Valid Palindrome](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/validPalidrome.cpp)   
 #28, [Implement strStr()](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/ImplementstrStr().cpp)   
 #345, [Reverse Vowels of a String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/reverseVowelsofAString.cpp)   
+#657, [Robot Return to Origin](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/robotReturnToOrigin.cpp)
+
 
 # [Binary Search](https://github.com/SLuo490/Algorithm/blob/main/Binary%20Search/binarysearch.md)
 #69, [Sqrt(x)](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/sqrt(x).cpp)   

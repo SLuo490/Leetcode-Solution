@@ -37,8 +37,8 @@
 |#1941|[Check if All Characters Have Equal Number of Occurrences](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/checkIfAllCharHaveEqualOcc.cpp)|Easy| |#696|[Count Binary Substrings](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/countBinarySubstr.cpp)|Easy| 
 |#1512|[Number of Good Pairs](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/numOfGoodPairs.cpp)|Easy| |#118|[Pascal's Triangle](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/pascalTriangle.cpp)|Easy| 
 |#205|[Isomorphic Strings](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/isomorphicStr.cpp)|Easy|  |#119|[Pascal's Triangle II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/pascalTriangleII.cpp)|Easy| 
-|#657|[Robot Return to Origin](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/robotReturnToOrigin.cpp)|Easy|   
-
+|#657|[Robot Return to Origin](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/robotReturnToOrigin.cpp)|Easy| |#121|[Best Time to Buy and Sell Stock](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/bestTimeToBuySellStock.cpp)|Easy|   
+ 
 
 <!--toc-->
 # Table of Content
@@ -60,8 +60,9 @@
 15. [Topological Sort](#topological-sort)
 16. [Bit Manipulation](#bit-manipulation)
 17. [Floyd's Cycle Finding Algorithm](#floyds-cycle-finding-algorithm)
-18. [Dynamic Programming](#dynamic-programming)
-19. [Prefix Sum](#prefix-sum)   
+18. [Dynamic Programming](#dynamic-programming)   
+19. [Kadane's Algorithm](#kadanes-algorithm)
+20. [Prefix Sum](#prefix-sum)   
 <!--toc-->
 
 # Array
@@ -175,6 +176,9 @@
 #118, [Pascal's Triangle](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/pascalTriangle.cpp)   
 #53, [Maximum Subarray](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/MaxSubarray.cpp)   
 #119, [Pascal's Triangle II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/pascalTriangleII.cpp)   
+
+# Kadane's Algorithm
+#121, [Best Time to Buy and Sell Stock](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/bestTimeToBuySellStock.cpp)   
 
 # Prefix Sum
 [K Prefix](https://github.com/SLuo490/Binary-Search-Solutions/blob/main/Easy/kPrefix.cpp)   

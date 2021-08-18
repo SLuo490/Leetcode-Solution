@@ -47,7 +47,7 @@ public:
         //save different path to paths
         vector<int> path;
         //traverse the graph (DFS)
-        dfs(graph, paths, path, 0);
+        dfs(graph, paths, path, 0); //start with 0 because it is the vertex (e.g [1,2] => 0 connects to 1 and 2)
         
         //return all the paths
         return paths;

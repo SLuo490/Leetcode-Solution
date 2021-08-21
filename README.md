@@ -39,7 +39,8 @@
 |#205|[Isomorphic Strings](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/isomorphicStr.cpp)|Easy|  |#119|[Pascal's Triangle II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/pascalTriangleII.cpp)|Easy| 
 |#657|[Robot Return to Origin](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/robotReturnToOrigin.cpp)|Easy| |#121|[Best Time to Buy and Sell Stock](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/bestTimeToBuySellStock.cpp)|Easy|   
 |#1971|[Find if Path Exists in Graph](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/findIfPathExistsInGraph.cpp)|Easy| |#797|[All Paths From Source to Target](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/allPathsFromSourceToTarget.cpp)|Medium|
-|#133|[Clone Graph](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/cloneGraph.cpp)|Medium|   
+|#133|[Clone Graph](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/cloneGraph.cpp)|Medium| |#5834|[Minimum Time to Type Word Using Special Typewriter](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/minTimeToTypeWord.cpp)|Easy|   
+
  
 
 <!--toc-->
@@ -108,7 +109,7 @@
 #28, [Implement strStr()](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/ImplementstrStr().cpp)   
 #345, [Reverse Vowels of a String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/reverseVowelsofAString.cpp)   
 #657, [Robot Return to Origin](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/robotReturnToOrigin.cpp)
-
+#5834, [Minimum Time to Type Word Using Special Typewriter](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/minTimeToTypeWord.cpp)   
 
 # [Binary Search](https://github.com/SLuo490/Algorithm/blob/main/Binary%20Search/binarysearch.md)
 #69, [Sqrt(x)](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/sqrt(x).cpp)   

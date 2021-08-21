@@ -1,0 +1,77 @@
+/*
+There is a special typewriter with lowercase English letters 'a' to 'z' arranged in a circle with a pointer. A character can only be typed if the pointer is pointing to that character. The pointer is initially pointing to the character 'a'.
+Each second, you may perform one of the following operations: 
+  - Move the pointer one character counterclockwise or clockwise.
+  - Type the character the pointer is currently on.
+  
+Given a string word, return the minimum number of seconds to type out the characters in word.
+
+Example 1:
+Input: word = "abc"
+Output: 5
+Explanation: 
+The characters are printed as follows:
+- Type the character 'a' in 1 second since the pointer is initially on 'a'.
+- Move the pointer clockwise to 'b' in 1 second.
+- Type the character 'b' in 1 second.
+- Move the pointer clockwise to 'c' in 1 second.
+- Type the character 'c' in 1 second.
+
+Example 2:
+Input: word = "bza"
+Output: 7
+Explanation:
+The characters are printed as follows:
+- Move the pointer clockwise to 'b' in 1 second.
+- Type the character 'b' in 1 second.
+- Move the pointer counterclockwise to 'z' in 2 seconds.
+- Type the character 'z' in 1 second.
+- Move the pointer clockwise to 'a' in 1 second.
+- Type the character 'a' in 1 second.
+
+Example 3:
+Input: word = "zjpc"
+Output: 34
+Explanation:
+The characters are printed as follows:
+- Move the pointer counterclockwise to 'z' in 1 second.
+- Type the character 'z' in 1 second.
+- Move the pointer clockwise to 'j' in 10 seconds.
+- Type the character 'j' in 1 second.
+- Move the pointer clockwise to 'p' in 6 seconds.
+- Type the character 'p' in 1 second.
+- Move the pointer counterclockwise to 'c' in 13 seconds.
+- Type the character 'c' in 1 second.
+*/
+
+
+class Solution {
+public:
+    //Calculates the shortest distance to travel between char a and char b;
+    int shortestDistance(char a, char b) {
+        int dist1 = a - b;
+        int dist2 = b - a;
+        if (dist1 < 0) {
+            dist1 += 26;
+        }
+        if (dist2 < 0) {
+            dist2 += 26;
+        }
+        int shortDist = min(dist1, dist2);
+        return shortDist;
+    }
+    //calculates the minimum time it takes to type word
+    int minTimeToType(string word) {
+        int res = 0;
+        res += shortestDistance('a', word[0]);
+        res += word.length();
+        int j = 1, i = 0;
+        
+        while (j < word.length()) {
+            res += shortestDistance(word[i], word[j]);
+            i++;
+            j++;
+        }
+        return res;
+    }
+};

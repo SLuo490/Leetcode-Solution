@@ -40,6 +40,7 @@
 |#657|[Robot Return to Origin](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/robotReturnToOrigin.cpp)|Easy| |#121|[Best Time to Buy and Sell Stock](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/bestTimeToBuySellStock.cpp)|Easy|   
 |#1971|[Find if Path Exists in Graph](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/findIfPathExistsInGraph.cpp)|Easy| |#797|[All Paths From Source to Target](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/allPathsFromSourceToTarget.cpp)|Medium|
 |#133|[Clone Graph](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/cloneGraph.cpp)|Medium| |#5834|[Minimum Time to Type Word Using Special Typewriter](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/minTimeToTypeWord.cpp)|Easy|   
+|#340|[Longest Substring with At Most K Distinct Character](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/longestSubStrWithAtMostKDistinctChar.cpp)|Medium| |
 
  
 
@@ -136,6 +137,7 @@
 
 # [Sliding Window](https://github.com/SLuo490/Algorithm/blob/main/Sliding%20Window/SlidingWIndow.md)
 #3, [Longest Substring Without Repeating Characters](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/longestSubstr.cpp)  
+#340, [Longest Substring with At Most K Distinct Character](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/longestSubStrWithAtMostKDistinctChar.cpp)   
 
 # Two Pointer
 #345, [Reverse Vowels of a String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/reverseVowelsofAString.cpp)   

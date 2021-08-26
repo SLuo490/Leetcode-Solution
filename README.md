@@ -42,7 +42,7 @@
 |#133|[Clone Graph](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/cloneGraph.cpp)|Medium| |#5834|[Minimum Time to Type Word Using Special Typewriter](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/minTimeToTypeWord.cpp)|Easy|   
 |#340|[Longest Substring with At Most K Distinct Character](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/longestSubStrWithAtMostKDistinctChar.cpp)|Medium| |#904|[Fruits Into Baset](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/fruitsIntoBasket.cpp)|Medium| 
 |#424|[Longest Repeating Character Replacement](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/longestRepeatingCharReplacement.cpp)|Medium| |#1004|[Max Consecutive Ones](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/maxConsecutiveOnesIII.cpp)|Medium|  
-|#567|[Permutation in String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/permutationInStr.cpp)|Medium|   |
+|#567|[Permutation in String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/permutationInStr.cpp)|Medium| |#438|[Find All Anagrams in a String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findAllAnagramsInStr.cpp)|Medium|
 
  
 
@@ -143,6 +143,7 @@
 #904,[Fruits Into Baset](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/fruitsIntoBasket.cpp)   
 #424, [Longest Repeating Character Replacement](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/longestRepeatingCharReplacement.cpp)    
 #567, [Permutation in String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/permutationInStr.cpp)   
+#438, [Find All Anagrams in a String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findAllAnagramsInStr.cpp)|Medium|
   
 # Two Pointer
 #345, [Reverse Vowels of a String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/reverseVowelsofAString.cpp)   

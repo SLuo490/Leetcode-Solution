@@ -43,6 +43,7 @@
 |#340|[Longest Substring with At Most K Distinct Character](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/longestSubStrWithAtMostKDistinctChar.cpp)|Medium| |#904|[Fruits Into Baset](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/fruitsIntoBasket.cpp)|Medium| 
 |#424|[Longest Repeating Character Replacement](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/longestRepeatingCharReplacement.cpp)|Medium| |#1004|[Max Consecutive Ones](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/maxConsecutiveOnesIII.cpp)|Medium|  
 |#567|[Permutation in String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/permutationInStr.cpp)|Medium| |#438|[Find All Anagrams in a String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findAllAnagramsInStr.cpp)|Medium|
+|#187|[Repeated DNA Sequence](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/repeatedDNASequence.cpp)|Medium||
 
  
 
@@ -139,12 +140,13 @@
 
 # [Sliding Window](https://github.com/SLuo490/Algorithm/blob/main/Sliding%20Window/SlidingWIndow.md)
 #3, [Longest Substring Without Repeating Characters](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/longestSubstr.cpp)  
-#340, [Longest Substring with At Most K Distinct Character](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/longestSubStrWithAtMostKDistinctChar.cpp)\ 
+#340, [Longest Substring with At Most K Distinct Character](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/longestSubStrWithAtMostKDistinctChar.cpp)    
 #904,[Fruits Into Baset](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/fruitsIntoBasket.cpp)   
 #424, [Longest Repeating Character Replacement](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/longestRepeatingCharReplacement.cpp)    
 #567, [Permutation in String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/permutationInStr.cpp)   
-#438, [Find All Anagrams in a String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findAllAnagramsInStr.cpp)\
-#159, [Longest Substring with At Most Two Distinct Characters](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/longestSubStrwithAtMostTwoDistChar.cpp)
+#438, [Find All Anagrams in a String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findAllAnagramsInStr.cpp)   
+#159, [Longest Substring with At Most Two Distinct Characters](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/longestSubStrwithAtMostTwoDistChar.cpp)   
+#187, [Repeated DNA Sequence](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/repeatedDNASequence.cpp)   
 
   
 # Two Pointer

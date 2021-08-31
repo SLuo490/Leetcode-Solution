@@ -43,7 +43,7 @@
 |#340|[Longest Substring with At Most K Distinct Character](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/longestSubStrWithAtMostKDistinctChar.cpp)|Medium| |#904|[Fruits Into Baset](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/fruitsIntoBasket.cpp)|Medium| 
 |#424|[Longest Repeating Character Replacement](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/longestRepeatingCharReplacement.cpp)|Medium| |#1004|[Max Consecutive Ones](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/maxConsecutiveOnesIII.cpp)|Medium|  
 |#567|[Permutation in String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/permutationInStr.cpp)|Medium| |#438|[Find All Anagrams in a String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findAllAnagramsInStr.cpp)|Medium|
-|#187|[Repeated DNA Sequence](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/repeatedDNASequence.cpp)|Medium||
+|#187|[Repeated DNA Sequence](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/repeatedDNASequence.cpp)|Medium||#15|[3 Sum](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/threeSum.cpp)|Medium|  
 
  
 
@@ -148,13 +148,13 @@
 #159, [Longest Substring with At Most Two Distinct Characters](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/longestSubStrwithAtMostTwoDistChar.cpp)   
 #187, [Repeated DNA Sequence](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/repeatedDNASequence.cpp)   
 
-  
 # Two Pointer
 #345, [Reverse Vowels of a String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/reverseVowelsofAString.cpp)   
 #28, [Implement strStr()](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/ImplementstrStr().cpp)   
 #125, [Valid Palindrome](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/validPalidrome.cpp)   
 #696, [Count Binary Substrings](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/countBinarySubstr.cpp)   
 #1004, [Max Consecutive Ones](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/maxConsecutiveOnesIII.cpp)    
+#15, [3 Sum](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/threeSum.cpp)    
 
 # [Union Find](https://github.com/SLuo490/Algorithm/blob/main/Union%20Find/UF.md)
 #200, [Number of Islands](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/numIsland.cpp)   

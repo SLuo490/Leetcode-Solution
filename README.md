@@ -149,7 +149,7 @@
 #159, [Longest Substring with At Most Two Distinct Characters](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/longestSubStrwithAtMostTwoDistChar.cpp)   
 #187, [Repeated DNA Sequence](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/repeatedDNASequence.cpp)   
 
-# Two Pointer
+# [Two Pointer](https://github.com/SLuo490/Algorithm/tree/main/Two%20Pointer)
 #345, [Reverse Vowels of a String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/reverseVowelsofAString.cpp)   
 #28, [Implement strStr()](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/ImplementstrStr().cpp)   
 #125, [Valid Palindrome](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/validPalidrome.cpp)   

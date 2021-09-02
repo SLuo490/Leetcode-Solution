@@ -45,7 +45,7 @@
 |#567|[Permutation in String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/permutationInStr.cpp)|Medium| |#438|[Find All Anagrams in a String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findAllAnagramsInStr.cpp)|Medium|
 |#187|[Repeated DNA Sequence](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/repeatedDNASequence.cpp)|Medium||#15|[3 Sum](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/threeSum.cpp)|Medium|  
 |#16|[3 Sum Closest](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/3SumClose.cpp)|Medium| |#643|[Maxiumum Average Subarray I](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/maxiumumAvgSubarray.cpp)|Easy| 
-
+|#1710|[Maximum Units on a Truck](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/maximumUnitsOnATruck.cpp)|Easy| |
 
  
 

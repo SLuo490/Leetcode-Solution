@@ -134,7 +134,7 @@
 #1941, [Check if All Characters Have Equal Number of Occurrences](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/checkIfAllCharHaveEqualOcc.cpp)   
 #1512, [Number of Good Pairs](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/numOfGoodPairs.cpp)   
 #205, [Isomorphic String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/isomorphicStr.cpp)   
-#1160, [Find Words That Can Be Formed by Characters](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/findWordsThatCanBeFormedByChar.cpp)|Easy|
+#1160, [Find Words That Can Be Formed by Characters](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/findWordsThatCanBeFormedByChar.cpp)   
 
 # Recursion
 #88, [Merges Sorted Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/MergeTwoSortedList.cpp)  

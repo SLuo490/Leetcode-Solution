@@ -152,13 +152,14 @@
 #159, [Longest Substring with At Most Two Distinct Characters](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/longestSubStrwithAtMostTwoDistChar.cpp)   
 #187, [Repeated DNA Sequence](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/repeatedDNASequence.cpp)   
 #643, [Maxiumum Average Subarray I](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/maxiumumAvgSubarray.cpp)   
+#1004, [Max Consecutive Ones](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/maxConsecutiveOnesIII.cpp)    
+
 
 # [Two Pointer](https://github.com/SLuo490/Algorithm/tree/main/Two%20Pointer)
 #345, [Reverse Vowels of a String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/reverseVowelsofAString.cpp)   
 #28, [Implement strStr()](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/ImplementstrStr().cpp)   
 #125, [Valid Palindrome](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/validPalidrome.cpp)   
 #696, [Count Binary Substrings](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/countBinarySubstr.cpp)   
-#1004, [Max Consecutive Ones](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/maxConsecutiveOnesIII.cpp)    
 #15, [3 Sum](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/threeSum.cpp)    
 #16, [3 Sum Closest](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/3SumClose.cpp)   
 

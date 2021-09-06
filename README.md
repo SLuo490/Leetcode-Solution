@@ -47,7 +47,7 @@
 |#16|[3 Sum Closest](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/3SumClose.cpp)|Medium| |#643|[Maxiumum Average Subarray I](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/maxiumumAvgSubarray.cpp)|Easy| 
 |#1710|[Maximum Units on a Truck](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/maximumUnitsOnATruck.cpp)|Easy| |#1160|[Find Words That Can Be Formed by Characters](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/findWordsThatCanBeFormedByChar.cpp)|Easy|
 |#653|[Two Sum IV - Input is a BST](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/2SumIVInputIsABST.cpp)|Easy||#1071|[Greatest Common Divisor of Strings](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/greatestCommonDivisorInStr.cpp)|Easy| 
-|#957|[Prison Cells After N Days](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/prisonCellsAfterNDays.cpp)|Medium||
+|#957|[Prison Cells After N Days](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/prisonCellsAfterNDays.cpp)|Medium||#938|[Range Sum of BST](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/rangeSumOfBST.cpp)|Easy|    
 
  
 
@@ -176,6 +176,7 @@
 #1971, [Find if Path Exists in Graph](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/findIfPathExistsInGraph.cpp)   
 #797, [All Paths From Source to Target](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/allPathsFromSourceToTarget.cpp)   
 #133, [Clone Graph](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/cloneGraph.cpp)   
+#938, [Range Sum of BST](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/rangeSumOfBST.cpp)   
 
 # [Cpp STL](https://github.com/SLuo490/CPP-STL)
 #1910, [Remove All Occurrences of a Substring](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/removeOccurrences.cpp)  (npos)

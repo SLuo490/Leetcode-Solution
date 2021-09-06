@@ -27,13 +27,14 @@ public:
         
         int windowStart = 0, match = 0;
         
+        //use hashmap to keep frequency of p
         unordered_map<char,int>mp;
-        
         for (auto c : p) {
             mp[c]++;
         }
         
         for (int windowEnd = 0; windowEnd < s.length(); windowEnd++) {
+            //if the right character is in map, then decrement the frequency in map and increment match
             char rightChar = s[windowEnd];
             if (mp.find(rightChar) != mp.end()) {
                 mp[rightChar]--;
@@ -41,17 +42,20 @@ public:
                     match++;
                 }
             }
-            
+            //if match is equal to the size of the map, then we have one anagram
             if (match == mp.size()) {
                 result.push_back(windowStart);
             }
             
+            //once the window reaches the length of p move the sliding window
             if (windowEnd >= p.length() - 1) {
                 char leftChar = s[windowStart++];
+                //if the left character is in the map and frequency is 0, decrement match since we are sliding the window
                 if (mp.find(leftChar) != mp.end()) {
                     if (mp[leftChar] == 0) {
                         match--;
                     }
+                    //reset the frequency of the left char for future window
                     mp[leftChar]++;
                 }
             }

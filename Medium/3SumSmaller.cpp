@@ -50,3 +50,62 @@ public:
         return count;
     }
 };
+
+
+
+
+/*
+   Follow Up: 
+   Write a function to return the list of all such triplets instead of the count. How will the time complexity change in this case?
+*/
+
+class Solution {
+public:
+    int searchPair(vector<int>& nums, int start, int target, vector<vector<int>>& triplets) {
+        int right = nums.size() - 1;
+        int left = start;
+        int count = 0;
+        
+        while (left < right) {
+            if (nums[left] + nums[right] < target) {
+                /*
+                    loop through right - left
+                    push back {start, left, right} triplet
+                    
+                    change O(n^2) to O(n^3)
+                */
+                for (int i = right; i > left; i--) {
+                    triplets.push_back({nums[start], nums[left], nums[i]});
+                }
+                left++;
+            } else {
+                right--;
+            }
+        }
+        return triplets;
+    }
+    
+    int threeSumSmaller(vector<int>& nums, int target) {
+        vector<vector<int>> triplets;
+        sort(nums.begin(), nums.end());
+        if (nums.size() <= 2) return count; //Edge case: there are less than 2 item in nums
+        for (int i = 0; i < nums.size() - 2; i++) {
+            searchPair(nums, i + 1, target - nums[i], triplets);
+        }
+        return triplets;
+    }
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+

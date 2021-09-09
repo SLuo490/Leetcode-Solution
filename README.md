@@ -49,6 +49,7 @@
 |#653|[Two Sum IV - Input is a BST](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/2SumIVInputIsABST.cpp)|Easy||#1071|[Greatest Common Divisor of Strings](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/greatestCommonDivisorInStr.cpp)|Easy| 
 |#957|[Prison Cells After N Days](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/prisonCellsAfterNDays.cpp)|Medium||#938|[Range Sum of BST](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/rangeSumOfBST.cpp)|Easy|    
 |#259|[3 Sum Smaller](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/3SumSmaller.cpp)|Medium||#1099|[Two Sum Less Than K](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/2SumLessThanK.cpp)|Easy| 
+|#713|[Subarray Product Less Than K](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/subarrayProductLessThanK.cpp)|Medium||
 
  
 
@@ -155,6 +156,7 @@
 #187, [Repeated DNA Sequence](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/repeatedDNASequence.cpp)   
 #643, [Maxiumum Average Subarray I](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/maxiumumAvgSubarray.cpp)   
 #1004, [Max Consecutive Ones](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/maxConsecutiveOnesIII.cpp)    
+#713, [Subarray Product Less Than K](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/subarrayProductLessThanK.cpp)   
 
 
 # [Two Pointer](https://github.com/SLuo490/Algorithm/tree/main/Two%20Pointer)

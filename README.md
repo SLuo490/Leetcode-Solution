@@ -50,6 +50,7 @@
 |#957|[Prison Cells After N Days](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/prisonCellsAfterNDays.cpp)|Medium||#938|[Range Sum of BST](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/rangeSumOfBST.cpp)|Easy|    
 |#259|[3 Sum Smaller](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/3SumSmaller.cpp)|Medium||#1099|[Two Sum Less Than K](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/2SumLessThanK.cpp)|Easy| 
 |#713|[Subarray Product Less Than K](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/subarrayProductLessThanK.cpp)|Medium||#75|[Sort Colors](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/sortColors.cpp)|Medium|
+|#581|[Shortest Unsorted Continuous Subarray](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/shortedUnsortedContSubarray.cpp)|Medium|| 
 
 
  
@@ -170,6 +171,7 @@
 #259, [3 Sum Smaller](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/3SumSmaller.cpp)   
 #1099, [Two Sum Less Than K](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/2SumLessThanK.cpp)   
 #75, [Sort Colors](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/sortColors.cpp)    
+#581, [Shortest Unsorted Continuous Subarray](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/shortedUnsortedContSubarray.cpp)   
 
 
 # [Union Find](https://github.com/SLuo490/Algorithm/blob/main/Union%20Find/UF.md)

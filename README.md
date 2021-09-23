@@ -182,7 +182,7 @@
 #959, [Regions Cut By Slashes](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/regionBySlices.cpp)    
 #1971, [Find if Path Exists in Graph](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/findIfPathExistsInGraph.cpp)
 
-# Breadth First Search (BFS)
+# [Breadth First Search (BFS)](https://github.com/SLuo490/Grokking-the-Coding-Interview/blob/main/Breadth%20First%20Search/Introduction.md)
 #102, [Binary Tree Level Order Traversal](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/binaryTreeLevelOrderTraversal.cpp)   
 
 

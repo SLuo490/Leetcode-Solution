@@ -52,7 +52,7 @@
 |#713|[Subarray Product Less Than K](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/subarrayProductLessThanK.cpp)|Medium||#75|[Sort Colors](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/sortColors.cpp)|Medium|
 |#581|[Shortest Unsorted Continuous Subarray](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/shortedUnsortedContSubarray.cpp)|Medium||#392|[Is Subsequence](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/isSubsequence.cpp)|Easy|
 |#102|[Binary Tree Level Order Traversal](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/binaryTreeLevelOrderTraversal.cpp)|Medium||#107|[Binary Tree Level Order Traversal II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/reverseBinaryTreeLevelOrderTraversal.cpp)|Medium|
-|#103|[Binary Tree Zigzag Traversal](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/binaryTreeZigZagTraversal.cpp)|Medium||
+|#103|[Binary Tree Zigzag Traversal](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/binaryTreeZigZagTraversal.cpp)|Medium||#637|[Average of Levels in Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/avgOfLevelsInBinaryTree.cpp)|Easy|
 
 
 
@@ -188,6 +188,7 @@
 #102, [Binary Tree Level Order Traversal](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/binaryTreeLevelOrderTraversal.cpp)   
 #107, [Binary Tree Level Order Traversal II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/reverseBinaryTreeLevelOrderTraversal.cpp)   
 #103, [Binary Tree Zigzag Traversal](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/binaryTreeZigZagTraversal.cpp)   
+#637, [Average of Levels in Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/avgOfLevelsInBinaryTree.cpp)   
 
 
 # [Depth First Search (DFS)](https://github.com/SLuo490/Algorithm/blob/main/DFS%20and%20BFS/DFS_BFS.md)

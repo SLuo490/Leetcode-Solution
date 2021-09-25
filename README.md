@@ -54,12 +54,10 @@
 |#102|[Binary Tree Level Order Traversal](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/binaryTreeLevelOrderTraversal.cpp)|Medium||#107|[Binary Tree Level Order Traversal II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/reverseBinaryTreeLevelOrderTraversal.cpp)|Medium|
 |#103|[Binary Tree Zigzag Traversal](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/binaryTreeZigZagTraversal.cpp)|Medium||#637|[Average of Levels in Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/avgOfLevelsInBinaryTree.cpp)|Easy|
 |#111|[Minimum Depth of Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/minDepthOfBinaryTree.cpp)|Easy||#104|[Maximum Depth of Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/maxDepthOfBinaryTree.cpp)|Easy|
+|#515|[Find Largest Value in Each Tree Row](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findLargestValueInEachTreeRow.cpp)|Medium||
 
 
 
-
-
- 
 
 <!--toc-->
 # Table of Content
@@ -192,6 +190,7 @@
 #637, [Average of Levels in Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/avgOfLevelsInBinaryTree.cpp)   
 #111, [Minimum Depth of Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/minDepthOfBinaryTree.cpp)   
 #104, [Maximum Depth of Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/maxDepthOfBinaryTree.cpp)   
+#515, [Find Largest Value in Each Tree Row](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findLargestValueInEachTreeRow.cpp)   
 
 # [Depth First Search (DFS)](https://github.com/SLuo490/Algorithm/blob/main/DFS%20and%20BFS/DFS_BFS.md)
 #200, [Number of Islands](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/numIsland.cpp)  

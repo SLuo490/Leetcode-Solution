@@ -53,6 +53,8 @@
 |#581|[Shortest Unsorted Continuous Subarray](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/shortedUnsortedContSubarray.cpp)|Medium||#392|[Is Subsequence](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/isSubsequence.cpp)|Easy|
 |#102|[Binary Tree Level Order Traversal](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/binaryTreeLevelOrderTraversal.cpp)|Medium||#107|[Binary Tree Level Order Traversal II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/reverseBinaryTreeLevelOrderTraversal.cpp)|Medium|
 |#103|[Binary Tree Zigzag Traversal](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/binaryTreeZigZagTraversal.cpp)|Medium||#637|[Average of Levels in Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/avgOfLevelsInBinaryTree.cpp)|Easy|
+|#111|[Minimum Depth of Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/minDepthOfBinaryTree.cpp)|Easy||#104|[Maximum Depth of Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/maxDepthOfBinaryTree.cpp)|Easy|
+
 
 
 
@@ -165,7 +167,6 @@
 #1004, [Max Consecutive Ones](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/maxConsecutiveOnesIII.cpp)    
 #713, [Subarray Product Less Than K](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/subarrayProductLessThanK.cpp)   
 
-
 # [Two Pointer](https://github.com/SLuo490/Algorithm/tree/main/Two%20Pointer)
 #345, [Reverse Vowels of a String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/reverseVowelsofAString.cpp)   
 #28, [Implement strStr()](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/ImplementstrStr().cpp)   
@@ -189,7 +190,8 @@
 #107, [Binary Tree Level Order Traversal II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/reverseBinaryTreeLevelOrderTraversal.cpp)   
 #103, [Binary Tree Zigzag Traversal](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/binaryTreeZigZagTraversal.cpp)   
 #637, [Average of Levels in Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/avgOfLevelsInBinaryTree.cpp)   
-
+#111, [Minimum Depth of Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/minDepthOfBinaryTree.cpp)   
+#104, [Maximum Depth of Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/maxDepthOfBinaryTree.cpp)   
 
 # [Depth First Search (DFS)](https://github.com/SLuo490/Algorithm/blob/main/DFS%20and%20BFS/DFS_BFS.md)
 #200, [Number of Islands](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/numIsland.cpp)  

@@ -55,6 +55,7 @@
 |#103|[Binary Tree Zigzag Traversal](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/binaryTreeZigZagTraversal.cpp)|Medium||#637|[Average of Levels in Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/avgOfLevelsInBinaryTree.cpp)|Easy|
 |#111|[Minimum Depth of Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/minDepthOfBinaryTree.cpp)|Easy||#104|[Maximum Depth of Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/maxDepthOfBinaryTree.cpp)|Easy|
 |#515|[Find Largest Value in Each Tree Row](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findLargestValueInEachTreeRow.cpp)|Medium||#199|[Binary Tree Right Side View](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/binaryTreeRightMostView.cpp)|Medium|
+|#116|[Populating Next Right Pointer in Each Node](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/populateNextRightPtrInEachNode.cpp)|Medium||
 
 
 <!--toc-->
@@ -190,6 +191,7 @@
 #104, [Maximum Depth of Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/maxDepthOfBinaryTree.cpp)   
 #515, [Find Largest Value in Each Tree Row](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findLargestValueInEachTreeRow.cpp)   
 #199, [Binary Tree Right Side View](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/binaryTreeRightMostView.cpp)   
+#116, [Populating Next Right Pointer in Each Node](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/populateNextRightPtrInEachNode.cpp)   
 
 # [Depth First Search (DFS)](https://github.com/SLuo490/Algorithm/blob/main/DFS%20and%20BFS/DFS_BFS.md)
 #200, [Number of Islands](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/numIsland.cpp)  

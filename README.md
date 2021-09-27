@@ -56,6 +56,7 @@
 |#111|[Minimum Depth of Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/minDepthOfBinaryTree.cpp)|Easy||#104|[Maximum Depth of Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/maxDepthOfBinaryTree.cpp)|Easy|
 |#515|[Find Largest Value in Each Tree Row](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findLargestValueInEachTreeRow.cpp)|Medium||#199|[Binary Tree Right Side View](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/binaryTreeRightMostView.cpp)|Medium|
 |#116|[Populating Next Right Pointer in Each Node](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/populateNextRightPtrInEachNode.cpp)|Medium||#100|[Same Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/sameTree.cpp)|Easy|
+|#117|[Populate Next Right Pointer in Each Node II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/populateNextRightPtrInEachNodeII.cpp)|Medoum| |
 
 
 
@@ -193,7 +194,8 @@
 #515, [Find Largest Value in Each Tree Row](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findLargestValueInEachTreeRow.cpp)   
 #199, [Binary Tree Right Side View](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/binaryTreeRightMostView.cpp)   
 #116, [Populating Next Right Pointer in Each Node](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/populateNextRightPtrInEachNode.cpp)   
-#100, [Same Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/sameTree.cpp)
+#100, [Same Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/sameTree.cpp)   
+#117, [Populate Next Right Pointer in Each Node II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/populateNextRightPtrInEachNodeII.cpp)   
 
 # [Depth First Search (DFS)](https://github.com/SLuo490/Algorithm/blob/main/DFS%20and%20BFS/DFS_BFS.md)
 #200, [Number of Islands](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/numIsland.cpp)  

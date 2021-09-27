@@ -58,11 +58,10 @@
 |#116|[Populating Next Right Pointer in Each Node](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/populateNextRightPtrInEachNode.cpp)|Medium||#100|[Same Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/sameTree.cpp)|Easy|
 |#117|[Populate Next Right Pointer in Each Node II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/populateNextRightPtrInEachNodeII.cpp)|Medoum| |
 
-
+---
 
 <!--toc-->
 # Table of Content
-==================
 1. [Table of Content](#table-of-content)
 2. [Array](#array)
 3. [String](#string)

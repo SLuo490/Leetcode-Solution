@@ -56,7 +56,8 @@
 |#111|[Minimum Depth of Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/minDepthOfBinaryTree.cpp)|Easy||#104|[Maximum Depth of Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/maxDepthOfBinaryTree.cpp)|Easy|
 |#515|[Find Largest Value in Each Tree Row](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findLargestValueInEachTreeRow.cpp)|Medium||#199|[Binary Tree Right Side View](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/binaryTreeRightMostView.cpp)|Medium|
 |#116|[Populating Next Right Pointer in Each Node](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/populateNextRightPtrInEachNode.cpp)|Medium||#100|[Same Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/sameTree.cpp)|Easy|
-|#117|[Populate Next Right Pointer in Each Node II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/populateNextRightPtrInEachNodeII.cpp)|Medoum| |
+|#117|[Populate Next Right Pointer in Each Node II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/populateNextRightPtrInEachNodeII.cpp)|Medoum| |#112|[Path Sum](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/pathSum.cpp)|Easy|
+
 
 ---
 
@@ -203,6 +204,7 @@
 #797, [All Paths From Source to Target](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/allPathsFromSourceToTarget.cpp)   
 #133, [Clone Graph](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/cloneGraph.cpp)   
 #938, [Range Sum of BST](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/rangeSumOfBST.cpp)   
+#112, [Path Sum](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/pathSum.cpp)   
 
 # [Cpp STL](https://github.com/SLuo490/CPP-STL)
 #1910, [Remove All Occurrences of a Substring](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/removeOccurrences.cpp)  (npos)

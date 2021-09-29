@@ -59,6 +59,7 @@
 |#117|[Populate Next Right Pointer in Each Node II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/populateNextRightPtrInEachNodeII.cpp)|Medoum| |#112|[Path Sum](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/pathSum.cpp)|Easy|
 |#113|[Path Sum II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/pathSumII.cpp)|Medium||#257|[Binary Tree Paths](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/binaryTreePaths.cpp)|Easy|
 |#129|[Sum Root To Leaf Numbers](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/sumRootToLeafNum.cpp)|Medium| |#1430|[Path With Given Sequence](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/pathWithGivenSequence.cpp)|Medium|
+|#387|[First Unique Character in a String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/firstUniqueCharInStr.cpp)|Easy| |
 
 
 
@@ -150,6 +151,7 @@
 #1512, [Number of Good Pairs](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/numOfGoodPairs.cpp)   
 #205, [Isomorphic String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/isomorphicStr.cpp)   
 #1160, [Find Words That Can Be Formed by Characters](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/findWordsThatCanBeFormedByChar.cpp)   
+#387, [First Unique Character in a String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/firstUniqueCharInStr.cpp)   
 
 # Recursion
 #88, [Merges Sorted Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/MergeTwoSortedList.cpp)  

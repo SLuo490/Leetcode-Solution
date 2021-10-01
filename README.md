@@ -59,7 +59,8 @@
 |#117|[Populate Next Right Pointer in Each Node II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/populateNextRightPtrInEachNodeII.cpp)|Medoum| |#112|[Path Sum](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/pathSum.cpp)|Easy|
 |#113|[Path Sum II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/pathSumII.cpp)|Medium||#257|[Binary Tree Paths](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/binaryTreePaths.cpp)|Easy|
 |#129|[Sum Root To Leaf Numbers](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/sumRootToLeafNum.cpp)|Medium| |#1430|[Path With Given Sequence](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/pathWithGivenSequence.cpp)|Medium|
-|#387|[First Unique Character in a String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/firstUniqueCharInStr.cpp)|Easy| |#437|[Path Sum III](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/pathSumIII.cpp)|Medium|
+|#387|[First Unique Character in a String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/firstUniqueCharInStr.cpp)|Easy| |#437|[Path Sum III](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/pathSumIII.cpp)|Medium| 
+|#543|[Diameter of Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/diameterOfBinaryTree.cpp)|Easy| | 
 
 
 
@@ -215,6 +216,7 @@
 #129, [Sum Root To Leaf Numbers](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/sumRootToLeafNum.cpp)    
 #1430, [Path With Given Sequence](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/pathWithGivenSequence.cpp)   
 #437, [Path Sum III](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/pathSumIII.cpp)   
+#543, [Diameter of Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/diameterOfBinaryTree.cpp)   
 
 # [Cpp STL](https://github.com/SLuo490/CPP-STL)
 #1910, [Remove All Occurrences of a Substring](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/removeOccurrences.cpp)  (npos)

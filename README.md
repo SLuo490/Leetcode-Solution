@@ -61,6 +61,7 @@
 |#129|[Sum Root To Leaf Numbers](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/sumRootToLeafNum.cpp)|Medium| |#1430|[Path With Given Sequence](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/pathWithGivenSequence.cpp)|Medium|
 |#387|[First Unique Character in a String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/firstUniqueCharInStr.cpp)|Easy| |#437|[Path Sum III](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/pathSumIII.cpp)|Medium| 
 |#543|[Diameter of Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/diameterOfBinaryTree.cpp)|Easy| |#101|[Symmetric Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/symmetricTree.cpp)|Easy|
+|#2022|[Convert 1D Array Into 2D Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/convert1DArrTo2DArr.cpp)|Easy| |
 
 
 
@@ -72,24 +73,25 @@
 1. [Table of Content](#table-of-content)
 2. [Array](#array)
 3. [String](#string)
-4. [Binary Search](#binary-search)
-5. [Linked List](#linked-list)
-6. [Map](#map)
-7. [Recusion](#recursion)
-8. [Sliding Window](#sliding-window)
-9. [Two Pointer](#two-pointer)
-10. [Breadth First Search (BFS)](#breadth-first-search-bfs)
-11. [Depth First Search (DFS)](#depth-first-search-dfs)
-12. [Cpp STL](#cpp-stl)
-13. [Dikstra's Algorithm](#dijkstras-algorithm)
-14. [Bipartition Algorithm](#bipartition-algorithm)
-15. [BST](#bst)
-16. [Topological Sort](#topological-sort)
-17. [Bit Manipulation](#bit-manipulation)
-18. [Floyd's Cycle Finding Algorithm](#floyds-cycle-finding-algorithm)
-19. [Dynamic Programming](#dynamic-programming)   
-20. [Kadane's Algorithm](#kadanes-algorithm)
-21. [Prefix Sum](#prefix-sum)   
+4. [Matrix](#matrix-2d-array)
+5. [Binary Search](#binary-search)
+6. [Linked List](#linked-list)
+7. [Map](#map)
+8. [Recusion](#recursion)
+9. [Sliding Window](#sliding-window)
+10. [Two Pointer](#two-pointer)
+11. [Breadth First Search (BFS)](#breadth-first-search-bfs)
+12. [Depth First Search (DFS)](#depth-first-search-dfs)
+13. [Cpp STL](#cpp-stl)
+14. [Dikstra's Algorithm](#dijkstras-algorithm)
+15. [Bipartition Algorithm](#bipartition-algorithm)
+16. [BST](#bst)
+17. [Topological Sort](#topological-sort)
+18. [Bit Manipulation](#bit-manipulation)
+19. [Floyd's Cycle Finding Algorithm](#floyds-cycle-finding-algorithm)
+20. [Dynamic Programming](#dynamic-programming)   
+21. [Kadane's Algorithm](#kadanes-algorithm)
+22. [Prefix Sum](#prefix-sum)   
 <!--toc-->
 
 # Array
@@ -105,14 +107,12 @@
 #169, [Majority Element](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/MajorityElement.cpp)  
 #283, [Move Zeroes](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/MoveZero.cpp)  
 #485, [Max Consecutive Ones](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/MaxConsecutiveOne.cpp)  
-#48, [Rotate Image](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/rotateImage.cpp)  
 #704, [Binary Search](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/binarysearch.cpp)  
 #200, [Number of Islands](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/numIsland.cpp)  
 #209, [Minimum Size Subarray Sum](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/MinimizeMaxPairSum.cpp)   
 #215, [Kth Largest Element in an Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/KthLargestElement.cpp)  
 #977, [Squares of a Sorted Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/SquaresSortedArray.cpp)  
-#1295, [Find Numbers with Even Number of Digits](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/FindEvenDigit.cpp)  
-#1886, [Determine Whether Matrix Can Be Obtained By Rotation](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/determineMatrixRotation.cpp).     
+#1295, [Find Numbers with Even Number of Digits](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/FindEvenDigit.cpp)   
 #778, [Swim in Rising Water](https://github.com/SLuo490/Leetcode-Solution/blob/main/_Hard/swinInWater.cpp)  
 #1893, [Check if All the Integers in a Range Are Covered](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/isCover.cpp)   
 #274, [H-Index](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/hIndex.cpp)  
@@ -134,6 +134,11 @@
 #345, [Reverse Vowels of a String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/reverseVowelsofAString.cpp)   
 #657, [Robot Return to Origin](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/robotReturnToOrigin.cpp)\
 #5834, [Minimum Time to Type Word Using Special Typewriter](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/minTimeToTypeWord.cpp)   
+
+# Matrix (2D Array)
+#2022, [Convert 1D Array Into 2D Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/convert1DArrTo2DArr.cpp)
+#48, [Rotate Image](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/rotateImage.cpp)  
+#1886, [Determine Whether Matrix Can Be Obtained By Rotation](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/determineMatrixRotation.cpp)      
 
 # [Binary Search](https://github.com/SLuo490/Algorithm/blob/main/Binary%20Search/binarysearch.md)
 #69, [Sqrt(x)](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/sqrt(x).cpp)   

@@ -73,7 +73,7 @@
 1. [Table of Content](#table-of-content)
 2. [Array](#array)
 3. [String](#string)
-4. [Matrix](#matrix-2d-array)
+4. [Matrix (2D Array)](#matrix-2d-array)
 5. [Binary Search](#binary-search)
 6. [Linked List](#linked-list)
 7. [Map](#map)

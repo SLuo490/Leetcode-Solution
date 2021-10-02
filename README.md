@@ -60,7 +60,8 @@
 |#113|[Path Sum II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/pathSumII.cpp)|Medium||#257|[Binary Tree Paths](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/binaryTreePaths.cpp)|Easy|
 |#129|[Sum Root To Leaf Numbers](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/sumRootToLeafNum.cpp)|Medium| |#1430|[Path With Given Sequence](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/pathWithGivenSequence.cpp)|Medium|
 |#387|[First Unique Character in a String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/firstUniqueCharInStr.cpp)|Easy| |#437|[Path Sum III](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/pathSumIII.cpp)|Medium| 
-|#543|[Diameter of Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/diameterOfBinaryTree.cpp)|Easy| | 
+|#543|[Diameter of Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/diameterOfBinaryTree.cpp)|Easy| |#101|[Symmetric Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/symmetricTree.cpp)|Easy|
+
 
 
 
@@ -158,6 +159,7 @@
 #88, [Merges Sorted Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/MergeTwoSortedList.cpp)  
 #226, [Inverse Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/invertTree.cpp)  
 #206, [Reverse Linked List](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/ReverseLinkedList.cpp)  
+#101, [Symmetric Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/symmetricTree.cpp)   
 
 # [Sliding Window](https://github.com/SLuo490/Algorithm/blob/main/Sliding%20Window/SlidingWIndow.md)
 #3, [Longest Substring Without Repeating Characters](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/longestSubstr.cpp)  

@@ -62,6 +62,7 @@
 |#387|[First Unique Character in a String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/firstUniqueCharInStr.cpp)|Easy| |#437|[Path Sum III](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/pathSumIII.cpp)|Medium| 
 |#543|[Diameter of Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/diameterOfBinaryTree.cpp)|Easy| |#101|[Symmetric Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/symmetricTree.cpp)|Easy|
 |#2022|[Convert 1D Array Into 2D Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/convert1DArrTo2DArr.cpp)|Easy| |#2023|[Number of Pairs of Strings With Concatenation Equal to Target](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/numPairOfStrWithConcatEqualTarg.cpp)|Medium|
+|#250|[Count Univalue Subtrees](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/countUniValSubTree.cpp)|Medium| |
 
 
 
@@ -166,6 +167,7 @@
 #226, [Inverse Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/invertTree.cpp)  
 #206, [Reverse Linked List](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/ReverseLinkedList.cpp)  
 #101, [Symmetric Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/symmetricTree.cpp)   
+#250, [Count Univalue Subtrees](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/countUniValSubTree.cpp)
 
 # [Sliding Window](https://github.com/SLuo490/Algorithm/blob/main/Sliding%20Window/SlidingWIndow.md)
 #3, [Longest Substring Without Repeating Characters](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/longestSubstr.cpp)  

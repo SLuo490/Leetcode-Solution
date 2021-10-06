@@ -63,7 +63,7 @@
 |#543|[Diameter of Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/diameterOfBinaryTree.cpp)|Easy| |#101|[Symmetric Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/symmetricTree.cpp)|Easy|
 |#2022|[Convert 1D Array Into 2D Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/convert1DArrTo2DArr.cpp)|Easy| |#2023|[Number of Pairs of Strings With Concatenation Equal to Target](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/numPairOfStrWithConcatEqualTarg.cpp)|Medium|
 |#250|[Count Univalue Subtrees](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/countUniValSubTree.cpp)|Medium| |#1448|[Count Good Nodes in BST](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/countGoodNodesInBST.cpp)|Medium|
-|#2024|[Maximize the Confusion of an Exam](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/maximumConfustionOfAnExam.cpp)|Medium| |
+|#2024|[Maximize the Confusion of an Exam](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/maximumConfustionOfAnExam.cpp)|Medium| |#219|[Contains Duplicate II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/containDuplicateII.cpp)| 
 
 
 
@@ -162,6 +162,7 @@
 #205, [Isomorphic String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/isomorphicStr.cpp)   
 #1160, [Find Words That Can Be Formed by Characters](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/findWordsThatCanBeFormedByChar.cpp)   
 #387, [First Unique Character in a String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/firstUniqueCharInStr.cpp)   
+|#219, [Contains Duplicate II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/containDuplicateII.cpp)   
 
 # Recursion
 #88, [Merges Sorted Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/MergeTwoSortedList.cpp)  
@@ -183,7 +184,7 @@
 #643, [Maxiumum Average Subarray I](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/maxiumumAvgSubarray.cpp)   
 #1004, [Max Consecutive Ones](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/maxConsecutiveOnesIII.cpp)    
 #713, [Subarray Product Less Than K](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/subarrayProductLessThanK.cpp)   
-#2024, [Maximize the Confusion of an Exam](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/maximumConfustionOfAnExam.cpp)
+#2024, [Maximize the Confusion of an Exam](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/maximumConfustionOfAnExam.cpp)   
 
 # [Two Pointer](https://github.com/SLuo490/Algorithm/tree/main/Two%20Pointer)
 #345, [Reverse Vowels of a String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/reverseVowelsofAString.cpp)   

@@ -63,7 +63,8 @@
 |#543|[Diameter of Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/diameterOfBinaryTree.cpp)|Easy| |#101|[Symmetric Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/symmetricTree.cpp)|Easy|
 |#2022|[Convert 1D Array Into 2D Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/convert1DArrTo2DArr.cpp)|Easy| |#2023|[Number of Pairs of Strings With Concatenation Equal to Target](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/numPairOfStrWithConcatEqualTarg.cpp)|Medium|
 |#250|[Count Univalue Subtrees](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/countUniValSubTree.cpp)|Medium| |#1448|[Count Good Nodes in BST](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/countGoodNodesInBST.cpp)|Medium|
-|#2024|[Maximize the Confusion of an Exam](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/maximumConfustionOfAnExam.cpp)|Medium| |#219|[Contains Duplicate II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/containDuplicateII.cpp)| 
+|#2024|[Maximize the Confusion of an Exam](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/maximumConfustionOfAnExam.cpp)|Medium| |#219|[Contains Duplicate II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/containDuplicateII.cpp)|
+|#1108|[Defanging an IP Address](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/defangingAnIPAddress.cpp)|Easy| |
 
 
 
@@ -137,6 +138,7 @@
 #657, [Robot Return to Origin](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/robotReturnToOrigin.cpp)   
 #5834, [Minimum Time to Type Word Using Special Typewriter](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/minTimeToTypeWord.cpp)   
 #2023, [Number of Pairs of Strings With Concatenation Equal to Target](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/numPairOfStrWithConcatEqualTarg.cpp)   
+|#1108, [Defanging an IP Address](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/defangingAnIPAddress.cpp)   
 
 # Matrix (2D Array)
 #2022, [Convert 1D Array Into 2D Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/convert1DArrTo2DArr.cpp)

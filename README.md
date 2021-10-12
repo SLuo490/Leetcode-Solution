@@ -67,6 +67,7 @@
 |#1108|[Defanging an IP Address](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/defangingAnIPAddress.cpp)|Easy| |#1758|[Minimum Changes To Make Alternative Binary String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/minMovetoEqualArrayElement.cpp)|Easy| 
 |#202|[Happy Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/happyNumber.cpp)|Easy| |#876|[Middle Of LinkedList](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/middleOfLL.cpp)|Easy| 
 |#234|[Palindrome Linked List](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/palindromeLL.cpp)|Easy| |#1227|[Airplane Seat Assignment Probability](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/airplaneSeatAssignedProbability.cpp)|Medium|
+|#143|[Reorder Linked List](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/reorderLL.cpp)|Medium| | 
 
 ---
 
@@ -157,6 +158,7 @@
 #160, [Intersection of Two Linked Lists](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/intersectOfTwoLL.cpp)   
 #234, [Palindrome Linked List](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/palindromeLL.cpp)   
 #876, [Middle Of LinkedList](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/middleOfLL.cpp)      
+#143, [Reorder Linked List](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/reorderLL.cpp)    
 
 
 # [Map](https://github.com/SLuo490/Data-Structure/blob/main/Map/Map.md)
@@ -265,6 +267,7 @@
 #202, [Happy Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/happyNumber.cpp)   
 #876, [Middle Of LinkedList](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/middleOfLL.cpp)   
 #234, [Palindrome Linked List](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/palindromeLL.cpp)
+#143, [Reorder Linked List](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/reorderLL.cpp)   
 
 # Dynamic Programming
 #118, [Pascal's Triangle](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/pascalTriangle.cpp)   

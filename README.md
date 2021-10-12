@@ -65,10 +65,7 @@
 |#250|[Count Univalue Subtrees](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/countUniValSubTree.cpp)|Medium| |#1448|[Count Good Nodes in BST](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/countGoodNodesInBST.cpp)|Medium|
 |#2024|[Maximize the Confusion of an Exam](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/maximumConfustionOfAnExam.cpp)|Medium| |#219|[Contains Duplicate II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/containDuplicateII.cpp)|
 |#1108|[Defanging an IP Address](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/defangingAnIPAddress.cpp)|Easy| |#1758|[Minimum Changes To Make Alternative Binary String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/minMovetoEqualArrayElement.cpp)|Easy| 
-|#202|[Happy Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/happyNumber.cpp)|Easy| |
-
-
-
+|#202|[Happy Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/happyNumber.cpp)|Easy| |#876|[Middle Of LinkedList](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/middleOfLL.cpp)| 
 
 ---
 
@@ -261,6 +258,7 @@
 #142, [Linked List Cycle II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/LinkedListCycleII.cpp)   
 #287, [Find the Duplicate Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findDuplicateNum.cpp)      
 #202, [Happy Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/happyNumber.cpp)   
+#876, [Middle Of LinkedList](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/middleOfLL.cpp)   
 
 # Dynamic Programming
 #118, [Pascal's Triangle](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/pascalTriangle.cpp)   

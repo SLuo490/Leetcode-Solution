@@ -65,8 +65,8 @@
 |#250|[Count Univalue Subtrees](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/countUniValSubTree.cpp)|Medium| |#1448|[Count Good Nodes in BST](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/countGoodNodesInBST.cpp)|Medium|
 |#2024|[Maximize the Confusion of an Exam](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/maximumConfustionOfAnExam.cpp)|Medium| |#219|[Contains Duplicate II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/containDuplicateII.cpp)|
 |#1108|[Defanging an IP Address](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/defangingAnIPAddress.cpp)|Easy| |#1758|[Minimum Changes To Make Alternative Binary String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/minMovetoEqualArrayElement.cpp)|Easy| 
-|#202|[Happy Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/happyNumber.cpp)|Easy| |#876|[Middle Of LinkedList](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/middleOfLL.cpp)| 
-|#234|[Palindrome Linked List](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/palindromeLL.cpp)|Easy| |
+|#202|[Happy Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/happyNumber.cpp)|Easy| |#876|[Middle Of LinkedList](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/middleOfLL.cpp)|Easy| 
+|#234|[Palindrome Linked List](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/palindromeLL.cpp)|Easy| |#1227|[Airplane Seat Assignment Probability](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/airplaneSeatAssignedProbability.cpp)|Medium|
 
 ---
 
@@ -94,6 +94,7 @@
 20. [Dynamic Programming](#dynamic-programming)   
 21. [Kadane's Algorithm](#kadanes-algorithm)
 22. [Prefix Sum](#prefix-sum)   
+23. [Math](#math)
 <!--toc-->
 
 # Array
@@ -276,3 +277,5 @@
 # Prefix Sum
 [K Prefix](https://github.com/SLuo490/Binary-Search-Solutions/blob/main/Easy/kPrefix.cpp)   
 
+# Math
+#1227, [Airplane Seat Assignment Probability](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/airplaneSeatAssignedProbability.cpp)   

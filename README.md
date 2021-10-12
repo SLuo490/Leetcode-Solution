@@ -66,6 +66,7 @@
 |#2024|[Maximize the Confusion of an Exam](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/maximumConfustionOfAnExam.cpp)|Medium| |#219|[Contains Duplicate II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/containDuplicateII.cpp)|
 |#1108|[Defanging an IP Address](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/defangingAnIPAddress.cpp)|Easy| |#1758|[Minimum Changes To Make Alternative Binary String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/minMovetoEqualArrayElement.cpp)|Easy| 
 |#202|[Happy Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/happyNumber.cpp)|Easy| |#876|[Middle Of LinkedList](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/middleOfLL.cpp)| 
+|#234|[Palindrome Linked List](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/palindromeLL.cpp)|Easy| |
 
 ---
 
@@ -153,6 +154,9 @@
 #141, [Linked List Cycle](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/LinkedListCycle.cpp)   
 #142, [Linked List Cycle II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/LinkedListCycleII.cpp)   
 #160, [Intersection of Two Linked Lists](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/intersectOfTwoLL.cpp)   
+#234, [Palindrome Linked List](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/palindromeLL.cpp)   
+#876, [Middle Of LinkedList](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/middleOfLL.cpp)      
+
 
 # [Map](https://github.com/SLuo490/Data-Structure/blob/main/Map/Map.md)
 #1876, [Substrings of Size Three with Distinct Characters](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/countGoodSubstrings.cpp)  
@@ -259,6 +263,7 @@
 #287, [Find the Duplicate Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findDuplicateNum.cpp)      
 #202, [Happy Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/happyNumber.cpp)   
 #876, [Middle Of LinkedList](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/middleOfLL.cpp)   
+#234, [Palindrome Linked List](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/palindromeLL.cpp)
 
 # Dynamic Programming
 #118, [Pascal's Triangle](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/pascalTriangle.cpp)   

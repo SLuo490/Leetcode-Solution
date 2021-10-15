@@ -19,6 +19,8 @@ Input: firstList = [], secondList = [[4,8],[10,12]]
 Output: []
 */
 
+// Time complexity: O(M + N) where M and N is the size of list A and B
+// Space Complexity: O(M + N) the maximum size of the answer
 
 class Solution {
 public:
@@ -44,7 +46,30 @@ public:
         }
         
         return res;
+    }
+    
+    /* Easier Syntax */
+
+    vector<vector<int>> intervalIntersection(vector<vector<int>>& firstList, vector<vector<int>>& secondList) {
+        vector<vector<int>> res; 
+        int i = 0, j = 0;
         
+        while (i < firstList.size() && j < secondList.size()) {
+            //this finds the overlap 
+            int start = max(firstList[i][0], secondList[j][0]);
+            int end = min(firstList[i][1], secondList[j][1]);
+            
+            if (start <= end) {
+                res.push_back({start,end});
+            }
+            
+            if (firstList[i][1] < secondList[j][1]) {
+                i++;
+            } else {
+                j++;
+            }
+        }
+        return res;
     }
 };
 /*

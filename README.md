@@ -69,7 +69,7 @@
 |#234|[Palindrome Linked List](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/palindromeLL.cpp)|Easy| |#1227|[Airplane Seat Assignment Probability](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/airplaneSeatAssignedProbability.cpp)|Medium|
 |#143|[Reorder Linked List](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/reorderLL.cpp)|Medium| |#56|[Merge Intervals](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/mergeIntervals.cpp)|Medium| 
 |#57|[Insert Interval](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/insertInterval.cpp)|Medium| |#252|[Meeting Room](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/meetingRooms.cpp)|Easy|
-|#986|[Interval List Intersection](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/intervalListIntersection.cpp)|Medium| |
+|#986|[Interval List Intersection](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/intervalListIntersection.cpp)|Medium| |#2037|[Minimum Number of Moves to Move Seat to Everyone](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/minimumNumberofMovestoSeatEveryone.cpp)|Easy|
 
 
 ---
@@ -124,7 +124,8 @@
 #778, [Swim in Rising Water](https://github.com/SLuo490/Leetcode-Solution/blob/main/_Hard/swinInWater.cpp)  
 #1893, [Check if All the Integers in a Range Are Covered](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/isCover.cpp)   
 #274, [H-Index](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/hIndex.cpp)  
-#453, [Minimum Moves to Equal Array Elements](https://github.com/SLuo490/Leetcode-Solution/blob/17e34b5d04a0bcb3d742b86a96d97827bbfb03a0/Easy/minMovetoEqualArrayElement.cpp)    
+#453, [Minimum Moves to Equal Array Elements](https://github.com/SLuo490/Leetcode-Solution/blob/17e34b5d04a0bcb3d742b86a96d97827bbfb03a0/Easy/minMovetoEqualArrayElement.cpp)  
+#2037, [Minimum Number of Moves to Move Seat to Everyone](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/minimumNumberofMovestoSeatEveryone.cpp)   
 
 # [String](https://github.com/SLuo490/Data-Structure/blob/main/String/string.md)
 #20, [Valid Parentheses](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/ValidParentheses.cpp)  

@@ -70,6 +70,7 @@
 |#143|[Reorder Linked List](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/reorderLL.cpp)|Medium| |#56|[Merge Intervals](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/mergeIntervals.cpp)|Medium| 
 |#57|[Insert Interval](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/insertInterval.cpp)|Medium| |#252|[Meeting Room](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/meetingRooms.cpp)|Easy|
 |#986|[Interval List Intersection](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/intervalListIntersection.cpp)|Medium| |#2037|[Minimum Number of Moves to Move Seat to Everyone](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/minimumNumberofMovestoSeatEveryone.cpp)|Easy|
+|#2038|[Remove Colored Pieces if Both Neighbors are the Same Color](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/removeColoredPiecesIfBothNeighborsAreTheSameColor.cpp)|Medium||
 
 
 ---
@@ -146,6 +147,7 @@
 #2023, [Number of Pairs of Strings With Concatenation Equal to Target](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/numPairOfStrWithConcatEqualTarg.cpp)   
 #1108, [Defanging an IP Address](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/defangingAnIPAddress.cpp)   
 #1758, [Minimum Changes To Make Alternative Binary String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/minMovetoEqualArrayElement.cpp)   
+#2038, [Remove Colored Pieces if Both Neighbors are the Same Color](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/removeColoredPiecesIfBothNeighborsAreTheSameColor.cpp)   
 
 # Matrix (2D Array)
 #2022, [Convert 1D Array Into 2D Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/convert1DArrTo2DArr.cpp)

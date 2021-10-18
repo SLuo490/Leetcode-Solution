@@ -70,7 +70,8 @@
 |#143|[Reorder Linked List](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/reorderLL.cpp)|Medium| |#56|[Merge Intervals](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/mergeIntervals.cpp)|Medium| 
 |#57|[Insert Interval](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/insertInterval.cpp)|Medium| |#252|[Meeting Room](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/meetingRooms.cpp)|Easy|
 |#986|[Interval List Intersection](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/intervalListIntersection.cpp)|Medium| |#2037|[Minimum Number of Moves to Move Seat to Everyone](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/minimumNumberofMovestoSeatEveryone.cpp)|Easy|
-|#2038|[Remove Colored Pieces if Both Neighbors are the Same Color](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/removeColoredPiecesIfBothNeighborsAreTheSameColor.cpp)|Medium||
+|#2038|[Remove Colored Pieces if Both Neighbors are the Same Color](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/removeColoredPiecesIfBothNeighborsAreTheSameColor.cpp)|Medium||#258|[Add Digits](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/addDigits.cpp)|Easy| 
+
 
 
 ---
@@ -288,6 +289,7 @@
 
 # Math
 #1227, [Airplane Seat Assignment Probability](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/airplaneSeatAssignedProbability.cpp)   
+#258, [Add Digits](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/addDigits.cpp)   
 
 # Merge Intervals
 #56, [Merge Intervals](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/mergeIntervals.cpp)    

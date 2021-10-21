@@ -34,7 +34,7 @@ The segment of 1s is not longer, so return false.
 class Solution {
 public:
     bool checkZeroOnes(string s) {
-        int numOnes = 0, numZeroes = 0, maxOnes = 0, maxZeroes = 0; 
+        int numOnes = 0, numZeros = 0, maxOnes = 0, maxZeros = 0; 
         
         for (int i = 0; i < s.length(); i++) {
             //find the maximum contiguous ones
@@ -47,12 +47,12 @@ public:
             
             //find the maximum contigious zeroes
             if (s[i] == '0') {
-                numZeroes++; 
-                maxZeroes = max(maxZeroes, numZeroes); 
+                numZeros++; 
+                maxZeros = max(maxZeros, numZeros); 
             } else {
-                numZeroes = 0; 
+                numZeros = 0; 
             }
         }
-        return maxOnes > maxZeroes; 
+        return maxOnes > maxZeros; 
     }
 };

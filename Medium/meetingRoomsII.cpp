@@ -15,16 +15,16 @@ public:
     int minMeetingRooms(vector<vector<int>>& intervals) {
         int room = 0; 
         sort(intervals.begin(), intervals.end()); 
-      
-        //minHeap
-        priority_queue<int,vector<int>, greater<int>> pq; // greater<int> -> smallest value first
+        priority_queue<int,vector<int>, greater<int>> pq; 
         
         for (auto interval : intervals) {
             int start = interval[0], end = interval[1]; // current start and end of interval
             
+            //if the minimum element of heap is free, then we pop the top element and add it back with the ending time of current meeting
             while (!pq.empty() && pq.top() <= start) {
                 pq.pop(); 
             }
+            //if it is not free, we add the ending 
             pq.push(end); 
             room = max(room, (int)pq.size()); 
         }

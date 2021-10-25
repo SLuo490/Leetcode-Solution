@@ -73,6 +73,7 @@
 |#2038|[Remove Colored Pieces if Both Neighbors are the Same Color](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/removeColoredPiecesIfBothNeighborsAreTheSameColor.cpp)|Medium||#258|[Add Digits](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/addDigits.cpp)|Easy| 
 |#1869|[Longer Contiguous Segments of Ones than Zeros](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/longerContiSegOfOnesThanZeroes.cpp)|Easy| |#253|[Meeting Room II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/meetingRoomsII.cpp)|Medium|
 |#448|[Find All Numbers Disappeared in an Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/findAllNumDisappearedInArray.cpp)|Easy| |#442|[Find All Duplicates in an Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findAllDuplicatesInArray.cpp)|Medium|
+|#268|[Missing Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/missingNum.cpp)|Easy| |
 
 
 ---
@@ -303,6 +304,7 @@
 # Cyclic Sort
 #448, [Find All Numbers Disappeared in an Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/findAllNumDisappearedInArray.cpp)
 #442, [Find All Duplicates in an Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findAllDuplicatesInArray.cpp)   
+#268, [Missing Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/missingNum.cpp)   
 
 
 

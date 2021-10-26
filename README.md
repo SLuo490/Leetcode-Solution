@@ -74,6 +74,7 @@
 |#1869|[Longer Contiguous Segments of Ones than Zeros](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/longerContiSegOfOnesThanZeroes.cpp)|Easy| |#253|[Meeting Room II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/meetingRoomsII.cpp)|Medium|
 |#448|[Find All Numbers Disappeared in an Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/findAllNumDisappearedInArray.cpp)|Easy| |#442|[Find All Duplicates in an Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findAllDuplicatesInArray.cpp)|Medium|
 |#268|[Missing Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/missingNum.cpp)|Easy| |#645|[Set Mismatch](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/setMismatch.cpp)|Easy|
+|#41|[Find Missing Positive](https://github.com/SLuo490/Leetcode-Solution/blob/main/_Hard/findMissingPositive.cpp)|Hard| |
 
 
 ---
@@ -306,6 +307,7 @@
 #442, [Find All Duplicates in an Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findAllDuplicatesInArray.cpp)   
 #268, [Missing Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/missingNum.cpp)   
 #645, [Set Mismatch](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/setMismatch.cpp)   
+#41, [Find Missing Positive](https://github.com/SLuo490/Leetcode-Solution/blob/main/_Hard/findMissingPositive.cpp)   
 
 
 

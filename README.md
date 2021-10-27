@@ -74,7 +74,7 @@
 |#1869|[Longer Contiguous Segments of Ones than Zeros](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/longerContiSegOfOnesThanZeroes.cpp)|Easy| |#253|[Meeting Room II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/meetingRoomsII.cpp)|Medium|
 |#448|[Find All Numbers Disappeared in an Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/findAllNumDisappearedInArray.cpp)|Easy| |#442|[Find All Duplicates in an Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findAllDuplicatesInArray.cpp)|Medium|
 |#268|[Missing Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/missingNum.cpp)|Easy| |#645|[Set Mismatch](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/setMismatch.cpp)|Easy|
-|#41|[Find Missing Positive](https://github.com/SLuo490/Leetcode-Solution/blob/main/_Hard/findMissingPositive.cpp)|Hard| |
+|#41|[Find Missing Positive](https://github.com/SLuo490/Leetcode-Solution/blob/main/_Hard/findMissingPositive.cpp)|Hard| |#266|[Palindrome Permutation](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/palindromePermutation.cpp)|Easy|
 
 
 ---
@@ -153,7 +153,8 @@
 #1108, [Defanging an IP Address](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/defangingAnIPAddress.cpp)   
 #1758, [Minimum Changes To Make Alternative Binary String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/minMovetoEqualArrayElement.cpp)   
 #2038, [Remove Colored Pieces if Both Neighbors are the Same Color](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/removeColoredPiecesIfBothNeighborsAreTheSameColor.cpp)   
-#1869, [Longer Contiguous Segments of Ones than Zeros](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/longerContiSegOfOnesThanZeroes.cpp)
+#1869, [Longer Contiguous Segments of Ones than Zeros](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/longerContiSegOfOnesThanZeroes.cpp)   
+#266, [Palindrome Permutation](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/palindromePermutation.cpp)   
 
 # Matrix (2D Array)
 #2022, [Convert 1D Array Into 2D Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/convert1DArrTo2DArr.cpp)

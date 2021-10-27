@@ -75,6 +75,7 @@
 |#448|[Find All Numbers Disappeared in an Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/findAllNumDisappearedInArray.cpp)|Easy| |#442|[Find All Duplicates in an Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findAllDuplicatesInArray.cpp)|Medium|
 |#268|[Missing Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/missingNum.cpp)|Easy| |#645|[Set Mismatch](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/setMismatch.cpp)|Easy|
 |#41|[Find Missing Positive](https://github.com/SLuo490/Leetcode-Solution/blob/main/_Hard/findMissingPositive.cpp)|Hard| |#266|[Palindrome Permutation](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/palindromePermutation.cpp)|Easy|
+|#476|[Number Complement](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/numberComplement.cpp)|Easy| |
 
 
 ---

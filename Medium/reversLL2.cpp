@@ -22,6 +22,71 @@ Output: [5]
  */
 class Solution {
 public:
+    ListNode* reverseBetween(ListNode* head, int left, int right) {
+        if (head == nullptr) return nullptr; 
+        
+        ListNode* curr = head, *prev = nullptr; 
+        
+        //traverse curr and prev to start of reversal
+        while (left > 1) {
+            prev = curr; 
+            curr = curr->next; 
+            left--; 
+            right--; 
+        }
+        
+        //two pointer that will fix final connection
+        ListNode* con = prev, *tail = curr; 
+        
+        //reversal 
+        ListNode* temp = nullptr;
+        while (right > 0) {
+            temp = curr->next; 
+            curr->next = prev; 
+            prev = curr; 
+            curr = temp; 
+            right--; 
+        }
+        
+        //connect con to the last element of reversal 
+        /*
+            7 -> 9 <- 2 <- 10 <- 1 <- 8 -> 6
+                con  tail            prev  curr
+            con->next = prev
+            
+            
+            7 -> 9 -> 8 -> 1 -> 10 -> 2      6 
+                         tail   curr
+                         
+            tail -> next = curr
+            
+            7 -> 9 -> 8 -> 1 -> 10 -> 2 -> 6 
+        
+        */
+        if (con != nullptr) {
+            con->next = prev; 
+        } else {
+            head = prev; 
+        }
+        
+        /*
+            7 -> 9 -> 8 -> 1 -> 10 -> 2      6 
+                 tail   curr
+                         
+            tail -> next = curr
+            
+            7 -> 9 -> 8 -> 1 -> 10 -> 2 -> 6 
+        */
+        
+        tail->next = curr; 
+        return head; 
+    }
+};
+
+// Another Solution: 
+
+class Solution {
+public:
    ListNode* reverseBetween(ListNode* head, int m, int n) {
        
        if (head == nullptr) return nullptr;
@@ -48,6 +113,5 @@ public:
            cout << endl;
        }
        return dummy->next;
-       
    }
 };

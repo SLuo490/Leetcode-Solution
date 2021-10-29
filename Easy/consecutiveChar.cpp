@@ -20,20 +20,17 @@ Output: 1
 class Solution {
 public:
     int maxPower(string s) {
-        int maxChar = 0;
-        int count = 1;
-
-        int j = 1;
+        int length = 1, maxLength = 0; 
+        
         for (int i = 0; i < s.length(); i++) {
-            if (s[i] == s[j]) {
-                count++;
+            if (s[i] == s[i + 1]) {
+                length++; 
             } else {
-                count = 1;
+                length = 1; 
             }
-            maxChar = max(count, maxChar);
-            j++;
+            maxLength = max(length, maxLength); 
         }
-        return maxChar;
+        return maxLength; 
     }
 };
 

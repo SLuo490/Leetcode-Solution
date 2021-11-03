@@ -77,7 +77,7 @@
 |#41|[Find Missing Positive](https://github.com/SLuo490/Leetcode-Solution/blob/main/_Hard/findMissingPositive.cpp)|Hard| |#266|[Palindrome Permutation](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/palindromePermutation.cpp)|Easy|
 |#476|[Number Complement](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/numberComplement.cpp)|Easy| |#1759|[Count Number of Homogenous Substring](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/countNumOfHomoSubStr.cpp)|Medium| 
 |#1513|[Number of Substrings with Only 1s](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/numberOfSubStrWithOnly1s.cpp)|Medium| |#2053|[Kth Distinct String in an Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/kthDistinctStrInArr.cpp)|Easy|
-|#278|[First Bad Version](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/firstBadVersion.cpp)|Easy| |
+|#278|[First Bad Version](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/firstBadVersion.cpp)|Easy| |#189|[Rotate Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/rotateArray.cpp)|Medium|
 
 
 ---

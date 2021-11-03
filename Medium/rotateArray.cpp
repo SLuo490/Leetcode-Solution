@@ -30,6 +30,14 @@ public:
         }
         nums = res; 
     }
+    
+    //O(n) Time, O(1) Space
+    void rotate(vector<int>& nums, int k) {        
+        k = k % nums.size(); // we want modulo because k can be greater than n
+        reverse(nums.begin(), nums.end()); //reverse entire array
+        reverse(nums.begin(), nums.begin() + k); //reverse up to k 
+        reverse(nums.begin() + k, nums.end()); //reverse k to end
+    }
 };
 
 /*

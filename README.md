@@ -192,9 +192,9 @@
 |#219, [Contains Duplicate II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/containDuplicateII.cpp)   
 
 # Recursion
-#88, [Merges Sorted Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/MergeTwoSortedList.cpp)  
+#88, [Merges Sorted Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/mergeTwoSortedList.cpp)  
 #226, [Inverse Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/invertTree.cpp)  
-#206, [Reverse Linked List](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/ReverseLinkedList.cpp)  
+#206, [Reverse Linked List](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/reverseLinkedList.cpp)  
 #101, [Symmetric Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/symmetricTree.cpp)   
 #250, [Count Univalue Subtrees](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/countUniValSubTree.cpp)   
 #1448, [Count Good Nodes in BST](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/countGoodNodesInBST.cpp)   

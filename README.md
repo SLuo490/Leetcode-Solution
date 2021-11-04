@@ -78,6 +78,7 @@
 |#476|[Number Complement](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/numberComplement.cpp)|Easy| |#1759|[Count Number of Homogenous Substring](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/countNumOfHomoSubStr.cpp)|Medium| 
 |#1513|[Number of Substrings with Only 1s](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/numberOfSubStrWithOnly1s.cpp)|Medium| |#2053|[Kth Distinct String in an Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/kthDistinctStrInArr.cpp)|Easy|
 |#278|[First Bad Version](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/firstBadVersion.cpp)|Easy| |#189|[Rotate Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/rotateArray.cpp)|Medium|
+|#557|[Reverse Words in a String III](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/reverseWordsInAStrIII.cpp)|Easy| |
 
 
 ---
@@ -158,6 +159,7 @@
 #2038, [Remove Colored Pieces if Both Neighbors are the Same Color](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/removeColoredPiecesIfBothNeighborsAreTheSameColor.cpp)   
 #1869, [Longer Contiguous Segments of Ones than Zeros](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/longerContiSegOfOnesThanZeroes.cpp)   
 #266, [Palindrome Permutation](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/palindromePermutation.cpp)   
+#557, [Reverse Words in a String III](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/reverseWordsInAStrIII.cpp)   
 
 # Matrix (2D Array)
 #2022, [Convert 1D Array Into 2D Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/convert1DArrTo2DArr.cpp)

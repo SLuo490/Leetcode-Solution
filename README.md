@@ -262,7 +262,7 @@
 #437, [Path Sum III](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/pathSumIII.cpp)   
 #543, [Diameter of Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/diameterOfBinaryTree.cpp)   
 
-# [Depth First Search Matrix]
+# Depth First Search Matrix
 #200, [Number of Islands](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/numIsland.cpp)   
 #733, [Flood Fill](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/floodFill.cpp)   
 #695, [Max Area of Island](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/maxAreaOfIsland.cpp)   

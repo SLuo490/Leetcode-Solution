@@ -79,7 +79,7 @@
 |#1513|[Number of Substrings with Only 1s](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/numberOfSubStrWithOnly1s.cpp)|Medium| |#2053|[Kth Distinct String in an Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/kthDistinctStrInArr.cpp)|Easy|
 |#278|[First Bad Version](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/firstBadVersion.cpp)|Easy| |#189|[Rotate Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/rotateArray.cpp)|Medium|
 |#557|[Reverse Words in a String III](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/reverseWordsInAStrIII.cpp)|Easy| |#19|[Remove Nth Node From End Of List](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/removeNthNodeFromEndOfList.cpp)|Medium| 
-|#733|[Flood Fill](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/floodFill.cpp)|Easy| |
+|#733|[Flood Fill](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/floodFill.cpp)|Easy| |#695|[Max Area of Island](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/maxAreaOfIsland.cpp)|Medium| 
 
 ---
 
@@ -97,19 +97,20 @@
 10. [Two Pointer](#two-pointer)
 11. [Breadth First Search (BFS)](#breadth-first-search-bfs)
 12. [Depth First Search (DFS)](#depth-first-search-dfs)
-13. [Cpp STL](#cpp-stl)
-14. [Dikstra's Algorithm](#dijkstras-algorithm)
-15. [Bipartition Algorithm](#bipartition-algorithm)
-16. [BST](#bst)
-17. [Topological Sort](#topological-sort)
-18. [Bit Manipulation](#bit-manipulation)
-19. [Floyd's Cycle Finding Algorithm](#floyds-cycle-finding-algorithm)
-20. [Dynamic Programming](#dynamic-programming)   
-21. [Kadane's Algorithm](#kadanes-algorithm)
-22. [Prefix Sum](#prefix-sum)   
-23. [Math](#math)
-24. [Merge Intervals](#merge-intervals)   
-25. [Cyclic Sort](#cyclic-sort)   
+13. [Depth First Search Matrix](#depth-first-search-matrix)
+14. [Cpp STL](#cpp-stl)
+15. [Dikstra's Algorithm](#dijkstras-algorithm)
+16. [Bipartition Algorithm](#bipartition-algorithm)
+17. [BST](#bst)
+18. [Topological Sort](#topological-sort)
+19. [Bit Manipulation](#bit-manipulation)
+20. [Floyd's Cycle Finding Algorithm](#floyds-cycle-finding-algorithm)
+21. [Dynamic Programming](#dynamic-programming)   
+22. [Kadane's Algorithm](#kadanes-algorithm)
+23. [Prefix Sum](#prefix-sum)   
+24. [Math](#math)
+25. [Merge Intervals](#merge-intervals)   
+26. [Cyclic Sort](#cyclic-sort)   
 <!--toc-->
 
 # Array
@@ -248,7 +249,6 @@
 #117, [Populate Next Right Pointer in Each Node II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/populateNextRightPtrInEachNodeII.cpp)   
 
 # [Depth First Search (DFS)](https://github.com/SLuo490/Algorithm/blob/main/DFS%20and%20BFS/DFS_BFS.md)
-#200, [Number of Islands](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/numIsland.cpp)  
 #1469, [Find all Lonely Node](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/lonelyNode.cpp)  
 #1971, [Find if Path Exists in Graph](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/findIfPathExistsInGraph.cpp)   
 #797, [All Paths From Source to Target](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/allPathsFromSourceToTarget.cpp)   
@@ -261,7 +261,11 @@
 #1430, [Path With Given Sequence](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/pathWithGivenSequence.cpp)   
 #437, [Path Sum III](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/pathSumIII.cpp)   
 #543, [Diameter of Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/diameterOfBinaryTree.cpp)   
+
+# [Depth First Search Matrix]
+#200, [Number of Islands](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/numIsland.cpp)   
 #733, [Flood Fill](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/floodFill.cpp)   
+#695, [Max Area of Island](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/maxAreaOfIsland.cpp)   
 
 # [Cpp STL](https://github.com/SLuo490/CPP-STL)
 #1910, [Remove All Occurrences of a Substring](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/removeOccurrences.cpp)  (npos)

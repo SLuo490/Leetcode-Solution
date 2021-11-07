@@ -27,7 +27,7 @@ Output: [2,2]
 class Solution {
 public:
     TreeNode* mergeTrees(TreeNode* root1, TreeNode* root2) {
-        //edge case 
+        //Base case 
         if (root1 == nullptr) return root2; 
         if (root2 == nullptr) return root1; 
         

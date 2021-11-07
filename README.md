@@ -80,6 +80,7 @@
 |#278|[First Bad Version](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/firstBadVersion.cpp)|Easy| |#189|[Rotate Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/rotateArray.cpp)|Medium|
 |#557|[Reverse Words in a String III](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/reverseWordsInAStrIII.cpp)|Easy| |#19|[Remove Nth Node From End Of List](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/removeNthNodeFromEndOfList.cpp)|Medium| 
 |#733|[Flood Fill](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/floodFill.cpp)|Easy| |#695|[Max Area of Island](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/maxAreaOfIsland.cpp)|Medium| 
+|#617|[Merge Two Binary Trees](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/mergeTwoBinaryTree.cpp)|Easy| | 
 
 ---
 
@@ -202,6 +203,7 @@
 #101, [Symmetric Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/symmetricTree.cpp)   
 #250, [Count Univalue Subtrees](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/countUniValSubTree.cpp)   
 #1448, [Count Good Nodes in BST](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/countGoodNodesInBST.cpp)   
+#617, [Merge Two Binary Trees](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/mergeTwoBinaryTree.cpp)
 
 # [Sliding Window](https://github.com/SLuo490/Algorithm/blob/main/Sliding%20Window/SlidingWIndow.md)
 #3, [Longest Substring Without Repeating Characters](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/longestSubstr.cpp)  

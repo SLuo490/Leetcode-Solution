@@ -254,7 +254,7 @@
 #100, [Same Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/sameTree.cpp)   
 #117, [Populate Next Right Pointer in Each Node II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/populateNextRightPtrInEachNodeII.cpp)   
 
-# Breadth First Search Matrix
+# [Breadth First Search Matrix](https://github.com/SLuo490/Algorithm/blob/main/BFS%20Matrix%20Traversal/BFSMatrix.md)
 #542, [01 Matrix](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/01Matrix.cpp)   
 #994, [Rotting Oranges](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/rottingOranges.cpp)      
 #542, [Walls and Gates](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/wallsAndGates.cpp)    

@@ -81,7 +81,8 @@
 |#557|[Reverse Words in a String III](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/reverseWordsInAStrIII.cpp)|Easy| |#19|[Remove Nth Node From End Of List](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/removeNthNodeFromEndOfList.cpp)|Medium| 
 |#733|[Flood Fill](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/floodFill.cpp)|Easy| |#695|[Max Area of Island](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/maxAreaOfIsland.cpp)|Medium| 
 |#617|[Merge Two Binary Trees](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/mergeTwoBinaryTree.cpp)|Easy| |#463|[Island Perimeter](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/islandPerimeter.cpp)|Easy| 
-|#542|[01 Matrix](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/01Matrix.cpp)|Medium| |
+|#542|[01 Matrix](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/01Matrix.cpp)|Medium| |#994|[Rotting Oranges](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/rottingOranges.cpp)|Medium| 
+
 
 ---
 
@@ -253,7 +254,8 @@
 #117, [Populate Next Right Pointer in Each Node II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/populateNextRightPtrInEachNodeII.cpp)   
 
 # [Breadth First Search Matrix]
-#542, [01 Matrix](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/01Matrix.cpp)
+#542, [01 Matrix](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/01Matrix.cpp)   
+#994, [Rotting Oranges](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/rottingOranges.cpp)   
 
 
 

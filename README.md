@@ -81,6 +81,7 @@
 |#557|[Reverse Words in a String III](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/reverseWordsInAStrIII.cpp)|Easy| |#19|[Remove Nth Node From End Of List](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/removeNthNodeFromEndOfList.cpp)|Medium| 
 |#733|[Flood Fill](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/floodFill.cpp)|Easy| |#695|[Max Area of Island](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/maxAreaOfIsland.cpp)|Medium| 
 |#617|[Merge Two Binary Trees](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/mergeTwoBinaryTree.cpp)|Easy| |#463|[Island Perimeter](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/islandPerimeter.cpp)|Easy| 
+|#542|[01 Matrix](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/01Matrix.cpp)|Medium| |
 
 ---
 
@@ -175,7 +176,6 @@
 #278, [First Bad Version](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/firstBadVersion.cpp)   
 #704, [Binary Search](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/binarysearch.cpp)     
 
-
 # Linked List
 #92 [Reverse Linked List II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/reversLL2.cpp)   
 #141, [Linked List Cycle](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/LinkedListCycle.cpp)   
@@ -250,6 +250,7 @@
 #116, [Populating Next Right Pointer in Each Node](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/populateNextRightPtrInEachNode.cpp)   
 #100, [Same Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/sameTree.cpp)   
 #117, [Populate Next Right Pointer in Each Node II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/populateNextRightPtrInEachNodeII.cpp)   
+#542, [01 Matrix](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/01Matrix.cpp)
 
 # [Depth First Search (DFS)](https://github.com/SLuo490/Algorithm/blob/main/DFS%20and%20BFS/DFS_BFS.md)
 #1469, [Find all Lonely Node](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/lonelyNode.cpp)  
@@ -303,6 +304,7 @@
 #118, [Pascal's Triangle](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/pascalTriangle.cpp)   
 #53, [Maximum Subarray](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/MaxSubarray.cpp)   
 #119, [Pascal's Triangle II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/pascalTriangleII.cpp)   
+#542, [01 Matrix](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/01Matrix.cpp)
 
 # Kadane's Algorithm
 #121, [Best Time to Buy and Sell Stock](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/bestTimeToBuySellStock.cpp)   

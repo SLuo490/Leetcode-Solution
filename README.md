@@ -98,21 +98,22 @@
 9. [Sliding Window](#sliding-window)
 10. [Two Pointer](#two-pointer)
 11. [Breadth First Search (BFS)](#breadth-first-search-bfs)
-12. [Depth First Search (DFS)](#depth-first-search-dfs)
-13. [Depth First Search Matrix](#depth-first-search-matrix)
-14. [Cpp STL](#cpp-stl)
-15. [Dikstra's Algorithm](#dijkstras-algorithm)
-16. [Bipartition Algorithm](#bipartition-algorithm)
-17. [BST](#bst)
-18. [Topological Sort](#topological-sort)
-19. [Bit Manipulation](#bit-manipulation)
-20. [Floyd's Cycle Finding Algorithm](#floyds-cycle-finding-algorithm)
-21. [Dynamic Programming](#dynamic-programming)   
-22. [Kadane's Algorithm](#kadanes-algorithm)
-23. [Prefix Sum](#prefix-sum)   
-24. [Math](#math)
-25. [Merge Intervals](#merge-intervals)   
-26. [Cyclic Sort](#cyclic-sort)   
+12. [Breadth First Search Matrix](#breadth-first-search-matrix)
+13. [Depth First Search (DFS)](#depth-first-search-dfs)
+14. [Depth First Search Matrix](#depth-first-search-matrix)
+15. [Cpp STL](#cpp-stl)
+16. [Dikstra's Algorithm](#dijkstras-algorithm)
+17. [Bipartition Algorithm](#bipartition-algorithm)
+18. [BST](#bst)
+19. [Topological Sort](#topological-sort)
+20. [Bit Manipulation](#bit-manipulation)
+21. [Floyd's Cycle Finding Algorithm](#floyds-cycle-finding-algorithm)
+22. [Dynamic Programming](#dynamic-programming)   
+23. [Kadane's Algorithm](#kadanes-algorithm)
+24. [Prefix Sum](#prefix-sum)   
+25. [Math](#math)
+26. [Merge Intervals](#merge-intervals)   
+27. [Cyclic Sort](#cyclic-sort)   
 <!--toc-->
 
 # Array
@@ -250,7 +251,11 @@
 #116, [Populating Next Right Pointer in Each Node](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/populateNextRightPtrInEachNode.cpp)   
 #100, [Same Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/sameTree.cpp)   
 #117, [Populate Next Right Pointer in Each Node II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/populateNextRightPtrInEachNodeII.cpp)   
+
+# [Breadth First Search Matrix]
 #542, [01 Matrix](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/01Matrix.cpp)
+
+
 
 # [Depth First Search (DFS)](https://github.com/SLuo490/Algorithm/blob/main/DFS%20and%20BFS/DFS_BFS.md)
 #1469, [Find all Lonely Node](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/lonelyNode.cpp)  

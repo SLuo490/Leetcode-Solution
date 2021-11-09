@@ -82,9 +82,7 @@
 |#733|[Flood Fill](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/floodFill.cpp)|Easy| |#695|[Max Area of Island](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/maxAreaOfIsland.cpp)|Medium| 
 |#617|[Merge Two Binary Trees](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/mergeTwoBinaryTree.cpp)|Easy| |#463|[Island Perimeter](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/islandPerimeter.cpp)|Easy| 
 |#542|[01 Matrix](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/01Matrix.cpp)|Medium| |#994|[Rotting Oranges](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/rottingOranges.cpp)|Medium| 
-|#542|[Walls and Gates](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/wallsAndGates.cpp)|Medium| |
-
-
+|#542|[Walls and Gates](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/wallsAndGates.cpp)|Medium| |#1827|[Minimum Operations to Make the Array Increasing](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/minOperationToMakeArrIncreasing.cpp)|
 ---
 
 <!--toc-->

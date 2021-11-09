@@ -83,6 +83,7 @@
 |#617|[Merge Two Binary Trees](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/mergeTwoBinaryTree.cpp)|Easy| |#463|[Island Perimeter](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/islandPerimeter.cpp)|Easy| 
 |#542|[01 Matrix](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/01Matrix.cpp)|Medium| |#994|[Rotting Oranges](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/rottingOranges.cpp)|Medium| 
 |#542|[Walls and Gates](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/wallsAndGates.cpp)|Medium| |#1827|[Minimum Operations to Make the Array Increasing](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/minOperationToMakeArrIncreasing.cpp)|Easy|
+|#404|[Sum of Left Leaves](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/sumOfLeftLeaves.cpp)|Easy| |
 ---
 
 <!--toc-->
@@ -205,11 +206,13 @@
 #101, [Symmetric Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/symmetricTree.cpp)   
 #250, [Count Univalue Subtrees](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/countUniValSubTree.cpp)   
 #1448, [Count Good Nodes in BST](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/countGoodNodesInBST.cpp)   
-#617, [Merge Two Binary Trees](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/mergeTwoBinaryTree.cpp)
+#617, [Merge Two Binary Trees](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/mergeTwoBinaryTree.cpp)    
+#404, [Sum of Left Leaves](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/sumOfLeftLeaves.cpp)    
 
 # [Sliding Window](https://github.com/SLuo490/Algorithm/blob/main/Sliding%20Window/SlidingWIndow.md)
 #3, [Longest Substring Without Repeating Characters](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/longestSubstr.cpp)  
-#340, [Longest Substring with At Most K Distinct Character](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/longestSubStrWithAtMostKDistinctChar.cpp)    
+#340, [Longest Substring with At Most K Distinct Character](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/longestSubStrWithAtMostKDistinctChar.cpp) 
+
 #904,[Fruits Into Baset](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/fruitsIntoBasket.cpp)   
 #424, [Longest Repeating Character Replacement](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/longestRepeatingCharReplacement.cpp)    
 #567, [Permutation in String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/permutationInStr.cpp)   
@@ -250,7 +253,9 @@
 #199, [Binary Tree Right Side View](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/binaryTreeRightMostView.cpp)   
 #116, [Populating Next Right Pointer in Each Node](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/populateNextRightPtrInEachNode.cpp)   
 #100, [Same Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/sameTree.cpp)   
-#117, [Populate Next Right Pointer in Each Node II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/populateNextRightPtrInEachNodeII.cpp)   
+#117, [Populate Next Right Pointer in Each Node II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/populateNextRightPtrInEachNodeII.cpp)    
+#404, [Sum of Left Leaves](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/sumOfLeftLeaves.cpp)    
+
 
 # [Breadth First Search Matrix](https://github.com/SLuo490/Algorithm/blob/main/BFS%20Matrix%20Traversal/BFSMatrix.md)
 #542, [01 Matrix](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/01Matrix.cpp)   

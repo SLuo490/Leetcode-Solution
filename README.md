@@ -83,7 +83,7 @@
 |#617|[Merge Two Binary Trees](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/mergeTwoBinaryTree.cpp)|Easy| |#463|[Island Perimeter](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/islandPerimeter.cpp)|Easy| 
 |#542|[01 Matrix](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/01Matrix.cpp)|Medium| |#994|[Rotting Oranges](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/rottingOranges.cpp)|Medium| 
 |#542|[Walls and Gates](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/wallsAndGates.cpp)|Medium| |#1827|[Minimum Operations to Make the Array Increasing](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/minOperationToMakeArrIncreasing.cpp)|Easy|
-|#404|[Sum of Left Leaves](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/sumOfLeftLeaves.cpp)|Easy| |
+|#404|[Sum of Left Leaves](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/sumOfLeftLeaves.cpp)|Easy| |#77|[Combinations](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/combinations.cpp)|Medium| 
 ---
 
 <!--toc-->
@@ -115,6 +115,7 @@
 25. [Math](#math)
 26. [Merge Intervals](#merge-intervals)   
 27. [Cyclic Sort](#cyclic-sort)   
+28. [Backtracking](#backtracking)   
 <!--toc-->
 
 # Array
@@ -339,6 +340,34 @@
 #268, [Missing Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/missingNum.cpp)   
 #645, [Set Mismatch](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/setMismatch.cpp)   
 #41, [Find Missing Positive](https://github.com/SLuo490/Leetcode-Solution/blob/main/_Hard/findMissingPositive.cpp)   
+
+# Backtracking
+#77, [Combinations](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/combinations.cpp)   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

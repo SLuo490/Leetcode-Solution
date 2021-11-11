@@ -86,7 +86,7 @@
 |#404|[Sum of Left Leaves](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/sumOfLeftLeaves.cpp)|Easy| |#77|[Combinations](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/combinations.cpp)|Medium| 
 |#46|[Permutations](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/permutations.cpp)|Medium| |#784|[Letter Case Permutation](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/letterCasePermutation.cpp)|Medium| 
 |#1137|[N-th Tribonacci Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/n-thTribonacciNum.cpp)|Easy| |#198|[House Robber](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/houseRobber.cpp)|Medium|
-|#120|[Triangle]()|Medium| |
+|#120|[Triangle](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/triangle.cpp)|Medium| |
 
 ---
 
@@ -163,17 +163,17 @@
 #345, [Reverse Vowels of a String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/reverseVowelsofAString.cpp)   
 #657, [Robot Return to Origin](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/robotReturnToOrigin.cpp)   
 #5834, [Minimum Time to Type Word Using Special Typewriter](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/minTimeToTypeWord.cpp)   
-#2023, [Number of Pairs of Strings With Concatenation Equal to Target](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/numPairOfStrWithConcatEqualTarg.cpp)   
+#2023, [Number of Pairs of Strings With Concatenation Equal to Target](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/numPairOfStrWithConcatEqualTarg.cpp)    
 #1108, [Defanging an IP Address](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/defangingAnIPAddress.cpp)   
-#1758, [Minimum Changes To Make Alternative Binary String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/minMovetoEqualArrayElement.cpp)   
-#2038, [Remove Colored Pieces if Both Neighbors are the Same Color](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/removeColoredPiecesIfBothNeighborsAreTheSameColor.cpp)   
+#1758, [Minimum Changes To Make Alternative Binary String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/minMovetoEqualArrayElement.cpp)    
+#2038, [Remove Colored Pieces if Both Neighbors are the Same Color](https://github.com/SLuo490/LeetcodeSolution/blob/main/Medium/removeColoredPiecesIfBothNeighborsAreTheSameColor.cpp)      
 #1869, [Longer Contiguous Segments of Ones than Zeros](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/longerContiSegOfOnesThanZeroes.cpp)   
 #266, [Palindrome Permutation](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/palindromePermutation.cpp)   
 #557, [Reverse Words in a String III](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/reverseWordsInAStrIII.cpp)   
 
 # Matrix (2D Array)
-#2022, [Convert 1D Array Into 2D Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/convert1DArrTo2DArr.cpp)
-#48, [Rotate Image](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/rotateImage.cpp)  
+#2022, [Convert 1D Array Into 2D Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/convert1DArrTo2DArr.cpp)    
+#48, [Rotate Image](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/rotateImage.cpp)   
 #1886, [Determine Whether Matrix Can Be Obtained By Rotation](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/determineMatrixRotation.cpp)      
 #463, [Island Perimeter](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/islandPerimeter.cpp)   
 
@@ -216,8 +216,7 @@
 
 # [Sliding Window](https://github.com/SLuo490/Algorithm/blob/main/Sliding%20Window/SlidingWIndow.md)
 #3, [Longest Substring Without Repeating Characters](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/longestSubstr.cpp)  
-#340, [Longest Substring with At Most K Distinct Character](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/longestSubStrWithAtMostKDistinctChar.cpp) 
-
+#340, [Longest Substring with At Most K Distinct Character](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/longestSubStrWithAtMostKDistinctChar.cpp)    
 #904,[Fruits Into Baset](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/fruitsIntoBasket.cpp)   
 #424, [Longest Repeating Character Replacement](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/longestRepeatingCharReplacement.cpp)    
 #567, [Permutation in String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/permutationInStr.cpp)   
@@ -261,12 +260,10 @@
 #117, [Populate Next Right Pointer in Each Node II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/populateNextRightPtrInEachNodeII.cpp)    
 #404, [Sum of Left Leaves](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/sumOfLeftLeaves.cpp)    
 
-
 # [Breadth First Search Matrix](https://github.com/SLuo490/Algorithm/blob/main/BFS%20Matrix%20Traversal/BFSMatrix.md)
 #542, [01 Matrix](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/01Matrix.cpp)   
 #994, [Rotting Oranges](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/rottingOranges.cpp)      
 #542, [Walls and Gates](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/wallsAndGates.cpp)    
-
 
 # [Depth First Search (DFS)](https://github.com/SLuo490/Algorithm/blob/main/DFS%20and%20BFS/DFS_BFS.md)
 #1469, [Find all Lonely Node](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/lonelyNode.cpp)  
@@ -287,9 +284,9 @@
 #733, [Flood Fill](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/floodFill.cpp)   
 #695, [Max Area of Island](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/maxAreaOfIsland.cpp)   
 
-# [Cpp STL](https://github.com/SLuo490/CPP-STL)
-#1910, [Remove All Occurrences of a Substring](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/removeOccurrences.cpp)  (npos)
-#1071, [Greatest Common Divisor of Strings](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/greatestCommonDivisorInStr.cpp) (gcd)
+# [Cpp STL](https://github.com/SLuo490/CPP-STL)   
+#1910, [Remove All Occurrences of a Substring](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/removeOccurrences.cpp)  (npos)   
+#1071, [Greatest Common Divisor of Strings](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/greatestCommonDivisorInStr.cpp) (gcd)   
 
 # [Dijkstra's Algorithm](https://github.com/SLuo490/Algorithm/blob/main/Dijkstra's%20Algorithm/DijkstraAlgorithm.md)
 #1514, [Path with Maximum Probability](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/maxProbability.cpp)
@@ -323,6 +320,7 @@
 #542, [01 Matrix](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/01Matrix.cpp)   
 #1137, [N-th Tribonacci Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/n-thTribonacciNum.cpp)   
 #198, [House Robber](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/houseRobber.cpp)   
+#120, [Triangle](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/triangle.cpp)
 
 # Kadane's Algorithm
 #121, [Best Time to Buy and Sell Stock](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/bestTimeToBuySellStock.cpp)   
@@ -341,10 +339,10 @@
 #253, [Meeting Room II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/meetingRoomsII.cpp)   
 
 # Cyclic Sort
-#448, [Find All Numbers Disappeared in an Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/findAllNumDisappearedInArray.cpp)
-#442, [Find All Duplicates in an Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findAllDuplicatesInArray.cpp)   
-#268, [Missing Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/missingNum.cpp)   
-#645, [Set Mismatch](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/setMismatch.cpp)   
+#448, [Find All Numbers Disappeared in an Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/findAllNumDisappearedInArray.cpp)   
+#442, [Find All Duplicates in an Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findAllDuplicatesInArray.cpp)     
+#268, [Missing Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/missingNum.cpp)     
+#645, [Set Mismatch](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/setMismatch.cpp)    
 #41, [Find Missing Positive](https://github.com/SLuo490/Leetcode-Solution/blob/main/_Hard/findMissingPositive.cpp)   
 
 # Backtracking

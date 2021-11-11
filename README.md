@@ -84,7 +84,9 @@
 |#542|[01 Matrix](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/01Matrix.cpp)|Medium| |#994|[Rotting Oranges](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/rottingOranges.cpp)|Medium| 
 |#542|[Walls and Gates](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/wallsAndGates.cpp)|Medium| |#1827|[Minimum Operations to Make the Array Increasing](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/minOperationToMakeArrIncreasing.cpp)|Easy|
 |#404|[Sum of Left Leaves](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/sumOfLeftLeaves.cpp)|Easy| |#77|[Combinations](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/combinations.cpp)|Medium| 
-|#46|[Permutations](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/permutations.cpp)|Medium| |#784|[Letter Case Permutation](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/letterCasePermutation.cpp)|Medium| |#1137|[N-th Tribonacci Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/n-thTribonacciNum.cpp)|Easy| 
+|#46|[Permutations](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/permutations.cpp)|Medium| |#784|[Letter Case Permutation](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/letterCasePermutation.cpp)|Medium| 
+|#1137|[N-th Tribonacci Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/n-thTribonacciNum.cpp)|Easy| 
+
 ---
 
 <!--toc-->

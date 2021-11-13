@@ -88,6 +88,7 @@
 |#1137|[N-th Tribonacci Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/n-thTribonacciNum.cpp)|Easy| |#198|[House Robber](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/houseRobber.cpp)|Medium|
 |#120|[Triangle](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/triangle.cpp)|Medium| |#231|[Power of Two](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/powerOfTwo.cpp)|Easy|
 |#191|[Number of 1 Bits](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/numOf1Bits.cpp)|Easy| |#190|[Reverse Bits](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/reverseBit.cpp)|Easy| 
+|#136|[Single Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/singleNumber.cpp)|Easy| |
 
 ---
 
@@ -309,6 +310,7 @@
 #231, [Power of Two](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/powerOfTwo.cpp)   
 #191, [Number of 1 Bits](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/numOf1Bits.cpp)    
 #190, [Reverse Bits](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/reverseBit.cpp)   
+#136, [Single Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/singleNumber.cpp)   
 
 # [Floyd's Cycle Finding Algorithm](https://github.com/SLuo490/Algorithm/blob/main/Floyd's%20Cycle%20Finding/floydCycle.md)  
 #141, [Linked List Cycle](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/LinkedListCycle.cpp)   

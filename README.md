@@ -88,7 +88,7 @@
 |#1137|[N-th Tribonacci Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/n-thTribonacciNum.cpp)|Easy| |#198|[House Robber](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/houseRobber.cpp)|Medium|
 |#120|[Triangle](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/triangle.cpp)|Medium| |#231|[Power of Two](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/powerOfTwo.cpp)|Easy|
 |#191|[Number of 1 Bits](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/numOf1Bits.cpp)|Easy| |#190|[Reverse Bits](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/reverseBit.cpp)|Easy| 
-|#136|[Single Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/singleNumber.cpp)|Easy| |
+|#136|[Single Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/singleNumber.cpp)|Easy| |#2069|[Check Whether Two Strings are Almost Equivalent](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/checkWhetherTwoStrAreAlmostEqu.cpp)|Easy| 
 
 ---
 

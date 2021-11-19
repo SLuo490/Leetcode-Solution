@@ -32,15 +32,15 @@ public:
                 
         while (lo < hi) {
             //calculate the height
-            int currMax = max(height[lo], height[hi]); 
-            int h = abs(height[lo] - height[hi]); 
-            h = currMax - h; 
+           // int currMax = max(height[lo], height[hi]); 
+           // int h = abs(height[lo] - height[hi]); 
+           // h = currMax - h; 
             
             //calculate the length
-            int length = hi - lo; 
+            // int length = hi - lo; 
             
-            //calculate the area
-            maxArea = max(maxArea, length * h); 
+            // Cleaner:
+            maxArea = max(maxArea, min(height[lo], height[hi]) * (hi - lo)); 
             
             //move the two pointer
             if (height[lo] < height[hi]) {

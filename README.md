@@ -90,6 +90,7 @@
 |#191|[Number of 1 Bits](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/numOf1Bits.cpp)|Easy| |#190|[Reverse Bits](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/reverseBit.cpp)|Easy| 
 |#136|[Single Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/singleNumber.cpp)|Easy| |#2069|[Check Whether Two Strings are Almost Equivalent](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/checkWhetherTwoStrAreAlmostEqu.cpp)|Easy| |#2070|[Most Beautiful Item for Each Query](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/mostBeautifulItemForEachQuery.cpp)|Medium| 
 |#746|[Min Cost Climbing Stairs](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/minCostClimbingStairs.cpp)|Easy| |#11|[Container With Most Water](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/containerWithMostWater.cpp)|Medium| 
+|#22|[Generate Parentheses](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/generateParentheses.cpp)|Medium| |
 
 
 ---
@@ -361,6 +362,7 @@
 #77, [Combinations](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/combinations.cpp)   
 #46, [Permutations](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/permutations.cpp)   
 #784, [Letter Case Permutation](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/letterCasePermutation.cpp)   
+#22, [Generate Parentheses](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/generateParentheses.cpp)   
 
 
 

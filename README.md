@@ -90,7 +90,7 @@
 |#191|[Number of 1 Bits](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/numOf1Bits.cpp)|Easy| |#190|[Reverse Bits](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/reverseBit.cpp)|Easy| 
 |#136|[Single Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/singleNumber.cpp)|Easy| |#2069|[Check Whether Two Strings are Almost Equivalent](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/checkWhetherTwoStrAreAlmostEqu.cpp)|Easy| |#2070|[Most Beautiful Item for Each Query](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/mostBeautifulItemForEachQuery.cpp)|Medium| 
 |#746|[Min Cost Climbing Stairs](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/minCostClimbingStairs.cpp)|Easy| |#11|[Container With Most Water](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/containerWithMostWater.cpp)|Medium| 
-|#22|[Generate Parentheses](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/generateParentheses.cpp)|Medium| |
+|#22|[Generate Parentheses](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/generateParentheses.cpp)|Medium| |#34|[Find First and Last Position of Element in Sorted Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findFirstandLastPosition.cpp)|Medium |
 
 
 ---
@@ -189,6 +189,7 @@
 #167, [Two Sum II - Input Array is Sorted](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/twoSum2InputArrayIsSorted.cpp)   
 #278, [First Bad Version](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/firstBadVersion.cpp)   
 #704, [Binary Search](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/binarysearch.cpp)     
+#34, [Find First and Last Position of Element in Sorted Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findFirstandLastPosition.cpp)   
 
 # Linked List
 #92 [Reverse Linked List II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/reversLL2.cpp)   

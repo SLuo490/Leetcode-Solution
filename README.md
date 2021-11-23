@@ -91,7 +91,8 @@
 |#136|[Single Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/singleNumber.cpp)|Easy| |#2069|[Check Whether Two Strings are Almost Equivalent](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/checkWhetherTwoStrAreAlmostEqu.cpp)|Easy| |#2070|[Most Beautiful Item for Each Query](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/mostBeautifulItemForEachQuery.cpp)|Medium| 
 |#746|[Min Cost Climbing Stairs](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/minCostClimbingStairs.cpp)|Easy| |#11|[Container With Most Water](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/containerWithMostWater.cpp)|Medium| 
 |#22|[Generate Parentheses](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/generateParentheses.cpp)|Medium| |#34|[Find First and Last Position of Element in Sorted Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findFirstandLastPosition.cpp)|Medium |
-|#74|[Search a 2D Matrix](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/searchA2DMatrix.cpp)|Medium| |
+|#74|[Search a 2D Matrix](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/searchA2DMatrix.cpp)|Medium| |#153|[Find Minimum in Rotated Sorted Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findMinInRotatedSortedArray.cpp)|Medium| 
+|#33|[Search in Rotated Sorted Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findMinInRotatedSortedArray.cpp)| Medium| |
 
 
 ---
@@ -192,6 +193,8 @@
 #704, [Binary Search](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/binarysearch.cpp)     
 #34, [Find First and Last Position of Element in Sorted Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findFirstandLastPosition.cpp)   
 #74, [Search a 2D Matrix](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/searchA2DMatrix.cpp)   
+#153, [Find Minimum in Rotated Sorted Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findMinInRotatedSortedArray.cpp)   
+#33, [Search in Rotated Sorted Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findMinInRotatedSortedArray.cpp)   
 
 # Linked List
 #92 [Reverse Linked List II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/reversLL2.cpp)   

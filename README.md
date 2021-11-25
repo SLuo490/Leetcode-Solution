@@ -93,6 +93,7 @@
 |#22|[Generate Parentheses](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/generateParentheses.cpp)|Medium| |#34|[Find First and Last Position of Element in Sorted Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findFirstandLastPosition.cpp)|Medium |
 |#74|[Search a 2D Matrix](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/searchA2DMatrix.cpp)|Medium| |#153|[Find Minimum in Rotated Sorted Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findMinInRotatedSortedArray.cpp)|Medium| 
 |#33|[Search in Rotated Sorted Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findMinInRotatedSortedArray.cpp)| Medium| |#162|[Find Peak Element](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findPeakElement.cpp)|Medium|
+|#82|[Remove Duplicates from Sorted List ii](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/removeDuplicatesFromSortedListII.cpp)|Medium| |
 
 
 ---
@@ -205,7 +206,8 @@
 #234, [Palindrome Linked List](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/palindromeLL.cpp)   
 #876, [Middle Of LinkedList](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/middleOfLL.cpp)      
 #143, [Reorder Linked List](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/reorderLL.cpp)    
-#19, [Remove Nth Node From End Of List](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/removeNthNodeFromEndOfList.cpp)
+#19, [Remove Nth Node From End Of List](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/removeNthNodeFromEndOfList.cpp)   
+#82, [Remove Duplicates from Sorted List ii](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/removeDuplicatesFromSortedListII.cpp)   
 
 # [Map](https://github.com/SLuo490/Data-Structure/blob/main/Map/Map.md)
 #1876, [Substrings of Size Three with Distinct Characters](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/countGoodSubstrings.cpp)  
@@ -255,6 +257,7 @@
 #581, [Shortest Unsorted Continuous Subarray](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/shortedUnsortedContSubarray.cpp)   
 #392, [Is Subsequence](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/isSubsequence.cpp)   
 #11, [Container With Most Water](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/containerWithMostWater.cpp)   
+#82, [Remove Duplicates from Sorted List ii](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/removeDuplicatesFromSortedListII.cpp)   
 
 # [Union Find](https://github.com/SLuo490/Algorithm/blob/main/Union%20Find/UF.md)
 #200, [Number of Islands](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/numIsland.cpp)   

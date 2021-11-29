@@ -95,7 +95,8 @@
 |#33|[Search in Rotated Sorted Array](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findMinInRotatedSortedArray.cpp)| Medium| |#162|[Find Peak Element](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findPeakElement.cpp)|Medium|
 |#82|[Remove Duplicates from Sorted List ii](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/removeDuplicatesFromSortedListII.cpp)|Medium| |#2086|[Minimum Number of Buckets Required to Collect Rainwater from Houses](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/minNumOfBucketsRequToCollectRainwater.cpp)|Medium|
 |#2085|[Count Common Words With One Occurrence](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/countCommonWordsWithOneOccurrence.cpp)|Easy| |#2087|[Minimum Cost Homecoming of a Robot in a Grid](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/minCostHomecomingOfARobot.cpp)|Medium|
-|#130|[Surrounded Regions](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/surroundedRegion.cpp)| Medium | | 
+|#130|[Surrounded Regions](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/surroundedRegion.cpp)| Medium | |#323|[Number of Components in an Undirected Graph](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/numberofConnectedComponentsInAnUndirectedGraph.cpp)|Medium|
+ 
 
 
 
@@ -119,6 +120,7 @@
 - [Breadth First Search Matrix](#breadth-first-search-matrix)
 - [Depth First Search (DFS)](#depth-first-search-dfs)
 - [Depth First Search Matrix](#depth-first-search-matrix)
+- [Graph](#graph)
 - [Cpp STL](#cpp-stl)
 - [Dijkstra's Algorithm](#dijkstras-algorithm)
 - [Bipartition Algorithm](#bipartition-algorithm)
@@ -306,6 +308,9 @@
 #733, [Flood Fill](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/floodFill.cpp)   
 #695, [Max Area of Island](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/maxAreaOfIsland.cpp)   
 #130, [Surrounded Regions](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/surroundedRegion.cpp)   
+
+# Graph
+#323, [Number of Components in an Undirected Graph](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/numberofConnectedComponentsInAnUndirectedGraph.cpp)   
 
 # [Cpp STL](https://github.com/SLuo490/CPP-STL)   
 #1910, [Remove All Occurrences of a Substring](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/removeOccurrences.cpp)  (npos)   

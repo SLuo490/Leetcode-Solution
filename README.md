@@ -97,7 +97,7 @@
 |#2085|[Count Common Words With One Occurrence](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/countCommonWordsWithOneOccurrence.cpp)|Easy| |#2087|[Minimum Cost Homecoming of a Robot in a Grid](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/minCostHomecomingOfARobot.cpp)|Medium|
 |#130|[Surrounded Regions](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/surroundedRegion.cpp)| Medium | |#323|[Number of Components in an Undirected Graph](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/numberofConnectedComponentsInAnUndirectedGraph.cpp)|Medium|
 |#78|[Subsets](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/subsets.cpp)|Medium| |#90|[Subset II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/subsetsII.cpp)|Medium| 
-|#1265|[Print Immutable Linked List in Reverse](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/printImmutableLLInReverse.cpp)|Medium| |
+|#1265|[Print Immutable Linked List in Reverse](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/printImmutableLLInReverse.cpp)|Medium| |#1920|[Build Array From Permutation](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/buildArrayFromPermutation.cpp)|Easy|
 
  
 

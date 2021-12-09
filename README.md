@@ -291,7 +291,6 @@
 #542, [01 Matrix](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/01Matrix.cpp)   
 #994, [Rotting Oranges](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/rottingOranges.cpp)      
 #542, [Walls and Gates](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/wallsAndGates.cpp)    
-[River Count](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/riverCount.cpp)   
 
 # [Depth First Search (DFS)](https://github.com/SLuo490/Algorithm/blob/main/DFS%20and%20BFS/DFS_BFS.md)
 #1469, [Find all Lonely Node](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/lonelyNode.cpp)  
@@ -312,6 +311,8 @@
 #733, [Flood Fill](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/floodFill.cpp)   
 #695, [Max Area of Island](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/maxAreaOfIsland.cpp)   
 #130, [Surrounded Regions](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/surroundedRegion.cpp)   
+[River Count](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/riverCount.cpp)   
+
 
 # Graph
 #323, [Number of Components in an Undirected Graph](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/numberofConnectedComponentsInAnUndirectedGraph.cpp)   

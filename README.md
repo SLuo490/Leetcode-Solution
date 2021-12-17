@@ -98,6 +98,7 @@
 |#130|[Surrounded Regions](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/surroundedRegion.cpp)| Medium | |#323|[Number of Components in an Undirected Graph](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/numberofConnectedComponentsInAnUndirectedGraph.cpp)|Medium|
 |#78|[Subsets](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/subsets.cpp)|Medium| |#90|[Subset II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/subsetsII.cpp)|Medium| 
 |#1265|[Print Immutable Linked List in Reverse](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/printImmutableLLInReverse.cpp)|Medium| |#1920|[Build Array From Permutation](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/buildArrayFromPermutation.cpp)|Easy|
+|#76|[Minimum Window SubString](https://github.com/SLuo490/Leetcode-Solution/blob/main/_Hard/minimumWindowSubStr.cpp)|Hard| |
 
  
 
@@ -252,6 +253,7 @@
 #1004, [Max Consecutive Ones](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/maxConsecutiveOnesIII.cpp)    
 #713, [Subarray Product Less Than K](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/subarrayProductLessThanK.cpp)   
 #2024, [Maximize the Confusion of an Exam](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/maximumConfustionOfAnExam.cpp)   
+#76, [Minimum Window SubString](https://github.com/SLuo490/Leetcode-Solution/blob/main/_Hard/minimumWindowSubStr.cpp)   
 
 # [Two Pointer](https://github.com/SLuo490/Algorithm/tree/main/Two%20Pointer)
 #345, [Reverse Vowels of a String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/reverseVowelsofAString.cpp)   

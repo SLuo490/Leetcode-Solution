@@ -98,12 +98,10 @@
 |#130|[Surrounded Regions](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/surroundedRegion.cpp)| Medium | |#323|[Number of Components in an Undirected Graph](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/numberofConnectedComponentsInAnUndirectedGraph.cpp)|Medium|
 |#78|[Subsets](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/subsets.cpp)|Medium| |#90|[Subset II](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/subsetsII.cpp)|Medium| 
 |#1265|[Print Immutable Linked List in Reverse](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/printImmutableLLInReverse.cpp)|Medium| |#1920|[Build Array From Permutation](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/buildArrayFromPermutation.cpp)|Easy|
-|#76|[Minimum Window SubString](https://github.com/SLuo490/Leetcode-Solution/blob/main/_Hard/minimumWindowSubStr.cpp)|Hard| |
+|#76|[Minimum Window SubString](https://github.com/SLuo490/Leetcode-Solution/blob/main/_Hard/minimumWindowSubStr.cpp)|Hard| |#520|[Detect Capital](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/detectCapital.cpp)|Easy| 
+|#2114|[Maximum Number of Words Found in Sentences](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/maxNumOfWordsFoundInSentence.cpp)|Easy| |
 
  
-
-
-
 ---
 
 <!--toc-->

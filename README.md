@@ -100,7 +100,7 @@
 |#1265|[Print Immutable Linked List in Reverse](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/printImmutableLLInReverse.cpp)|Medium| |#1920|[Build Array From Permutation](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/buildArrayFromPermutation.cpp)|Easy|
 |#76|[Minimum Window SubString](https://github.com/SLuo490/Leetcode-Solution/blob/main/_Hard/minimumWindowSubStr.cpp)|Hard| |#520|[Detect Capital](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/detectCapital.cpp)|Easy| 
 |#2114|[Maximum Number of Words Found in Sentences](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/maxNumOfWordsFoundInSentence.cpp)|Easy| |#67|[Add Binary](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/addBinary.cpp)|Easy| 
-|#14|[Longest Common Prefix](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/longestCommonPrefix.cpp)|Easy| |
+|#14|[Longest Common Prefix](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/longestCommonPrefix.cpp)|Easy| |#581|[Shortest Unsorted Continuous Subarray](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/shortestUnsortedContinuousSubarray.cpp)|Medium|
 
 
  
@@ -269,6 +269,7 @@
 #392, [Is Subsequence](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/isSubsequence.cpp)   
 #11, [Container With Most Water](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/containerWithMostWater.cpp)   
 #82, [Remove Duplicates from Sorted List ii](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/removeDuplicatesFromSortedListII.cpp)   
+#581, [Shortest Unsorted Continuous Subarray](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/shortestUnsortedContinuousSubarray.cpp)   
 
 # [Union Find](https://github.com/SLuo490/Algorithm/blob/main/Union%20Find/UF.md)
 #200, [Number of Islands](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/numIsland.cpp)   

@@ -20,31 +20,39 @@ Explanation: Both 'a's from t must be included in the window.
 Since the largest window of s only has one 'a', return empty string.
 */
 
+// Time Complexity: O(N + M) where N and M is the length of the string 
+// Space Complexity: O(M) where M is the map of the pattern
 class Solution {
 public:
     string minWindow(string s, string t) {
-        int windowStart = 0, minLength = s.length() + 1, subStrStart = 0, match = 0; 
-        unordered_map<char,int> mp; 
+        int minLength = INT_MAX, match = 0, subStrStart = 0; 
+        int windowStart = 0; 
+        unordered_map<char, int> mp; 
         
+        // add each character in t to map
         for (auto ch : t) {
-            mp[ch]++;   
-        } 
+            mp[ch]++; 
+        }
         
         for (int windowEnd = 0; windowEnd < s.length(); windowEnd++) {
+            // if current character is in map, then decrement its frequency
             char rightChar = s[windowEnd]; 
             if (mp.find(rightChar) != mp.end()) {
                 mp[rightChar]--; 
+                // count every matching of a character
                 if (mp[rightChar] >= 0) {
                     match++; 
                 }
             }
             
             while (match == t.length()) {
+                // keep track of the length
                 if (minLength > windowEnd - windowStart + 1) {
                     minLength = windowEnd - windowStart + 1; 
                     subStrStart = windowStart; 
-                }
+                } 
                 
+                // break out loop once there is no more redunctant character going out
                 char leftChar = s[windowStart++]; 
                 if (mp.find(leftChar) != mp.end()) {
                     if (mp[leftChar] == 0) {
@@ -52,8 +60,8 @@ public:
                     }
                     mp[leftChar]++; 
                 }
-            }
-        }
+            }  
+        } 
         
         return minLength > s.length() ? "" : s.substr(subStrStart, minLength); 
     }

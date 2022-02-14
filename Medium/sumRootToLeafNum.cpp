@@ -11,21 +11,26 @@
  */
 class Solution {
 public:
-    int DFS (TreeNode* currNode, int totalSum) {
-        if (currNode == nullptr) return 0;
+    int sumNumbers(TreeNode* root) {
+        return rootToLeafPathSum(root, 0); 
+    }
+    
+    int rootToLeafPathSum(TreeNode* currNode, int pathSum) {
+        if (!currNode) return 0; 
         
-        //convert path to int (1->2 = 12)
-        //10 * 0 + 1 = 1
-        //10 * 1 + 2 = 12
-        totalSum = 10 * totalSum + currNode->val;
+        // convert the pathSum to a integer
+        // 1->2->3
+            // 1 = 10 * 0 + 1 = 1
+            // 2 = 10 * 1 + 2 = 12
+            // 3 = 12 * 10 + 3 = 123
+        pathSum = 10 * pathSum + currNode->val; 
         
+        // if the currNode is a leaf, return the pathSum
         if (currNode->left == nullptr && currNode->right == nullptr) {
-            return totalSum;
+            return pathSum; 
         }
         
-        return DFS (currNode->left, totalSum) + DFS (currNode->right, totalSum);
-    }
-    int sumNumbers(TreeNode* root) {
-        return DFS (root, 0);
+        // recursive call the left and right tree and add the pathSum
+        return rootToLeafPathSum(currNode->left, pathSum) + rootToLeafPathSum(currNode->right, pathSum); 
     }
 };

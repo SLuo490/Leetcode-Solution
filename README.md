@@ -101,6 +101,7 @@
 |#76|[Minimum Window SubString](https://github.com/SLuo490/Leetcode-Solution/blob/main/_Hard/minimumWindowSubStr.cpp)|Hard| |#520|[Detect Capital](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/detectCapital.cpp)|Easy| 
 |#2114|[Maximum Number of Words Found in Sentences](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/maxNumOfWordsFoundInSentence.cpp)|Easy| |#67|[Add Binary](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/addBinary.cpp)|Easy| 
 |#14|[Longest Common Prefix](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/longestCommonPrefix.cpp)|Easy| |#581|[Shortest Unsorted Continuous Subarray](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/shortestUnsortedContinuousSubarray.cpp)|Medium|
+|#1430|[Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/checkIfAStringIsValidSequenceFromRootToLeaf.cpp)|Medium| |
 
 
  

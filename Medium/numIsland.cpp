@@ -63,3 +63,46 @@ public:
 
     }
 };
+
+// BFS Solution
+
+class Solution {
+public:
+    int numIslands(vector<vector<char>>& grid) {
+        int row = grid.size(), col = grid[0].size(), numIslands = 0; 
+        if (!row) return 0; 
+        
+        // direction to traverse matrix
+        int dir[4][2] = {{0, -1}, {0, 1}, {-1, 0}, {1, 0}}; 
+        
+        for (int i = 0; i < row; i++) {
+            for (int j = 0; j < col; j++) {
+                if (grid[i][j] == '1') {
+                    grid[i][j] = '0'; 
+                    numIslands++; 
+                    
+                    queue<pair<int,int>> q; 
+                    q.push({i,j}); 
+                    
+                    // traverse the queue
+                    while (!q.empty()) {
+                        auto rc = q.front(); 
+                        q.pop(); 
+                        
+                        // traverse the neighbor
+                        for (int i = 0; i < 4; i++) {
+                            int nr = rc.first + dir[i][0], nc = rc.second + dir[i][1]; 
+                            
+                            // if nr and nc is within range and is 1 then set it to 0 and add to q
+                            if (nr >= 0 && nr < row && nc >= 0 && nc < col && grid[nr][nc] == '1') {
+                                grid[nr][nc] = '0'; 
+                                q.push({nr, nc}); 
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        return numIslands; 
+    }
+};

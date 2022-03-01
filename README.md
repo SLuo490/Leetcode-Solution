@@ -101,7 +101,7 @@
 |#76|[Minimum Window SubString](https://github.com/SLuo490/Leetcode-Solution/blob/main/_Hard/minimumWindowSubStr.cpp)|Hard| |#520|[Detect Capital](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/detectCapital.cpp)|Easy| 
 |#2114|[Maximum Number of Words Found in Sentences](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/maxNumOfWordsFoundInSentence.cpp)|Easy| |#67|[Add Binary](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/addBinary.cpp)|Easy| 
 |#14|[Longest Common Prefix](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/longestCommonPrefix.cpp)|Easy| |#581|[Shortest Unsorted Continuous Subarray](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/shortestUnsortedContinuousSubarray.cpp)|Medium|
-|#1430|[Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/checkIfAStringIsValidSequenceFromRootToLeaf.cpp)|Medium| |
+|#1430|[Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/checkIfAStringIsValidSequenceFromRootToLeaf.cpp)|Medium| |#1100|[Find K-Length Substrings With No Repeating Character](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findKLengthSubstringWithNoRepeat.cpp)|Medium|
 
 
  
@@ -243,7 +243,7 @@
 
 # [Sliding Window](https://github.com/SLuo490/Algorithm/blob/main/Sliding%20Window/SlidingWIndow.md)
 #3, [Longest Substring Without Repeating Characters](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/longestSubstr.cpp)  
-#340, [Longest Substring with At Most K Distinct Character](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/longestSubStrWithAtMostKDistinctChar.cpp)    
+#340, [Longest Substring with At Most K Distinct Character](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/longestSubStrWithAtMostKDistinctChar.cpp)   
 #904,[Fruits Into Baset](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/fruitsIntoBasket.cpp)   
 #424, [Longest Repeating Character Replacement](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/longestRepeatingCharReplacement.cpp)    
 #567, [Permutation in String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/permutationInStr.cpp)   
@@ -255,6 +255,7 @@
 #713, [Subarray Product Less Than K](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/subarrayProductLessThanK.cpp)   
 #2024, [Maximize the Confusion of an Exam](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/maximumConfustionOfAnExam.cpp)   
 #76, [Minimum Window SubString](https://github.com/SLuo490/Leetcode-Solution/blob/main/_Hard/minimumWindowSubStr.cpp)   
+#1100, [Find K-Length Substrings With No Repeating Character](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findKLengthSubstringWithNoRepeat.cpp)   
 
 # [Two Pointer](https://github.com/SLuo490/Algorithm/tree/main/Two%20Pointer)
 #345, [Reverse Vowels of a String](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/reverseVowelsofAString.cpp)   

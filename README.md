@@ -104,6 +104,7 @@
 |#2114|[Maximum Number of Words Found in Sentences](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/maxNumOfWordsFoundInSentence.cpp)|Easy| |#67|[Add Binary](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/addBinary.cpp)|Easy| 
 |#14|[Longest Common Prefix](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/longestCommonPrefix.cpp)|Easy| |#581|[Shortest Unsorted Continuous Subarray](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/shortestUnsortedContinuousSubarray.cpp)|Medium|
 |#1430|[Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/checkIfAStringIsValidSequenceFromRootToLeaf.cpp)|Medium| |#1100|[Find K-Length Substrings With No Repeating Character](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findKLengthSubstringWithNoRepeat.cpp)|Medium|
+|#1491|[Average Salary Excluding the Minimum and Maximum Salary](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/avgSalaryExcludingMinAndMax.cpp)|Easy| |
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

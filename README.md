@@ -105,6 +105,8 @@
 |#14|[Longest Common Prefix](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/longestCommonPrefix.cpp)|Easy| |#581|[Shortest Unsorted Continuous Subarray](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/shortestUnsortedContinuousSubarray.cpp)|Medium|
 |#1430|[Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/checkIfAStringIsValidSequenceFromRootToLeaf.cpp)|Medium| |#1100|[Find K-Length Substrings With No Repeating Character](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findKLengthSubstringWithNoRepeat.cpp)|Medium|
 |#1491|[Average Salary Excluding the Minimum and Maximum Salary](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/avgSalaryExcludingMinAndMax.cpp)|Easy| |#1523|[Count Odd Numbers in an Interval Range](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/countOddNumInAnIntervalRange.cpp)|Easy| 
+|#191|[Number of 1 Bits](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/numberOfOneBits.cpp)|Easy| |#1281|[Subtract the Product and Sum of Digits of an Integer](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/subtractProductAndSumOfDigits.cpp)|Easy| 
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -348,6 +350,7 @@
 #191, [Number of 1 Bits](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/numOf1Bits.cpp)    
 #190, [Reverse Bits](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/reverseBit.cpp)   
 #136, [Single Number](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/singleNumber.cpp)   
+#191, [Number of 1 Bits](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/numberOfOneBits.cpp)   
 
 # [Floyd's Cycle Finding Algorithm](https://github.com/SLuo490/Algorithm/blob/main/Floyd's%20Cycle%20Finding/floydCycle.md)  
 #141, [Linked List Cycle](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/LinkedListCycle.cpp)   

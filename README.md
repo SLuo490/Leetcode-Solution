@@ -107,8 +107,7 @@
 |#1491|[Average Salary Excluding the Minimum and Maximum Salary](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/avgSalaryExcludingMinAndMax.cpp)|Easy| |#1523|[Count Odd Numbers in an Interval Range](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/countOddNumInAnIntervalRange.cpp)|Easy| 
 |#1281|[Subtract the Product and Sum of Digits of an Integer](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/subtractProductAndSumOfDigits.cpp)|Easy| |#1779|[Find Nearest Point That Has the Same X or Y Coordinate](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/findNearestPointThatHasTheSameXOrYCoordinate.cpp)|Easy|
 |#589|[N-ary Tree Preorder Traversal](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/n-aryTreePreorderTraversal.cpp)|Easy| |#590|[N-ary Tree Postorder Traversal](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/n-aryTreePostorderTraversal.cpp)|Easy| 
-
-
+|#429|[N-ary Tree Level Order Traversal](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/n-aryTreeLevelOrderTraversal.cpp)|Medium|
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -330,7 +329,7 @@
 # N-ary Tree
 #589, [N-ary Tree Preorder Traversal](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/n-aryTreePreorderTraversal.cpp)   
 #590, [N-ary Tree Postorder Traversal](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/n-aryTreePostorderTraversal.cpp)   
-
+#429, [N-ary Tree Level Order Traversal](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/n-aryTreeLevelOrderTraversal.cpp)   
 
 # Graph
 #323, [Number of Components in an Undirected Graph](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/numberofConnectedComponentsInAnUndirectedGraph.cpp)   

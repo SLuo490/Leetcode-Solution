@@ -106,6 +106,7 @@
 |#1430|[Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/checkIfAStringIsValidSequenceFromRootToLeaf.cpp)|Medium| |#1100|[Find K-Length Substrings With No Repeating Character](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/findKLengthSubstringWithNoRepeat.cpp)|Medium|
 |#1491|[Average Salary Excluding the Minimum and Maximum Salary](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/avgSalaryExcludingMinAndMax.cpp)|Easy| |#1523|[Count Odd Numbers in an Interval Range](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/countOddNumInAnIntervalRange.cpp)|Easy| 
 |#1281|[Subtract the Product and Sum of Digits of an Integer](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/subtractProductAndSumOfDigits.cpp)|Easy| |#1779|[Find Nearest Point That Has the Same X or Y Coordinate](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/findNearestPointThatHasTheSameXOrYCoordinate.cpp)|Easy|
+|#589|[N-ary Tree Preorder Traversal](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/n-aryTreePreorderTraversal.cpp)|Easy| |
 
 
 
@@ -131,6 +132,7 @@
 - [Breadth First Search Matrix](#breadth-first-search-matrix)
 - [Depth First Search (DFS)](#depth-first-search-dfs)
 - [Depth First Search Matrix](#depth-first-search-matrix)
+- [N-ary Tree](#n-ary-tree)
 - [Graph](#graph)
 - [Cpp STL](#cpp-stl)
 - [Dijkstra's Algorithm](#dijkstras-algorithm)
@@ -323,6 +325,9 @@
 #695, [Max Area of Island](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/maxAreaOfIsland.cpp)   
 #130, [Surrounded Regions](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/surroundedRegion.cpp)   
 [River Count](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/riverCount.cpp)   
+
+# N-ary Tree
+#589, [N-ary Tree Preorder Traversal](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/n-aryTreePreorderTraversal.cpp)
 
 
 # Graph

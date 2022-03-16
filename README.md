@@ -107,7 +107,7 @@
 |#1491|[Average Salary Excluding the Minimum and Maximum Salary](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/avgSalaryExcludingMinAndMax.cpp)|Easy| |#1523|[Count Odd Numbers in an Interval Range](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/countOddNumInAnIntervalRange.cpp)|Easy| 
 |#1281|[Subtract the Product and Sum of Digits of an Integer](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/subtractProductAndSumOfDigits.cpp)|Easy| |#1779|[Find Nearest Point That Has the Same X or Y Coordinate](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/findNearestPointThatHasTheSameXOrYCoordinate.cpp)|Easy|
 |#589|[N-ary Tree Preorder Traversal](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/n-aryTreePreorderTraversal.cpp)|Easy| |#590|[N-ary Tree Postorder Traversal](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/n-aryTreePostorderTraversal.cpp)|Easy| 
-|#429|[N-ary Tree Level Order Traversal](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/n-aryTreeLevelOrderTraversal.cpp)|Medium|
+|#429|[N-ary Tree Level Order Traversal](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/n-aryTreeLevelOrderTraversal.cpp)|Medium| |#1572|[Matrix Diagonal Sum](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/matrixDiagonalSum.cpp)|Easy| 
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -204,6 +204,7 @@
 #48, [Rotate Image](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/rotateImage.cpp)   
 #1886, [Determine Whether Matrix Can Be Obtained By Rotation](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/determineMatrixRotation.cpp)      
 #463, [Island Perimeter](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/islandPerimeter.cpp)   
+#1572, [Matrix Diagonal Sum](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/matrixDiagonalSum.cpp)   
 
 # [Binary Search](https://github.com/SLuo490/Algorithm/blob/main/Binary%20Search/binarysearch.md)
 #69, [Sqrt(x)](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/sqrt(x).cpp)   

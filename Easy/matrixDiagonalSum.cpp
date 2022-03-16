@@ -18,7 +18,23 @@ Input: mat = [[1,1,1,1],
 Output: 8
 */
 
+// Optimal Solution
+class Solution {
+public:
+    int diagonalSum(vector<vector<int>>& mat) {
+        int x = 0, y = 0, n = mat.size(); 
+        
+        for (int i = 0; i < n; i++) {
+            x += mat[i][i]; // primary diagonal
+            y += mat[i][n - i - 1];  // secondary diagonal
+        }
+        
+        if (n % 2 == 0) return x + y; // even matrix
+        return x + y - mat[n/2][n/2]; // remove the central matrix if odd
+    }
+};
 
+// Brute Force Solution
 class Solution {
 public:
     int diagonalSum(vector<vector<int>>& mat) {

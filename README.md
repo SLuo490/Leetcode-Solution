@@ -108,7 +108,7 @@
 |#1281|[Subtract the Product and Sum of Digits of an Integer](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/subtractProductAndSumOfDigits.cpp)|Easy| |#1779|[Find Nearest Point That Has the Same X or Y Coordinate](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/findNearestPointThatHasTheSameXOrYCoordinate.cpp)|Easy|
 |#589|[N-ary Tree Preorder Traversal](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/n-aryTreePreorderTraversal.cpp)|Easy| |#590|[N-ary Tree Postorder Traversal](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/n-aryTreePostorderTraversal.cpp)|Easy| 
 |#429|[N-ary Tree Level Order Traversal](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/n-aryTreeLevelOrderTraversal.cpp)|Medium| |#1572|[Matrix Diagonal Sum](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/matrixDiagonalSum.cpp)|Easy| 
-|#49|[Group Anagram](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/groupAnagram.cpp)|Medium| |
+|#49|[Group Anagram](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/groupAnagram.cpp)|Medium| |#347|[Top K Frequent Elements](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/topKFrequentElements.cpp)|Medium| 
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -133,6 +133,7 @@
 - [Breadth First Search Matrix](#breadth-first-search-matrix)
 - [Depth First Search (DFS)](#depth-first-search-dfs)
 - [Depth First Search Matrix](#depth-first-search-matrix)
+- [Heap](#heap)
 - [N-ary Tree](#n-ary-tree)
 - [Graph](#graph)
 - [Cpp STL](#cpp-stl)
@@ -327,6 +328,10 @@
 #695, [Max Area of Island](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/maxAreaOfIsland.cpp)   
 #130, [Surrounded Regions](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/surroundedRegion.cpp)   
 [River Count](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/riverCount.cpp)   
+
+# Heap
+#347, [Top K Frequent Elements](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/topKFrequentElements.cpp)   
+#
 
 # N-ary Tree
 #589, [N-ary Tree Preorder Traversal](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/n-aryTreePreorderTraversal.cpp)   

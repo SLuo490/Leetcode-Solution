@@ -21,7 +21,8 @@ Output: 5
 
 */
 
-
+// Time: O(N)
+// Space: O(N)
 class Solution {
 public:
     int repeatedNTimes(vector<int>& nums) {
@@ -39,5 +40,22 @@ public:
             }
         }
         return 0; 
+    }
+};
+
+// Time : O(N), Space: O(1)
+class Solution {
+public:
+    int repeatedNTimes(vector<int>& nums) {
+        // find the first repeating number
+        // this is O(N) time because the first loop goes to 3
+        for (int i = 1; i <= 3; i++) {
+            for (int j = 0; j < nums.size() - i; j++) {
+                if (nums[j] == nums[j + i]) {
+                    return nums[j]; 
+                }
+            }
+        }
+        return -1; 
     }
 };

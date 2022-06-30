@@ -324,6 +324,7 @@
 #1430, [Path With Given Sequence](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/pathWithGivenSequence.cpp)   
 #437, [Path Sum III](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/pathSumIII.cpp)   
 #543, [Diameter of Binary Tree](https://github.com/SLuo490/Leetcode-Solution/blob/main/Easy/diameterOfBinaryTree.cpp)   
+#79, [Word Search](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/wordSearch.cpp)
 
 # Depth First Search Matrix
 #200, [Number of Islands](https://github.com/SLuo490/Leetcode-Solution/blob/main/Medium/numIsland.cpp)   

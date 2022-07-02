@@ -100,12 +100,28 @@ int countElements2(vector<int>& nums) {
   return res; 
 }
 
+int countElements3(vector<int>& nums) {
+  int res = 0, min = INT_MAX, max = INT_MIN; 
+  const int N = nums.size();
+
+  // find the min and max element in nums O(N)
+  for (int i = 0; i < N; i++) {
+    min = (nums[i] < min) ? nums[i] : min; 
+    max = (nums[i] > max) ? nums[i] : max; 
+  }
+
+  for (int i = 0; i < N; i++) {
+    if (nums[i] < max && nums[i] > min) res++; 
+  }
+  return res; 
+}
+
 int main() {
   vector<int> nums = {11,7,2,15}; 
-  cout << countElements2(nums) << endl;
+  cout << countElements3(nums) << endl;
 
   vector<int> nums2 = {-3,3,3,90}; 
-  cout << countElements2(nums2) << endl;
+  cout << countElements3(nums2) << endl;
 
   return 0; 
 }

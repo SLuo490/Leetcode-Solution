@@ -37,6 +37,8 @@ using namespace std;
   returns 2
 */
 
+// Time: O(N^2)
+// Space: O(1)
 int countElements(vector<int>& nums) {
   int res = 0; 
   bool strIncr = false, strDecr = false; 
@@ -62,12 +64,48 @@ int countElements(vector<int>& nums) {
   return res; 
 }
 
+// Time: O(2N) --> O(N)
+// Space: O(1)
+int countElements2(vector<int>& nums) {
+  int res = 0, min = INT_MAX, max = INT_MIN; 
+  const int N = nums.size();
+  bool strIncr = false, strDecr = false; 
+
+  // find the min and max element in nums O(N)
+  for (int i = 0; i < N; i++) {
+    min = (nums[i] < min) ? nums[i] : min; 
+    max = (nums[i] > max) ? nums[i] : max; 
+  }
+
+  for (int i = 0; i < N; i++) {
+    if (nums[i] < max) {
+      strDecr = true; 
+    } 
+    
+    if (nums[i] > min) {
+      strIncr = true; 
+    }
+    
+    if (nums[i] == min || nums[i] == max){
+      continue; 
+    }
+
+    if (strIncr && strDecr) {
+      res++; 
+      strIncr = false; 
+      strDecr = false;  
+    }
+  }
+
+  return res; 
+}
+
 int main() {
   vector<int> nums = {11,7,2,15}; 
-  cout << countElements(nums) << endl;
+  cout << countElements2(nums) << endl;
 
-  vector<int> nums2 = {90}; 
-  cout << countElements(nums2) << endl;
+  vector<int> nums2 = {-3,3,3,90}; 
+  cout << countElements2(nums2) << endl;
 
   return 0; 
 }

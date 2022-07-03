@@ -17,7 +17,7 @@ Output: 1
 using namespace std; 
 
 /*
-  Time Complexity: O(N)	
+  Time Complexity: O(N * M)	
   Space Complexity: O(N)
 */
 int shortestDistance(vector<string>& wordsDict, string word1, string word2) {
@@ -46,6 +46,32 @@ int shortestDistance(vector<string>& wordsDict, string word1, string word2) {
 	return minDist; 
 }
 
+/*
+  Time Complexity: O(N * M)	where M is the length of word1 + length of word2
+  Space Complexity: O(1)
+*/
+int shortestDistance2(vector<string>& wordsDict, string word1, string word2) {
+	if (wordsDict.size() < 2) return 0; 
+	int minDist = INT_MAX; 
+	int leftIdx = -1; 
+	int rightIdx = -1; 
+	
+	for (int idx = 0; idx < wordsDict.size(); idx++) {
+		string currWord = wordsDict[idx]; 
+		if (word1 == currWord) {
+			leftIdx = idx; 
+		} else if (word2 == currWord) {
+			rightIdx = idx; 
+		}
+		
+		if (leftIdx != -1 && rightIdx != -1) {
+			minDist = min(minDist, abs(rightIdx - leftIdx)); 
+		}
+	}
+			
+	return minDist; 
+}
+
 int main() {
 	// vector<string> wordsDict {"practice", "makes", "perfect", "coding", "makes"};
 	// string word1 = "coding";
@@ -55,5 +81,5 @@ int main() {
 	vector<string> wordsDict {"a", "c", "a", "b"}; 
 	string word1 = "a";
 	string word2 = "b";
-	cout << shortestDistance(wordsDict, word1, word2) << endl;
+	cout << shortestDistance2(wordsDict, word1, word2) << endl;
 }

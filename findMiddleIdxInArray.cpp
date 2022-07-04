@@ -24,6 +24,8 @@ Explanation: There is no valid middleIndex.
 
 #include <iostream>
 #include <vector>
+#include <algorithm>
+#include <numeric>
 
 using namespace std; 
 
@@ -59,9 +61,59 @@ int findMiddleIndex(vector<int>& nums) {
     return -1; 
 }
 
+// Time Complexity: O(K + N + M) ??
+// Space: O(2N)
+int findMiddleIndex2(vector<int>& nums) {
+    int leftMostSum = 0, rightMostSum = 0; 
+    int n = nums.size(); 
+    
+    vector<int> left(n); 
+    vector<int> right(n); 
+
+    // cumulate sum from left to right
+    left[0] = nums[0]; 
+    for (int i = 1; i < nums.size(); i++) {
+        left[i] = left[i - 1] + nums[i]; 
+    }
+
+    // cumulate sum from right to left
+    right[n - 1] = nums[n - 1]; 
+    for (int i = n - 2; i >= 0; i--) {
+        right[i] = right[i + 1] + nums[i]; 
+    }
+
+    for (int i = 0; i < n; i++) {
+        if (left[i] == right[i]) {
+            return i; 
+        }
+    }
+    return -1; 
+}
+
+// Time Complexity: O(N)
+// Space: O(1)
+int findMiddleIndex3(vector<int>& nums) {
+    // sum of nums
+    int total = accumulate(nums.begin(), nums.end(), 0); 
+    int leftSum = 0; 
+
+    for (int i = 0; i < nums.size(); i++) {
+        total -= nums[i]; 
+
+        if (total == leftSum) return i; 
+
+        leftSum += nums[i]; 
+    }
+    return -1; 
+}
+
 int main() {
     vector<int> nums = {2,3,-1,8,4}; 
     cout << findMiddleIndex(nums) << endl;
+
+    cout << findMiddleIndex2(nums) << endl;
+
+    cout << findMiddleIndex3(nums) << endl;
 
     return 0; 
 }

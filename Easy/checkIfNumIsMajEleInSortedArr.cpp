@@ -18,6 +18,7 @@ Thus, 101 is not a majority element because 2 > 4/2 is false.
 #include <iostream>
 #include <vector>
 #include <unordered_map>
+#include <algorithm>
 
 using namespace std; 
 
@@ -34,13 +35,21 @@ bool isMajorityElement(vector<int>& nums, int target) {
     return false; 
 }
 
+// Time: O(logN) --> Binary Search
+// Space: O(1)
+bool isMajorityElement2(vector<int>& nums, int target) {
+    // upper_bound find index for the last occurrence + 1 of target
+    // lower_bound find index for the first occurrence of target
+    return upper_bound(begin(nums), end(nums), target) - lower_bound(begin(nums), end(nums), target) > nums.size() / 2; 
+}
+
 int main() {
     // return 0
     vector<int> nums = {10,100,101,101}; 
-    cout << isMajorityElement(nums, 101) << endl;
+    cout << isMajorityElement2(nums, 101) << endl;
 
     // return 1
     vector<int> nums2 = {2,4,5,5,5,5,5,6,6}; 
-    cout << isMajorityElement(nums2, 5) << endl;
+    cout << isMajorityElement2(nums2, 5) << endl;
     return 0; 
 }

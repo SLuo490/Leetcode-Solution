@@ -45,11 +45,38 @@ bool canPlaceFlowers(vector<int>& flowerbed, int n) {
     return res >= n; 
 }
 
+bool canPlaceFlowers2 (vector<int>& flowerbed, int n) {
+    int res = 0, next = 0, prev = 0; 
+    for (int i = 0; i < flowerbed.size(); i++) {
+        if (flowerbed[i] == 0) {
+            // if i is the first element and is 0, make prev to 0 else prev to previous element 
+            prev = (i == 0) ? 0 : flowerbed[i - 1];            
+
+            // if i is the last element and is 0, make next to 0 else next to next element
+            next = (i == flowerbed.size() - 1) ? 0 : flowerbed[i + 1];
+
+            // if both next and prev are 0 then decrement n and set the element to 1
+            if (next == 0 && prev == 0) {
+                res++; 
+                flowerbed[i] = 1; 
+
+                // end loop if res is greater than and equal to n
+                if (res >= n) return true; 
+            }
+        }
+    }
+    return res >= n; 
+}
+
 
 int main() {
     vector<int> flowerbed = {0,0,0,0,1};
     int n = 1;
     cout << canPlaceFlowers(flowerbed, n) << endl;
+
+    vector<int> flowerbed2 = {1,0,0,0,1};
+    int n2 = 2;
+    cout << canPlaceFlowers2(flowerbed2, n2) << endl;
 
     return 0; 
 }

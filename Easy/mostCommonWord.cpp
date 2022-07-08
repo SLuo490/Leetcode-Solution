@@ -25,18 +25,18 @@ Output: "a"
 
 using namespace std; 
 
+// Time: O(N + M + K) N is the length of paragraph, M is the length of banned, K is the length of the most common word
+// Space: O(M + K) M and N is the set of banned words 
 string mostCommonWord(string paragraph, vector<string>& banned) {
-    unordered_map<string, int> wordFreq; 
-    unordered_map<string, int> bannedWords; 
-
-    for (string word : banned) {
-        bannedWords[word]++;
-    }
-
     string currWord = ""; 
     int maxOccurr = 0; 
+    unordered_map<string, int> wordFreq; 
     set<char> skipChar = {' ', '!', '?', '.', ',', '\'', '\"', ';'};
+    set<string> bannedWords; 
     
+    // keep track of the banned words using a set 
+    for (string word : banned) bannedWords.insert(word);
+
     for (int i = 0; i <= paragraph.length(); i++) {
         char currChar = tolower(paragraph[i]);
 

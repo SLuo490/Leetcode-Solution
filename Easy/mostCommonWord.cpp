@@ -17,11 +17,7 @@ Input: paragraph = "a.", banned = []
 Output: "a"
 */
 
-#include <iostream>
-#include <string> 
-#include <vector>
-#include <set>
-#include <unordered_map>
+#include<bits/stdc++.h> 
 
 using namespace std; 
 
@@ -71,10 +67,32 @@ string mostCommonWord(string paragraph, vector<string>& banned) {
     return ans; 
 }
 
+string mostCommonWord2(string p, vector<string>& banned) {
+    unordered_set<string> ban(banned.begin(), banned.end()); 
+    unordered_map<string, int> count; 
+    
+    // update the characters in paragraph
+    // if character is an alphabet, make it lower case, else make it a space
+    for (auto& ch : p) ch = isalpha(ch) ? tolower(ch) : ' ';
+    
+    istringstream iss(p); 
+    string word; 
+    pair<string, int> res("", 0); 
+
+    // traverse the words in p 
+    while (iss >> word) {
+        // if word is not in ban and the counter of word is greater than the current max, update the max of current word
+        if (ban.find(word) == ban.end() && ++count[word] > res.second) {
+            res = make_pair(word, count[word]);
+        }
+    }
+    return res.first;
+}
+
 int main() {
     string paragraph = "Bob hit a ball, the hit BALL flew far after it was hit.";
     vector<string> banned = {"hit"};
-    cout << mostCommonWord(paragraph, banned) << endl;
+    cout << mostCommonWord2(paragraph, banned) << endl;
 
     string paragraph2 = "a.";
     vector<string> banned2 = {};

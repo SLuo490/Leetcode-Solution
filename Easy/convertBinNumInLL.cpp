@@ -34,12 +34,19 @@ int main() {
     ListNode* head = new ListNode(1);
     head->next = new ListNode(0);
     head->next->next = new ListNode(1);
-    cout << getDecimalValue2(head);
+    cout << getDecimalValue(head);
 
     cout << endl;
 
     ListNode* head2 = new ListNode(0);
     cout << getDecimalValue(head2);
+
+    cout << endl; 
+
+    ListNode* head = new ListNode(1);
+    head->next = new ListNode(0);
+    head->next->next = new ListNode(1);
+    cout << getDecimalValue(head);
 
     return 0; 
 }

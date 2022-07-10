@@ -21,6 +21,15 @@ int getDecimalValue(ListNode* head) {
     return sum;
 }
 
+int getDecimalValue2(ListNode* head) {
+    int num = head->val; 
+    while (head->next != NULL) {
+        num = (num << 1) + head->next->val;
+        head = head->next;
+    }
+    return num;
+}
+
 int main() {
     ListNode* head = new ListNode(1);
     head->next = new ListNode(0);
@@ -31,6 +40,13 @@ int main() {
 
     ListNode* head2 = new ListNode(0);
     cout << getDecimalValue(head2);
+
+    cout << endl; 
+
+    ListNode* head = new ListNode(1);
+    head->next = new ListNode(0);
+    head->next->next = new ListNode(1);
+    cout << getDecimalValue(head);
 
     return 0; 
 }

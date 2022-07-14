@@ -19,6 +19,21 @@ vector<int> fairCandySwap(vector<int>& A, vector<int>& B) {
     return {}; 
 }
 
+vector<int> fairCandySwap2(vector<int>& A, vector<int>& B) {
+    // calculate the difference between the sum of A and B
+    int diff = (accumulate(A.begin(), A.end(), 0) - accumulate(B.begin(), B.end(), 0)) / 2;
+
+    // initialize a set to check if Alice has the desired candy 
+    set<int> s (begin(A), end(A)); 
+    
+    for (int b : B) {
+        if (s.count(b + diff)) {
+            return {b + diff, b}; 
+        }
+    }
+    return {}; 
+}
+
 /*
     A: [1,2,5]
     B: [2,4]
@@ -43,6 +58,11 @@ int main() {
     vector<int> A = {1, 2, 5}, B = {2, 4};
     vector<int> res = fairCandySwap(A, B);
     for (int i : res) cout << i << " ";
+    cout << endl;
+
+    vector<int> A2 = {1, 2, 5}, B2 = {2, 4};
+    vector<int> res2 = fairCandySwap2(A2, B2);
+    for (int i : res2) cout << i << " ";
     cout << endl;
     return 0;
 }

@@ -36,4 +36,30 @@ public:
         }
         return res; 
     }
+
+
+    // Time: O(n)
+    // Space: O(N);
+    vector<int> topKFrequent2(vector<int>& nums, int k) {
+        int n = nums.size(); 
+        unordered_map<int,int> mp; 
+        for (int num : nums) mp[num]++;
+
+        vector<vector<int>> buckets(n + 1); 
+        for (auto [a, b] : mp) {
+            buckets[b].push_back(a); 
+        }
+
+        vector<int> res; 
+        for (int i = n; i >= 0; i--) {
+            if (res.size() >= k) {
+                break; 
+            }
+
+            if (!bucket[i].empty()) {
+                res.insert(res.end(), bucket[i].begin(), bucket[i].end());
+            }
+        }
+        return res; 
+    }
 };

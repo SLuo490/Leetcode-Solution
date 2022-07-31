@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std; 
 
+// Time: O(N)
+// Space: O(N)
 vector<int> productExceptSelf(vector<int>& nums) {
     // initialize prefix and postfix arrays
     int n = nums.size(); 

@@ -3,6 +3,25 @@
 
 using namespace std; 
 
+// Cleaner code 
+bool isValidSudoku2(vector<vector<char>>& board) {
+    int rows[9][9] = {0}; 
+    int cols[9][9] = {0}; 
+    int blocks[3][3][9] = {0}; 
+
+    for (int r = 0; r < 9; r++) {
+        for (int c = 0; c < 9; c++) {
+            if (board[r][c] != '.') {
+                int num = board[r][c] -'1'; 
+                if (rows[r][num]++) return false; 
+                if (cols[c][num]++) return false; 
+                if (blocks[r/3][c/3][num]++) return false; 
+            }
+        }
+    }
+    return true; 
+}
+
 bool isValidRow(vector<vector<char>>& board); 
 bool isValidCol(vector<vector<char>>& board); 
 bool isValidSquare(vector<vector<char>>& board); 
@@ -60,7 +79,6 @@ bool isValidCol (vector<vector<char>>& board) {
 // function to check all 3x3 squares in board
 bool isValidSquare(vector<vector<char>>& board) {
     for (int row = 0; row < board.size(); row+=3) {
-        // traverse to 3
         for (int col = 0; col < board.size(); col+=3) {
             set<char> seen; 
             for (int rowx = row; rowx < row + 3; rowx++) {
@@ -109,7 +127,7 @@ int main() {
             {'.','.','4','.','.','.','.','.','.'}
         }; 
 
-    bool res = isValidSudoku(board2); 
+    bool res = isValidSudoku2(board2); 
 
     if (res == true) {
         cout << "True" << endl; 

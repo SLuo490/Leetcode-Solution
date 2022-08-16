@@ -24,7 +24,9 @@ public:
         int profit = 0;
         
         for (int i = 1; i < prices.size(); i++) {
+            // find the smallest price
             smallest = min(smallest, prices[i]);
+            // at each iteration, find the max price by calculating the current price - smallest price
             profit = max(profit, (prices[i] - smallest));
         }
         return profit;

@@ -30,22 +30,42 @@ There are two valid splits in nums:
 
 class Solution {
 public:
-    int waysToSplitArray(vector<int>& nums) {
-        vector<long> prefix; 
-        prefix.push_back(nums[0]); 
-        
-        for (int i = 1; i < nums.size(); i++) {
-            prefix.push_back(prefix.back() + nums[i]); 
-        }
-        
-        int res = 0; 
-        for (int i = 0; i < prefix.size() - 1; i++) {
-            if (prefix[i] >= (prefix.back() - prefix[i])) {
-                res++; 
-            }
-        }
-        return res; 
+  // using prefix sum
+  int waysToSplitArray(vector<int>& nums) {
+    vector<long> prefix; 
+    prefix.push_back(nums[0]); 
+    
+    for (int i = 1; i < nums.size(); i++) {
+        prefix.push_back(prefix.back() + nums[i]); 
     }
+    
+    int res = 0; 
+    for (int i = 0; i < prefix.size() - 1; i++) {
+        if (prefix[i] >= (prefix.back() - prefix[i])) {
+            res++; 
+        }
+    }
+    return res; 
+  }
+
+  // don't calculate the prefix sum as we go
+  int waysToSplitArray2(vector<int>& nums) {
+    long total = 0; 
+    long left = 0; 
+    int res = 0; 
+
+    for (int num : nums) total += num;  
+
+    for (int i = 0; i < nums.size(); i++) {
+      left += nums[i]; 
+      long right = total - left; 
+
+      if (left >= right) {
+        res++; 
+      }
+    }
+    return res; 
+  }
 };
 
 /*

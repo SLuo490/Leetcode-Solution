@@ -36,6 +36,18 @@ public:
       
       return numSeg == 1; 
   }
+
+  // Check for '01' in the string s as the first character is always a 1
+  // Time: O(N)
+  // Space: O(1)
+  bool checkOnesSegment(string s) {
+      for (int i = 1; i < s.length(); i++) {
+          if (s[i - 1] == '0' && s[i] == '1') {
+              return false; 
+          }
+      }
+      return true; 
+  }
 };
 
 int main()

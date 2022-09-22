@@ -74,6 +74,5 @@ int main() {
         {'-','-','-','0','0'}
     };
     cout << isValidPath(grid) << endl;
-
     return 0; 
 }

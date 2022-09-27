@@ -42,28 +42,43 @@ All 3 columns are not sorted, so you will delete all 3.
 
 class Solution {
 public:
-    int minDeletionSize(vector<string>& strs) {
-        int res = 0; 
-        for (int i = 0; i < strs[0].length(); i++) {
-            string checkSorted = ""; 
-            for (int j = 0; j < strs.size(); j++) {
-                checkSorted += strs[j][i]; 
-            }
-            if (!isSorted(checkSorted)) res++; 
+  // Slow Solution
+  int minDeletionSize(vector<string>& strs) {
+    int res = 0; 
+    for (int i = 0; i < strs[0].length(); i++) {
+        string checkSorted = ""; 
+        for (int j = 0; j < strs.size(); j++) {
+            checkSorted += strs[j][i]; 
         }
-        return res; 
+        if (!isSorted(checkSorted)) res++; 
     }
-    
-    bool isSorted(string checkSorted) {
-        for (int i = 0; i < checkSorted.size(); i++) {
-            for (int j = i + 1; j < checkSorted.size(); j++) {
-                if (checkSorted[i] > checkSorted[j]) {
-                    return false; 
-                }
+    return res; 
+  }
+  
+  bool isSorted(string checkSorted) {
+    for (int i = 0; i < checkSorted.size(); i++) {
+        for (int j = i + 1; j < checkSorted.size(); j++) {
+            if (checkSorted[i] > checkSorted[j]) {
+                return false; 
             }
         }
-        return true; 
     }
+    return true; 
+  }
+
+  // Faster Solution
+  int minDeletionSize(vector<string>& strs) {
+    int res = 0; 
+    for (int col = 0; col < strs[0].size(); col++) {
+        for (int row = 1; row < strs.size(); row++) {
+            if (strs[row - 1][col] > strs[row][col]) {
+                res++; 
+                break; 
+            }
+        }
+    }
+    return res; 
+  }
 };
 
 /*

@@ -27,25 +27,36 @@ Explanation: The large groups are "ddd", "eeee", and "bbb".
 
 class Solution {
 public:
-    // sliding window approach
-    vector<vector<int>> largeGroupPositions(string s) { 
-        vector<vector<int>> res; 
-        int windowStart = 0; 
-        int counter = 1; 
-        for (int windowEnd = 1; windowEnd < s.length(); windowEnd++) {
-            if (s[windowEnd - 1] != s[windowEnd]) {
-                windowStart = windowEnd; 
-                counter = 1; 
-            } else {
-                counter++; 
-            }
-            // cout << windowStart << " " << windowEnd << " " << counter << endl;  
-            if (counter >= 3 && s[windowEnd + 1] != s[windowEnd]) {
-                res.push_back({windowStart, windowEnd}); 
-            }
-        }
-        return res; 
-    }
+  // sliding window approach
+  vector<vector<int>> largeGroupPositions(string s) { 
+      vector<vector<int>> res; 
+      int windowStart = 0; 
+      int counter = 1; 
+      for (int windowEnd = 1; windowEnd < s.length(); windowEnd++) {
+          if (s[windowEnd - 1] != s[windowEnd]) {
+              windowStart = windowEnd; 
+              counter = 1; 
+          } else {
+              counter++; 
+          }
+          // cout << windowStart << " " << windowEnd << " " << counter << endl;  
+          if (counter >= 3 && s[windowEnd + 1] != s[windowEnd]) {
+              res.push_back({windowStart, windowEnd}); 
+          }
+      }
+      return res; 
+  }
+  
+  // cleaner solution 
+  vector<vector<int>> largeGroupPositions(string s) { 
+    vector<vector<int>> res; 
+    for (int i = 0, j = 0; i < s.length(); i = j) {
+      while (j < s.length() && s[j] == s[i]) j++; 
+      if (j - i >= 3) {
+        res.push_back({i, j - 1}); 
+      }
+    }    
+    return res; 
 };
 
 int main()

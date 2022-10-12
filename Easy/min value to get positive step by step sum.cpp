@@ -26,6 +26,7 @@ Explanation: Minimum start value should be positive.
 
 class Solution {
 public:
+    // Brute Force
     int minStartValue(vector<int>& nums) {
         int startVal = 1; 
         
@@ -51,6 +52,36 @@ public:
             }
         }
         return -1; 
+    }
+
+    // binary search method
+    int minStartValue(vector<int>& nums) {
+        int n = nums.size(); 
+        int m = 100; 
+        
+        int left = 1, right = n * m + 1; 
+        
+        while (left < right) {
+            int middle = left + (right - left) / 2; 
+            int total = middle; 
+            bool valid = true; 
+            
+            for (int num : nums) {
+                total += num; 
+                
+                if (total < 1) {
+                    valid = false; 
+                    break; 
+                }
+            }
+            
+            if (valid) {
+                right = middle; 
+            } else {
+                left = middle + 1; 
+            }
+        }
+        return left; 
     }
 };
 

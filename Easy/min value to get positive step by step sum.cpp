@@ -83,6 +83,17 @@ public:
         }
         return left; 
     }
+
+    // prefix total, most optimzal
+    int minStartValue(vector<int>& nums) {
+        int total = 0, minVal = 0; 
+        
+        for (int num : nums) {
+            total += num; 
+            minVal = min(minVal, total); 
+        }
+        return -minVal + 1; 
+    }
 };
 
 int main()
